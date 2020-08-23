@@ -6,10 +6,10 @@ permalink: /bmvc
 
 ## The British Machine Vision Conference (BMVC)
 
-[BMVC 2020](http://www.bmvc2020.com/) will be held on 7th — 11th September 2020. Please see the main conference site at: [http://www.bmvc2020.com/](http://www.bmvc2020.com/).
+[BMVC 2020](http://www.bmvc2020.com/) will be held virtually as an online conference on 7th — 10th September 2020. Please see the main conference site at: [http://www.bmvc2020.com/](http://www.bmvc2020.com/).
 
 <p style="pb-2">
-<a href="http://www.bmvc2020.com/"><img src="{{ site.baseurl }}/assets/images/events/bmvc2020.png" class="img-fluid rounded mx-auto d-block" style="max-width: 450px;" alt="BMVC 2020 Logo"></a>
+<a href="http://www.bmvc2020.com/"><img src="{{ site.baseurl }}/assets/images/events/bmvc-virtual-2020-logo.png" class="img-fluid rounded mx-auto d-block" style="max-width: 450px;" alt="BMVC 2020 Logo"></a>
 </p>
 
 
@@ -82,18 +82,12 @@ permalink: /bmvc
 
 -->
 
+<!--
+
 ### FAQ
 
 <div class="row pl-4 pr-4 pt-2 pb-2">
 <table class="table table-striped table-bordered">
-  <!--<thead>
-    <tr>
-      <th scope="col">#</th>
-      <th scope="col">First</th>
-      <th scope="col">Last</th>
-      <th scope="col">Handle</th>
-    </tr>
-  </thead>-->
   <tbody>
     <tr><th scope="row">Is BMVC 2020 still on?</th></tr>
     <tr><td>Yes. BMVC is in mid September and we can expect a lot of news between now and then.</td></tr>
@@ -109,9 +103,6 @@ permalink: /bmvc
 
     <tr><th scope="row">Will there be support for remote attendance/registration?</th></tr>
     <tr><td>Remote attendance options are currently being explored and updates will be posted on the website when we have them.</td></tr>
-
-    <!--<tr><th scope="row">What is the refund policy if people cannot attend?</th></tr>
-    <tr><td>More information will be available once conference registration is open.</td></tr>-->
 
   </tbody>
 </table>
@@ -169,7 +160,7 @@ The BMVC 2020 Programme Chairs are:
 
 A PDF version of this call for papers may be downloaded [here]({{ site.baseurl }}/assets/events/bmvc2020cfp.pdf).
 
-
+-->
 
 
 ### Proposals to Host a Future BMVC
