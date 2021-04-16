@@ -6,11 +6,11 @@ permalink: /bmvc
 
 ## The British Machine Vision Conference (BMVC)
 
-<div class="alert mt-3 alert-secondary" style="text-align:center;">
+<div class="alert mt-3 alert-info" style="text-align:center;">
 <h2>BMVC and September Event Announcement</h2>
 
 <p><strong>
-    We thank the community for their patience this year as we continue to negotiate this difficult time and the uncertainty over organising events. We have made the decision that it will not be possible to hold an in-person conference with the international attendance that BMVC is fortunate to attract. For this reason, BMVC 2021 will be held as a virtual conference with a slightly delayed timeline as presented below.
+    We thank the community for their patience this year as we continue to negotiate this difficult time and the uncertainty over organising events. We have made the difficult decision that it will not be possible to hold an in-person conference with the international attendance that BMVC is fortunate to attract. For this reason, BMVC 2021 will be held as a virtual conference with a slightly delayed timeline as presented below.
 </strong></p>
 
 <p><strong>

@@ -10,7 +10,7 @@ image: 21-09-06-september-event.png
 organisers: Neill Campbell
 ---
 
-<div class="alert mt-3 alert-secondary" style="text-align:center;">
+<div class="alert mt-3 alert-info" style="text-align:center;">
 <h2>Announcement</h2>
 
 <p><strong>
