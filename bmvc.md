@@ -6,11 +6,71 @@ permalink: /bmvc
 
 ## The British Machine Vision Conference (BMVC)
 
-[BMVC 2020](http://www.bmvc2020.com/) will be held virtually as an online conference on 7th — 10th September 2020. Please see the main conference site at: [http://www.bmvc2020.com/](http://www.bmvc2020.com/).
+<div class="alert mt-3 alert-secondary" style="text-align:center;">
+<h2>BMVC and September Event Announcement</h2>
+
+<p><strong>
+    We thank the community for their patience this year as we continue to negotiate this difficult time and the uncertainty over organising events. We have made the decision that it will not be possible to hold an in-person conference with the international attendance that BMVC is fortunate to attract. For this reason, BMVC 2021 will be held as a virtual conference with a slightly delayed timeline as presented below.
+</strong></p>
+
+<p><strong>
+    We are also excited to announce that we will be making use of the September booking in Manchester to host a "BMVA September Event" which will be an in-person meeting open to all computer vision researchers. We take inspiration from our technical meetings and the recent successes of community events such as "unconferences". Please see <a href="{{ site.baseurl }}/meetings/21-09-06-september-event">BMVA September Event</a> for further details.
+</strong></p>
+
+</div>
+
+### BMVC 2021
+
+[BMVC 2021](http://www.bmvc2021.com/) will be held virtually as an online conference on 22nd — 25th November 2021. The main conference website will appear shortly including a full timeline and submission details for authors.
+
+<!--Please see the main conference site at: [http://www.bmvc2020.com/](http://www.bmvc2020.com/).-->
 
 <p style="pb-2">
-<a href="http://www.bmvc2020.com/"><img src="{{ site.baseurl }}/assets/images/events/bmvc-virtual-2020-logo.png" class="img-fluid rounded mx-auto d-block" style="max-width: 450px;" alt="BMVC 2020 Logo"></a>
+<a href="http://www.bmvc2021.com/"><img src="{{ site.baseurl }}/assets/images/events/bmvc-2021-logo.png" class="img-fluid rounded mx-auto d-block" style="max-width: 450px;" alt="BMVC 2021 Logo"></a>
 </p>
+
+### Programme Committee
+
+We are very pleased to announce the kind volunteers who will run the programme committee for BMVC 2021:
+Tu Bui,
+Karteek Alahari,
+Stuart James,
+Stefan Leutenegger,
+Laura Sevilla, and
+Yi-Zhe Song.
+
+### Timeline
+
+<!--<p align="center"><strong>Please note all deadlines are at 23:59 PT.</strong></p>-->
+
+<div class="row pl-4 pr-4 pt-2 pb-2">
+<table style="width:100%;" class="table">
+<colgroup>
+<col width="30%" />
+<col width="30%" />
+</colgroup>
+<thead class="thead-dark">
+<tr class="header sticky-top" style="top: 56px;">
+<th scope="col" align="center">Deadline</th>
+<th scope="col" align="center">Date</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even">
+<td align="left">Paper Abstracts</td>
+<td align="left">Friday 18th June</td>
+</tr>
+<tr class="odd">
+<td align="left">Paper Submission</td>
+<td align="left">Friday 25th June</td>
+</tr>
+<tr class="odd">
+<td align="left">Conference</td>
+<td align="left">22nd - 25th November</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 
 <!--background-color: #0000006F; "-->
@@ -177,6 +237,7 @@ The BMVC proceedings style files are available on [GitHub](https://github.com/Br
 The online proceedings for past conferences are available:
 
 <ul>
+<li><a href="https://www.bmvc2020-conference.com/">BMVC 2020</a>, (Virtual)</li>    
 <li><a href="https://bmvc2019.org/">BMVC 2019</a>, Cardiff</li>
 <li><a href="http://www.bmva.org/bmvc/2018/index.html">BMVC 2018</a>, Northumbria</li>
 <li><a href="http://www.bmva.org/bmvc/2017/index.html">BMVC 2017</a>, London</li>

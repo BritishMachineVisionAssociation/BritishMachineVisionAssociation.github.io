@@ -1,5 +1,23 @@
 # Events
 
+- type: BMVC Conference
+  title: Virtual BMVC 2021
+  date: 2021-11-22
+  image: bmvc-2021-logo-small.png
+  link: /bmvc
+
+- type: Deadline
+  title: BMVC 2021 Abstract Deadline
+  date: 2021-06-18
+  image: bmvc-2021-logo-small.png
+  link: /bmvc
+
+- type: Deadline
+  title: BMVC 2021 Paper Deadline
+  date: 2021-06-25
+  image: bmvc-2021-logo-small.png
+  link: /bmvc
+
 - type: Conference
   title: BMVC 2019 in Cardiff
   date: 2019-09-09
