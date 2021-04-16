@@ -1,7 +1,7 @@
 ---
 layout: special-event
 type: BMVA September Event
-title: BMVA September Event (20 February 2019)
+title: BMVA September Event (6-8 Sept 2021)
 index: 0
 date: 2021-09-06
 dates: Manchester, 6th - 8th September 2021
