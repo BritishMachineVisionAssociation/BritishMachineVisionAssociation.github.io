@@ -6,10 +6,10 @@ permalink: /miua
 
 ## Medical Image Understanding and Analysis Conference (MIUA)
 
-[MIUA 2019](https://miua2019.com/) will be held in Liverpool on 24th — 26th July 2019.
+[MIUA 2021](https://miua2021.com/) will be a virtual meeting (hosted in Oxford) on 12th — 14th July 2021.
 
 <p style="pb-2">
-<a href="https://miua2019.com/"><img src="{{ site.baseurl }}/assets/images/events/miua2019.png" class="img-fluid rounded mx-auto d-block" style="max-width: 200px;" alt="MIUA 2019 Logo"></a>
+<a href="https://miua2021.com/"><img src="{{ site.baseurl }}/assets/images/events/MIUA2021_logo.jpg" class="img-fluid rounded mx-auto d-block" style="max-width: 200px;" alt="MIUA 2021 Logo"></a>
 </p>
 
 Medical image analysis is considered an important application area for our community. The MIUA conference is underwritten by the BMVA and often supports conference bursaries. It is coordinated by the MIUA Steering Committee, a group of previous MIUA conference chairs, who select future venues via an annual bidding process. The conference is organised to a tight financial model in order to minimise the cost to attendees and thereby maximise attendance (particularly of PhD students).

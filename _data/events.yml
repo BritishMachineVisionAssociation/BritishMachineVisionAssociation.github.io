@@ -1,5 +1,11 @@
 # Events
 
+- type: MIUA Conference
+  title: MIUA 2021 in Oxford
+  date: 2021-07-12
+  image: MIUA2021_logo.jpg
+  link: https://miua2021.com
+
 - type: BMVC Conference
   title: Virtual BMVC 2021
   date: 2021-11-22
