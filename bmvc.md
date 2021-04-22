@@ -45,6 +45,8 @@ Stefan Leutenegger,
 Laura Sevilla, and
 Yi-Zhe Song.
 
+To contact the programme committee, please use the email address: <a href="mailto:bmvc2021_pcs@googlegroups.com">bmvc2021_pcs@googlegroups.com</a>.
+
 ### Timeline
 
 <!--<p align="center"><strong>Please note all deadlines are at 23:59 PT.</strong></p>-->
