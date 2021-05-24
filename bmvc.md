@@ -21,17 +21,23 @@ permalink: /bmvc
 
 ### BMVC 2021
 
-[BMVC 2021](http://www.bmvc2021.com/) will be held virtually as an online conference on 22nd — 25th November 2021. The main conference website will appear shortly including a full timeline and submission details for authors.
+[BMVC 2021](https://www.bmvc2021.com/) will be held virtually as an online conference on 22nd — 25th November 2021. The main conference website will appear shortly including a full timeline and submission details for authors.
 
-<!--Please see the main conference site at: [http://www.bmvc2020.com/](http://www.bmvc2020.com/).-->
+Please see the main conference site at: [https://www.bmvc2021.com/](https://www.bmvc2021.com/).
 
 <div class="row justify-content-md-center pb-2 ml-3 mr-3">
     <div class="col-12 col-md-8 col-lg-6">
-        <a href="http://www.bmvc2021.com/">
+        <a href="https://www.bmvc2021.com/">
             <picture>
                 <img src="{{ site.baseurl }}/assets/images/events/bmvc-2021-logo.png" class="img-fluid rounded mx-auto d-block"  alt="BMVC 2021 Logo">
             </picture>
         </a>
+    </div>
+</div>
+
+<div class="row no-gutters pt-3 d-xs-block {%comment%}d-xl-none{%endcomment%}">
+    <div class="mb-1 pl-2 pr-2 mx-auto mx-sm-left col-xs-auto">
+        <p style="text-align: center;"><a class="btn btn-info" role="button" href="https://www.bmvc2021.com">Go to the main BMVC2021 site!</a></p>
     </div>
 </div>
 

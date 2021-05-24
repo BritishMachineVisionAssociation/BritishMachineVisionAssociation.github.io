@@ -2,6 +2,7 @@
 layout: default_sparse
 title: "BMVC 2021 Call for Papers"
 permalink: /bmvc/bmvc2021_call_for_papers
+redirect_to: "https://www.bmvc2021.com/authors/call-for-papers/"
 ---
 
 <div class="row justify-content-md-center pb-2 ml-3 mr-3">
