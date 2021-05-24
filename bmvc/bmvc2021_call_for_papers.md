@@ -1,7 +1,7 @@
 ---
 layout: default_sparse
 title: "BMVC 2021 Call for Papers"
-permalink: /bmvc/bmvc2021_call_for_papers
+permalink: /bmvc/bmvc2021_call_for_papers/
 redirect_to: "https://www.bmvc2021.com/authors/call-for-papers/"
 ---
 
