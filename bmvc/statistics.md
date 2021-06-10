@@ -620,6 +620,32 @@ Note that the above two may sum to more than 100%.  "~" entries are computed as 
 </tr>
 </thead>
 <tbody>
+
+<!--<tr class="odd">
+<td align="right">2021</td>
+<td align="left">(Virtual)</td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>-->
+<tr class="even">
+<td align="right">2020</td>
+<td align="left">(Virtual)</td>
+<td align="left">S Fidler, A Davison, K Saenko, L Leal-Taixé</td>
+<td align="left"></td>
+</tr>
+<tr class="odd">
+<td align="right">2019</td>
+<td align="left">Cardiff</td>
+<td align="left">A Hilton, C Schmid, A Torralba</td>
+<td align="left">M Valstar, J Collomosse, O Chum, M Bober</td>
+</tr>
+<tr class="even">
+<td align="right">2018</td>
+<td align="left">Northumbria</td>
+<td align="left">S Gong, S Dickinson, R Chellappa</td>
+<td align="left">V Ferrari, I Laptev, A Gupta, Z Akata</td>
+</tr>
+
 <tr class="odd">
 <td align="right">2017</td>
 <td align="left">Imperial, London</td>
@@ -635,13 +661,13 @@ Note that the above two may sum to more than 100%.  "~" entries are computed as 
 <tr class="odd">
 <td align="right">2015</td>
 <td align="left">Swansea</td>
-<td align="left">Ron Kimmel, Kristen Grauman</td>
+<td align="left">R Kimmel, K Grauman</td>
 <td align="left">A Fitzgibbon</td>
 </tr>
 <tr class="even">
 <td align="right">2014</td>
 <td align="left">Nottingham</td>
-<td align="left">Fei-Fei Li, Luc van Gool</td>
+<td align="left">F-F L, Luc van Gool</td>
 <td align="left">A Vedaldi</td>
 </tr>
 <tr class="odd">
