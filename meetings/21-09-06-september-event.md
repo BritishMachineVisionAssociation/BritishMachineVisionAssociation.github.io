@@ -88,7 +88,7 @@ During the registration process there will be the option to indicate if you woul
     <div class="container-fluid pb-3">
         <div class="card p-1" style="background: #FFFFFF"> <!--F8F7FA-->
             <div class="card-body mx-auto">
-              Please register using the Eventbrite link below:
+              Please register using the Eventbrite link below (please scroll within the frame for all options and questions):
             </div>
             <div id="eventbrite-widget-container-159841505245"></div>
         </div>
@@ -116,18 +116,18 @@ During the registration process there will be the option to indicate if you woul
       }
     }
 
-    var height_to_use = 650; /*400*/
+    var height_to_use = 850; /*400*/
 
     if (getWidth() < 1000) {
-        height_to_use = 650;
+        height_to_use = 850;
     }
 
     if (getWidth() < 800) {
-        height_to_use = 700;
+        height_to_use = 900;
     }
 
     if (getWidth() < 550) {
-        height_to_use = 710;
+        height_to_use = 910;
     }
 
     window.EBWidgets.createWidget({
