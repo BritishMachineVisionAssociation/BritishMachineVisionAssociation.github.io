@@ -54,7 +54,7 @@ We welcome both suggestions for additional items for the timetable and volunteer
 
 <div class="alert mt-3 alert-warning" style="text-align:center;">
 <span><strong>Please get in contact with suggestions or to volunteer: &nbsp;&nbsp;
-<a class="btn btn-warning" role="button" href="mailto:chair@bmva.org">Contact the Organisers!</a></strong></span>
+<a class="btn btn-warning" role="button" href="mailto:bmva-september-event@googlegroups.com">Contact the Organisers!</a></strong></span>
 </div>
 
 ## Attending
