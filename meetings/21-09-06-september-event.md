@@ -116,9 +116,8 @@ During the registration process there will be the option to indicate if you woul
       }
     }
 
-    var height_to_use = 400;
+    var height_to_use = 650; /*400*/
 
-    /*
     if (getWidth() < 1000) {
         height_to_use = 650;
     }
@@ -130,7 +129,6 @@ During the registration process there will be the option to indicate if you woul
     if (getWidth() < 550) {
         height_to_use = 710;
     }
-    */
 
     window.EBWidgets.createWidget({
         // Required
