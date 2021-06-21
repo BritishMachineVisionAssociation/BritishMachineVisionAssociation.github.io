@@ -57,6 +57,14 @@ We welcome both suggestions for additional items for the timetable and volunteer
 <a class="btn btn-warning" role="button" href="mailto:bmva-september-event@googlegroups.com">Contact the Organisers!</a></strong></span>
 </div>
 
+
+### Sponsorship
+
+We have combined sponsorship opportunities with the [BMVC 2021](https://www.bmvc2021.com/sponsorship/) virtual conference. 
+Opens include hosting stands at the event and organising activities for attendees.
+Please get in contact with [Martin Fergie](mailto:martin.fergie@manchester.ac.uk) for more details.
+
+
 ## Attending
 
 <!--
