@@ -1,29 +1,37 @@
 ---
 layout: special-event
-type: BMVA September Event
-title: BMVA September Event (6-8 Sept 2021)
+type: BMVA April Event
+title: BMVA April Event (4-6 April 2022)
 index: 0
-date: 2021-09-06
-dates: Manchester, 6th - 8th September 2021
-meeting-title: BMVA September Event
+date: 2022-04-04
+dates: Manchester, 4th - 6th April 2022
+meeting-title: BMVA <strike>September</strike> April Event
 image: 21-09-06-september-event.png
 organisers: Neill Campbell
 ---
 
 <div class="alert mt-3 alert-success" style="text-align:center;">
-    <span><strong>Registration is open!
+    <span><strong>Registration opening soon!
         &nbsp;&nbsp;
-        <a class="btn btn-success" role="button" href="#attending">Go to Registration</a>
+        <a class="btn btn-secondary" role="button" href="#attending">Go to Registration</a>
         &nbsp;&nbsp;
         <a class="btn btn-success" role="button" href="#accommodation">Accommodation Information</a>
     </strong></span>
 </div>
 
-<div class="alert mt-3 alert-info">
-<h2 style="text-align:center;">Announcement</h2>
+<div class="alert mt-3 alert-danger">
+<h2 style="text-align:center;">Announcement: Event Postponed to April 2022</h2>
+<p>
+    We regret to announce that we have had to reschedule the BMVA Event to April 2022 after consultation between the BMVA, the event venue and the team in Manchester. Sadly, although government restrictions have been relaxed, modelling suggests that there will still be a high infection rate in September which discourages large indoor gatherings. We have also been contacted by a number of researchers that have advised us that their institutions (academic and industrial) are still currently only allowing essential travel. The safety of all participants and ensuring that as many as possible can attend is our primary focus.
+</p><p>
+    All the organisers are disappointed not to be able to meet in September and we understand the disappointment this will cause to those who were looking forward to attending - we offer our apologies for this and very much hope that everyone will be able to attend in April instead when all our current advice suggests that both gatherings and travel will be allowed again by the majority of institutions. 
+</p><p>
+    Anyone who booked through eventbrite will have their current booking automatically refunded and we will open registration for April as soon as possible. Please follow the BMVA twitter account for announcements regarding the event or <a href="mailto:bmva-september-event@googlegroups.com">contact the organisers</a> if you would like to be added to an email list for specific announcements.
+</p>
+</div>
 
 <p>
-    We are excited to announce that we will be hosting an in-person meeting in Manchester in September open to all computer vision researchers. 
+    We are excited to announce that we will be hosting an in-person meeting in Manchester in April open to all computer vision researchers. 
 
     After a difficult period of exclusively online events, our hope is that this will serve as a welcome opportunity for researchers from across academia and industry and all levels of seniority to meet to discuss research.
 
@@ -32,7 +40,7 @@ organisers: Neill Campbell
     Our intention is to keep the cost of attending as low as possible and to make sure there are no barriers from the whole computer vision community attending. All participants will receive space for a poster and there will be a variety of additional timetabled sessions. Please see below.
 </p>
 
-</div>
+
 
 ### Format
 
@@ -76,13 +84,15 @@ Our intention is to keep the cost of attending as low as possible and to make su
 -->
 
 <div class="alert mt-3 alert-info" style="">
-    <h3 style="text-align:center;">Registration is Open!</h3>
+    <h3 style="text-align:center;">Registration will be open soon..</h3>
+    <!--
     <span>Please read the following before <strong>registering using the Eventbrite link below</strong>.</span>
     <span>Places are available on a first-come, first-served basis so <strong>please book early!</strong></span>
     <span>Details about booking accommodation can be found <a href="#accommodation">below</a>.</span>
+    -->
 </div>
 
-We are really looking forward to the September Event and hope to see you there! As we all know, it has been a very difficult time for organising research events and we really hope that this in-person meeting will be a welcome opportunity for everyone to meet up and discuss research. As the circumstances are unusual, please make sure you read the following:
+We are really looking forward to the April Event and hope to see you there! As we all know, it has been a very difficult time for organising research events and we really hope that this in-person meeting will be a welcome opportunity for everyone to meet up and discuss research. As the circumstances are unusual, please make sure you read the following:
 
 - **Refunds:** In the (hopefully unlikely) event that we are unable to go ahead with the event we will be offering refunds on registrations. We will also offer refunds to participants if, due to changing circumstances, they feel uncomfortable attending an in-person event. We note that there will be no online equivalent if the event cannot be held in-person. 
 - **Places:** Places are allocated on a first-come-first-served basis however we reserve the right to place caps on the number of registrations from a single institution/organisation.
@@ -92,7 +102,7 @@ We are really looking forward to the September Event and hope to see you there! 
 
 During the registration process there will be the option to indicate if you would like to bring a poster to the event (abstract details provided shortly) and whether or not you would like to apply to present at the "missing orals" (see above). We are also canvassing demand for demos but we cannot guarantee that we will be able to accommodate this.
 
-<div class="row pt-3 pl-3 pr-3">
+<div class="row pt-3 pl-3 pr-3" style="display: none;">
     <div class="container-fluid pb-3">
         <div class="card p-1" style="background: #FFFFFF"> <!--F8F7FA-->
             <div class="card-body mx-auto">
