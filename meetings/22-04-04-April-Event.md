@@ -33,7 +33,7 @@ organisers: Neill Campbell, Andrew Gilbert
 <div class="alert mt-3 alert-danger">
 <h2 style="text-align:center;">Announcement: Event to go ahead: 4th-6th April 2022</h2>
 <p>
-    The BMVA is pleased to announce that the April special event will be subject to government guidelines. While the risk of covid has not gone away, postponing the event again was not possible, and our options were either to continue or cancel. As well as following all government guidelines, we will decide on any further covid-mitigation strategies (masks, LF testing etc.) nearer to the date. However, to begin with, we will be limiting the scale of the event to ensure that social distancing can be observed. The last two years have been hard for our community, and while virtual events have allowed our research to have an outlet, the networking and discussions that happen at in person events have been sorely missed.  
+    The BMVA is pleased to announce that the April special event will be going ahead as planned. While the risk of covid has not gone away, postponing the event again was not possible, and our options were either to continue or cancel. As well as following all government guidelines, we will decide on any further covid-mitigation strategies (masks, LF testing etc.) nearer to the date. However, to begin with, we will be limiting the scale of the event to ensure that social distancing can be observed. The last two years have been hard for our community, and while virtual events have allowed our research to have an outlet, the networking and discussions that happen at in person events have been sorely missed.  
 </p>
 </div>
 
