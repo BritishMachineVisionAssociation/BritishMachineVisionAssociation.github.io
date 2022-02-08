@@ -22,11 +22,7 @@ organisers: Neill Campbell
 <div class="alert mt-3 alert-danger">
 <h2 style="text-align:center;">Announcement: Event Postponed to April 2022</h2>
 <p>
-    We regret to announce that we have had to reschedule the BMVA Event to April 2022 after consultation between the BMVA, the event venue and the team in Manchester. Sadly, although government restrictions have been relaxed, modelling suggests that there will still be a high infection rate in September which discourages large indoor gatherings. We have also been contacted by a number of researchers that have advised us that their institutions (academic and industrial) are still currently only allowing essential travel. The safety of all participants and ensuring that as many as possible can attend is our primary focus.
-</p><p>
-    All the organisers are disappointed not to be able to meet in September and we understand the disappointment this will cause to those who were looking forward to attending - we offer our apologies for this and very much hope that everyone will be able to attend in April instead when all our current advice suggests that both gatherings and travel will be allowed again by the majority of institutions. 
-</p><p>
-    Anyone who booked through eventbrite will have their current booking automatically refunded and we will open registration for April as soon as possible. Please follow the BMVA twitter account for announcements regarding the event or <a href="mailto:bmva-september-event@googlegroups.com">contact the organisers</a> if you would like to be added to an email list for specific announcements.
+    The BMVA are pleased to announce that the April special event will be going ahead subject to government guidelines.  While the risk of covid has not gone away, postponing the event again was not possible and our options were either to continue or cancel.  The last 2 years have been hard for our community and while virtual events have allowed our research to have an outlet, the networking and discussions that happen at in person events have been sorely missed.  As well as following all government guidelines we will decide on any further covid-mitigation strategies (masks, LF testing etc) nearer to the date but to begin with we will be limiting the scale of the event to ensure that social distancing can be observed.  
 </p>
 </div>
 
@@ -75,26 +71,34 @@ Please get in contact with [Martin Fergie](mailto:martin.fergie@manchester.ac.uk
 
 ## Attending
 
-<!--
+
 <div class="alert mt-3 alert-success" style="text-align:center;">
 <span><strong>Details on registration will be released in May</strong></span>
 </div>
 
 Our intention is to keep the cost of attending as low as possible and to make sure there are no barriers from the whole computer vision community attending. We anticipate that UK restrictions will permit national travel to allow attendance. While we would welcome attendance from colleagues overseas, unfortunately <strong>we cannot advise international registration or booking</strong> as the rules on international travel remain unclear.
--->
+
 
 <div class="alert mt-3 alert-info" style="">
-    <h3 style="text-align:center;">Registration will be open soon..</h3>
-    <!--
+    <!--<h3 style="text-align:center;">Registration will be open soon..</h3>-->
+    
     <span>Please read the following before <strong>registering using the Eventbrite link below</strong>.</span>
     <span>Places are available on a first-come, first-served basis so <strong>please book early!</strong></span>
     <span>Details about booking accommodation can be found <a href="#accommodation">below</a>.</span>
-    -->
+    
 </div>
+
+
+<div class="alert mt-3 alert-warning" style="text-align:center;">
+<span><strong>Please register via eventbrite on this link: &nbsp;&nbsp;
+<a class="btn btn-warning" role="button" href="https://www.eventbrite.co.uk/e/bmva-april-event-tickets-159841505245">Register Here</a></strong></span>
+</div>
+
+
 
 We are really looking forward to the April Event and hope to see you there! As we all know, it has been a very difficult time for organising research events and we really hope that this in-person meeting will be a welcome opportunity for everyone to meet up and discuss research. As the circumstances are unusual, please make sure you read the following:
 
-- **Refunds:** In the (hopefully unlikely) event that we are unable to go ahead with the event we will be offering refunds on registrations. We will also offer refunds to participants if, due to changing circumstances, they feel uncomfortable attending an in-person event. We note that there will be no online equivalent if the event cannot be held in-person. 
+- **Refunds:** In the (hopefully unlikely) event that we are unable to go ahead with the event we will be offering refunds on registrations. We will also offer refunds up to 30 days prioir to the event if participants if, due to changing circumstances, they feel uncomfortable attending an in-person event. We note that there will be no online equivalent if the event cannot be held in-person. 
 - **Places:** Places are allocated on a first-come-first-served basis however we reserve the right to place caps on the number of registrations from a single institution/organisation.
 - **Included:** Registration is for in-person access to the event (there will be no hybrid or online attendance options); included are the event reception, lunch on all days and the official event dinner. **Accommodation and travel are not included.** The website will provide recommendations for affordable hotel accommodation with easy access to the event hotel.
 - **Attendance:** Unfortunately, due to the on-going pandemic restrictions and guidelines, we cannot accept applications from overseas colleagues; sadly, registration is limited to students registered at a UK institution or researchers working at an institution, organisation or company in the UK.
