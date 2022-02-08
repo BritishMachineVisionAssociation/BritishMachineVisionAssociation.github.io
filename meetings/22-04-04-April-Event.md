@@ -90,6 +90,18 @@ We intend to keep the cost of attending as low as possible and make sure there a
 </div>
 -->
 
+The registraterains costs are as follows 
+- **PhD Students** (registered at a UK institution):  £135.00
+
+
+View more actions
+- **Researchers at a academic or not-for-profit**   £225.00
+
+
+View more actions
+- **Researchers at a commercial organisation:**   £300.00
+
+
 <div class="alert mt-3 alert-info" style="text-align:center;">
 <span><strong>Please register via eventbrite on this link: &nbsp;&nbsp;
 <a class="btn btn-warning" role="button" href="https://www.eventbrite.co.uk/e/bmva-april-event-tickets-159841505245">Register Here</a></strong></span>
