@@ -31,7 +31,7 @@ organisers: Neill Campbell, Andrew Gilbert
 </p>
 
 <div class="alert mt-3 alert-danger">
-<h2 style="text-align:center;">Announcement: Event to take place 4th-6th April 2022</h2>
+<h2 style="text-align:center;">Announcement: Event to go ahead: 4th-6th April 2022</h2>
 <p>
     The BMVA is pleased to announce that the April special event will be subject to government guidelines. While the risk of covid has not gone away, postponing the event again was not possible, and our options were either to continue or cancel. As well as following all government guidelines, we will decide on any further covid-mitigation strategies (masks, LF testing etc.) nearer to the date. However, to begin with, we will be limiting the scale of the event to ensure that social distancing can be observed. The last two years have been hard for our community, and while virtual events have allowed our research to have an outlet, the networking and discussions that happen at in person events have been sorely missed.  
 </p>
@@ -117,6 +117,7 @@ During the registration process, there will be the option to indicate if you wou
     </div>
 </div>
 
+
 <script src="https://www.eventbrite.co.uk/static/widgets/eb_widgets.js"></script>
 
 <script type="text/javascript">
@@ -138,28 +139,32 @@ During the registration process, there will be the option to indicate if you wou
       }
     }
 
-    var height_to_use = 850; /*400*/
+    var height_to_use = 550;
 
     if (getWidth() < 1000) {
-        height_to_use = 850;
+        height_to_use = 700;
     }
 
     if (getWidth() < 800) {
-        height_to_use = 900;
+        height_to_use = 750;
     }
 
     if (getWidth() < 550) {
-        height_to_use = 910;
+        height_to_use = 750;
     }
 
     window.EBWidgets.createWidget({
         // Required
         widgetType: 'checkout',
-        eventId: '159841505245',
-        iframeContainerId: 'eventbrite-widget-container-159841505245',
+        eventId: '251910500087',
 
+        //modal: true,
+        //modalTriggerElementId: "eventbrite-widget-trigger",
+
+        iframeContainerId: 'eventbrite-widget-container-251910500087',
         // Optional
         iframeContainerHeight: height_to_use,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        iFrameAutoAdapt: 100,
         onOrderComplete: exampleCallback  // Method called when an order has successfully completed
     });
 </script>
