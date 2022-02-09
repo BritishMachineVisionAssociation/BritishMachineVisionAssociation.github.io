@@ -14,7 +14,7 @@ title: Home
 <p style="text-align: center;">
 <a class="btn btn-warning" role="button" href="{{ site.baseurl }}{% link meetings/22-04-04-April-Event.md %}">Register for the BMVA April Event!</a></p>
 
-**BMVC 2022**: This year, BMVC will follow a similar timeline to last year with the paper submission deadline in June. **We are currently looking for volunteers for General Chair and to join the Programme Committee. Please get in touch to express your interest:
+**BMVC 2022**: This year, BMVC will follow a similar timeline to last year with the paper submission deadline in June. **We are currently looking for volunteers for General Chair and to join the Programme Committee.** Please get in touch to express your interest:
 
 <p style="text-align: center;">
 <a class="btn btn-warning" role="button" href="mailto:chair@bmva.org?subject=Interest in joining the BMVC 2022 team">Express interested in joining the BMVC 2022 team.</a></p>
