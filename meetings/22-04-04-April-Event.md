@@ -13,9 +13,9 @@ organisers: Neill Campbell, Andrew Gilbert
 <div class="alert mt-3 alert-success" style="text-align:center;">
     <span><strong>Registration now open!</strong></span>
         &nbsp;&nbsp;<span>
-        <a class="btn btn-success mb-2" role="button" href="#attending">Go to Registration</a></span>
+        <a class="btn btn-success mt-1 mb-1" role="button" href="#attending">Go to Registration</a></span>
         &nbsp;&nbsp;<span>
-        <a class="btn btn-success" role="button" href="#accommodation">Accommodation Information</a></span>
+        <a class="btn btn-success mt-1 mb-1" role="button" href="#accommodation">Accommodation Information</a></span>
 </div>
 
 
