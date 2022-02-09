@@ -42,7 +42,7 @@ organisers: Neill Campbell, Andrew Gilbert
 ### Format
 
 <div class="alert mt-3 alert-warning" style="">
-    <span><strong>Research Focus:</strong> We will encourage all attendees to submit a short 1 page abstract of work they would like to present at the event, and all attendees will be given space for a poster. Whilst the abstracts will be checked for topic and relevance, there is no formal peer-review process, and there will be <strong>no formal proceedings published</strong>. There will be <strong>no restrictions from the BMVA on dual-submission</strong> and attendees are free to choose whether they would like to present previous work (e.g. already published), current work in progress, or just new ideas that they wish to discuss or receive feedback on.</span>
+    <span><strong>Research Focus:</strong> We strongly encourage all attendees to submit a short 1 page abstract of work they would like to present at the event, and all attendees will be given space for a poster. Whilst the abstracts will be checked for topic and relevance, there is no formal peer-review process, and there will be <strong>no formal proceedings published</strong>. There will be <strong>no restrictions from the BMVA on dual-submission</strong> and attendees are free to choose whether they would like to present previous work (e.g. already published), current work in progress, or just new ideas that they wish to discuss or receive feedback on.</span>
 </div>
 
 The main focus of the meeting will be the poster sessions from the attendees to provide a forum for all researchers to meet and discuss ideas.
@@ -77,7 +77,7 @@ Please get in contact with [Andrew Gilbert](mailto:a.gilbert@surrey.ac.uk) for m
 </div>
 -->
 
-We intend to keep the cost of attending as low as possible and make sure there are no barriers from the whole computer vision community attending. We anticipate that UK restrictions will permit national travel to allow attendance. While we would welcome attendance from colleagues overseas, unfortunately, <strong>we cannot advise international registration or booking</strong> as the rules on international travel remain unclear.
+We are keeping the cost of attending as low as possible and make sure there are no barriers from the whole computer vision community attending. We anticipate that UK restrictions will permit national travel to allow attendance. While we would welcome attendance from colleagues overseas, unfortunately, <strong>we cannot advise international registration or booking</strong> as the rules on international travel remain unclear.
 
 <!--
 <div class="alert mt-3 alert-info" style="">
@@ -93,17 +93,13 @@ We intend to keep the cost of attending as low as possible and make sure there a
 The registraterains costs are as follows 
 - **PhD Students** (registered at a UK institution):  £135.00
 
-
-View more actions
 - **Researchers at a academic or not-for-profit**   £225.00
 
-
-View more actions
 - **Researchers at a commercial organisation:**   £300.00
 
 
 <div class="alert mt-3 alert-info" style="text-align:center;">
-<span><strong>Please register via eventbrite on this link: &nbsp;&nbsp;
+<span><strong>Please register below or via eventbrite on this link: &nbsp;&nbsp;
 <a class="btn btn-warning" role="button" href="https://www.eventbrite.co.uk/e/bmva-april-event-tickets-159841505245">Register Here</a></strong></span>
 </div>
 
@@ -113,12 +109,12 @@ We are looking forward to the April Event and hope to see you there! As we all k
 
 - **Refunds:** In the (hopefully unlikely) event that we cannot go ahead with the event, we will be offering refunds on registrations. We will also offer refunds up to 30 days prior to the event if participants, due to changing circumstances, feel uncomfortable attending an in-person event. We note that there will be no online equivalent if the event cannot be held in person. 
 - **Places:** Places are allocated on a first-come-first-served basis; however, we reserve the right to place caps on the number of registrations from a single institution/organisation.
-- **Included:** Registration is for in-person access to the event (there will be no hybrid or online attendance options); included are the event reception, lunch on all days and the official event dinner. **Accommodation and travel are not included.** The website will provide recommendations for affordable hotel accommodation with easy access to the event hotel.
+- **Included:** Registration is for in-person access to the event (there will be no hybrid or online attendance options); included are the event reception, lunch on all days and the official event dinner. **Accommodation and travel are not included.** The website provides recommendations for affordable hotel accommodation, with easy access to the event hotel, below.
 - **Topic:** Aligning with our charitable mandate of focusing on computer vision education and research, we reserve the right to limit participation to researchers working in the field of computer vision (as per BMVC relevance).
 
 During the registration process, there will be the option to indicate if you would like to bring a poster to the event (abstract details provided shortly) and whether or not you would like to apply to present at the "missing orals" (see above). We are also canvassing demand for demos, but we cannot guarantee that we will accommodate this.
 
-<div class="row pt-3 pl-3 pr-3" style="display: none;">
+<div class="row pt-3 pl-3 pr-3">
     <div class="container-fluid pb-3">
         <div class="card p-1" style="background: #FFFFFF"> <!--F8F7FA-->
             <div class="card-body mx-auto">

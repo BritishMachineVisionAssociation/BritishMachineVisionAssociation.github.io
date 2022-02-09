@@ -6,6 +6,39 @@ layout: default_sidebar
 title: Home
 ---
 
+
+## Latest News
+
+**April Event (Manchester)**: The BMVA will be holding an in-person workshop in Manchester on 4th - 6th April 2022. Registration is now open:
+
+<p style="text-align: center;">
+<a class="btn btn-warning" role="button" href="{{ site.baseurl }}{% link meetings/22-04-04-April-Event.md %}">Register for the BMVA April Event!</a></p>
+
+**BMVC 2022**: This year, BMVC will follow a similar timeline to last year with the paper submission deadline in June. **We are currently looking for volunteers for General Chair and to join the Programme Committee. Please get in touch to express your interest:
+
+<p style="text-align: center;">
+<a class="btn btn-warning" role="button" href="mailto:chair@bmva.org?subject=Interest in joining the BMVC 2022 team">Express interested in joining the BMVC 2022 team.</a></p>
+
+**ICPR 2026 bid**: The BMVA is considering submitting a bid to host the 2026 International Conference on
+Pattern Recognition in Edinburgh in 2026. The ICPR conference is every
+2 years, and is 'owned' by the Int. Assoc. for Pattern Recognition,
+of which the BMVA is a member.
+
+As part of the bid, we would need 1-2 additional General Chairs,
+and 1-2 Programme Chairs (there will be additional non-UK Chairs
+and eventually a number of other chairs). To reduce the workload,
+we plan to partner with a Professional Conference Organiser, but
+these Chair positions will require a substantial time committment,
+mainly in 2025/26.
+
+As said above, the BMVA is considering a bid but has not yet made a
+committment to submit the proposal. Selection of the conference location
+is competitive, typically from 2-3 proposals, and would be made
+at ICPR 2022 in August 2022.
+
+<p style="text-align: center;">
+<a class="btn btn-warning" role="button" href="mailto:rbf@inf.ed.ac.uk?subject=Interest in joining the ICPR 2026 bid team">Contact Bob Fisher to express interest in joing the bid team.</a></p>
+
 ## Aims and Objectives
 
 The BMVA provides a national forum for individuals and organisations
