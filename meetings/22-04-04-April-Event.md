@@ -5,18 +5,17 @@ title: BMVA April Event (4-6 April 2022)
 index: 0
 date: 2022-04-04
 dates: Manchester, 4th - 6th April 2022
-meeting-title: BMVA <strike>September</strike> April Event
+meeting-title: BMVA April Event
 image: 21-09-06-september-event.png
 organisers: Neill Campbell, Andrew Gilbert
 ---
 
 <div class="alert mt-3 alert-success" style="text-align:center;">
-    <span><strong>Registration now open!
-        &nbsp;&nbsp;
-        <a class="btn btn-secondary" role="button" href="#attending">Go to Registration</a>
-        &nbsp;&nbsp;
-        <a class="btn btn-success" role="button" href="#accommodation">Accommodation Information</a>
-    </strong></span>
+    <span><strong>Registration now open!</strong></span>
+        &nbsp;&nbsp;<span>
+        <a class="btn btn-success mb-2" role="button" href="#attending">Go to Registration</a></span>
+        &nbsp;&nbsp;<span>
+        <a class="btn btn-success" role="button" href="#accommodation">Accommodation Information</a></span>
 </div>
 
 
