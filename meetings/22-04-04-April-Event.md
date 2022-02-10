@@ -1,11 +1,11 @@
 ---
 layout: special-event
-type: BMVA April Event
-title: BMVA April Event (4-6 April 2022)
+type: BMVA 3 Day Symposium 
+title: BMVA 3 Day Symposium (4-6 April 2022)
 index: 0
 date: 2022-04-04
 dates: Manchester, 4th - 6th April 2022
-meeting-title: BMVA April Event
+meeting-title: BMVA 3 Day Symposium 
 image: 21-09-06-september-event.png
 organisers: Neill Campbell, Andrew Gilbert
 ---
@@ -32,7 +32,7 @@ organisers: Neill Campbell, Andrew Gilbert
 <div class="alert mt-3 alert-danger">
 <h2 style="text-align:center;">Announcement: Event to go ahead: 4th-6th April 2022</h2>
 <p>
-    The BMVA is pleased to announce that the April special event will be going ahead as planned. While the risk of covid has not gone away, postponing the event again was not possible, and our options were either to continue or cancel. As well as following all government guidelines, we will decide on any further covid-mitigation strategies (masks, LF testing etc.) nearer to the date. However, to begin with, we will be limiting the scale of the event to ensure that social distancing can be observed. The last two years have been hard for our community, and while virtual events have allowed our research to have an outlet, the networking and discussions that happen at in person events have been sorely missed.  
+    The BMVA is pleased to announce that the BMVA 3 Day Symposium will be going ahead as planned. While the risk of covid has not gone away, postponing the event again was not possible, and our options were either to continue or cancel. As well as following all government guidelines, we will decide on any further covid-mitigation strategies (masks, LF testing etc.) nearer to the date. However, to begin with, we will be limiting the scale of the event to ensure that social distancing can be observed. The last two years have been hard for our community, and while virtual events have allowed our research to have an outlet, the networking and discussions that happen at in person events have been sorely missed.  
 </p>
 </div>
 
@@ -104,7 +104,7 @@ The registraterains costs are as follows
 
 
 
-We are looking forward to the April Event and hope to see you there! As we all know, it has been a challenging time for organising research events, and we hope that this in-person meeting will be a welcome opportunity for everyone to meet up and discuss research. As the circumstances are unusual, please make sure you read the following:
+We are looking forward to the BMVA 3 Day Symposium and hope to see you there! As we all know, it has been a challenging time for organising research events, and we hope that this in-person meeting will be a welcome opportunity for everyone to meet up and discuss research. As the circumstances are unusual, please make sure you read the following:
 
 - **Refunds:** In the (hopefully unlikely) event that we cannot go ahead with the event, we will be offering refunds on registrations. We will also offer refunds up to 30 days prior to the event if participants, due to changing circumstances, feel uncomfortable attending an in-person event. We note that there will be no online equivalent if the event cannot be held in person. 
 - **Places:** Places are allocated on a first-come-first-served basis; however, we reserve the right to place caps on the number of registrations from a single institution/organisation.
