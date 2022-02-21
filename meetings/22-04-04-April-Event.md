@@ -163,12 +163,12 @@ During the registration process, there will be the option to indicate if you wou
     window.EBWidgets.createWidget({
         // Required
         widgetType: 'checkout',
-        eventId: '251910500087',
+        eventId: '159841505245',
 
         //modal: true,
         //modalTriggerElementId: "eventbrite-widget-trigger",
 
-        iframeContainerId: 'eventbrite-widget-container-251910500087',
+        iframeContainerId: 'eventbrite-widget-container-159841505245',
         // Optional
         iframeContainerHeight: height_to_use,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
         iFrameAutoAdapt: 100,
