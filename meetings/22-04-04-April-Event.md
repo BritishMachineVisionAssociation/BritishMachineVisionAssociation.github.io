@@ -7,7 +7,7 @@ date: 2022-04-04
 dates: Manchester, 4th - 6th April 2022
 meeting-title: BMVA 3 Day Symposium 
 image: 21-09-06-september-event.png
-organisers: Neill Campbell, Andrew Gilbert
+organisers: Neill Campbell, Andrew Gilbert, Tim Cootes
 ---
 
 <div class="alert mt-3 alert-success" style="text-align:center;">
