@@ -76,7 +76,7 @@ Please get in contact with [Andrew Gilbert](mailto:a.gilbert@surrey.ac.uk) for m
 </div>
 -->
 
-We are keeping the cost of attending as low as possible and make sure there are no barriers from the whole computer vision community attending. We anticipate that UK restrictions will permit national travel to allow attendance. While we would welcome attendance from colleagues overseas, unfortunately, <strong>we cannot advise international registration or booking</strong> as the rules on international travel remain unclear.
+We are keeping the cost of attending as low as possible and ensuring there are no barriers from the whole computer vision community attending. We anticipate that UK restrictions will permit national travel to allow attendance. While we would welcome attendance from colleagues overseas, unfortunately, <strong>we cannot advise international registration or booking</strong> as the rules on international travel remain unclear.
 
 <!--
 <div class="alert mt-3 alert-info" style="">
@@ -89,12 +89,16 @@ We are keeping the cost of attending as low as possible and make sure there are 
 </div>
 -->
 
-The registraterains costs are as follows 
+The registration costs are as follows 
 - **PhD Students** (registered at a UK institution):  £135.00
 
-- **Researchers at a academic or not-for-profit**   £225.00
+- **Researchers at an academic or not-for-profit**   £225.00
 
 - **Researchers at a commercial organisation:**   £300.00
+
+- **1 Day Tuesday - commercial organisation:**   £170.00
+
+- **1 Day Wednesday - commercial organisation:**   £170.00
 
 
 <div class="alert mt-3 alert-info" style="text-align:center;">
@@ -108,7 +112,7 @@ We are looking forward to the BMVA 3 Day Symposium and hope to see you there! As
 
 - **Refunds:** In the (hopefully unlikely) event that we cannot go ahead with the event, we will be offering refunds on registrations. We will also offer refunds up to 30 days prior to the event if participants, due to changing circumstances, feel uncomfortable attending an in-person event. We note that there will be no online equivalent if the event cannot be held in person. 
 - **Places:** Places are allocated on a first-come-first-served basis; however, we reserve the right to place caps on the number of registrations from a single institution/organisation.
-- **Included:** Registration is for in-person access to the event (there will be no hybrid or online attendance options); included are the event reception, lunch on all days and the official event dinner. **Accommodation and travel are not included.** The website provides recommendations for affordable hotel accommodation, with easy access to the event hotel, below.
+- **Included:** Registration is for in-person access to the event (there will be no hybrid or online attendance options); included are the event reception, lunch on all days and the official event dinner. **Accommodation and travel are not included.** The website provides recommendations for affordable hotel accommodation, with easy access to the event hotel below.
 - **Topic:** Aligning with our charitable mandate of focusing on computer vision education and research, we reserve the right to limit participation to researchers working in the field of computer vision (as per BMVC relevance).
 
 During the registration process, there will be the option to indicate if you would like to bring a poster to the event (abstract details provided shortly) and whether or not you would like to apply to present at the "missing orals" (see above). We are also canvassing demand for demos, but we cannot guarantee that we will accommodate this.
