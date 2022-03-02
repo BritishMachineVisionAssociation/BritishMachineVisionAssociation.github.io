@@ -7,23 +7,24 @@ permalink: /bmvc
 ## The British Machine Vision Conference (BMVC)
 
 <div class="alert mt-3 alert-info" style="text-align:center;">
-<h2>BMVC and September Event Announcement</h2>
+<h2>BMVC 2022 Announcement</h2>
 
 <p><strong>
-    We thank the community for their patience this year as we continue to negotiate this difficult time and the uncertainty over organising events. We have made the difficult decision that it will not be possible to hold an in-person conference with the international attendance that BMVC is fortunate to attract. For this reason, BMVC 2021 will be held as a virtual conference with a slightly delayed timeline as presented below.
+    This year, BMVC will follow a similar timeline to last year with the paper submission deadline in June. We are currently looking for volunteers for General Chair and to join the Programme Committee. Please get in touch to express your interest:
 </strong></p>
 
-<p><strong>
+<p style="text-align: center;">
+<a class="btn btn-info" role="button" href="mailto:chair@bmva.org?subject=Interest in joining the BMVC 2022 team">Express interested in joining the BMVC 2022 team.</a></p>
+
+<!--<p><strong>
     We are also excited to announce that we will be making use of the September booking in Manchester to host a "BMVA September Event" which will be an in-person meeting open to all computer vision researchers. We take inspiration from our technical meetings and the recent successes of community events such as "unconferences". Please see <a href="{{ site.baseurl }}/meetings/21-09-06-september-event">BMVA September Event</a> for further details.
-</strong></p>
+</strong></p>-->
 
 </div>
 
 ### BMVC 2021
 
-[BMVC 2021](https://www.bmvc2021.com/) will be held virtually as an online conference on 22nd — 25th November 2021. The main conference website will appear shortly including a full timeline and submission details for authors.
-
-Please see the main conference site at: [https://www.bmvc2021.com/](https://www.bmvc2021.com/).
+[BMVC 2021](https://www.bmvc2021.com/) was held virtually as an online conference on 22nd — 25th November 2021. Please see the main conference site at: [https://www.bmvc2021.com/](https://www.bmvc2021.com/).
 
 <div class="row justify-content-md-center pb-2 ml-3 mr-3">
     <div class="col-12 col-md-8 col-lg-6">
@@ -41,9 +42,7 @@ Please see the main conference site at: [https://www.bmvc2021.com/](https://www.
     </div>
 </div>
 
-### Programme Committee
-
-We are very pleased to announce the kind volunteers who will run the programme committee for BMVC 2021:
+Many thanks to the programme committee for BMVC 2021:
 Tu Bui,
 Karteek Alahari,
 Stuart James,
@@ -53,7 +52,7 @@ Yi-Zhe Song.
 
 To contact the programme committee, please use the email address: <a href="mailto:bmvc2021_pcs@googlegroups.com">bmvc2021_pcs@googlegroups.com</a>.
 
-### Timeline
+### 2021 Timeline
 
 <!--<p align="center"><strong>Please note all deadlines are at 23:59 PT.</strong></p>-->
 
@@ -72,15 +71,15 @@ To contact the programme committee, please use the email address: <a href="mailt
 <tbody>
 <tr class="even">
 <td align="left">Paper Abstracts</td>
-<td align="left">Friday 18th June</td>
+<td align="left">Friday 18th June 2021</td>
 </tr>
 <tr class="odd">
 <td align="left">Paper Submission</td>
-<td align="left">Friday 25th June</td>
+<td align="left">Friday 25th June 2021</td>
 </tr>
 <tr class="odd">
 <td align="left">Conference</td>
-<td align="left">22nd - 25th November</td>
+<td align="left">22nd - 25th November 2021</td>
 </tr>
 </tbody>
 </table>
