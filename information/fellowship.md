@@ -7,9 +7,9 @@ permalink: /information/fellowship
 ## BMVA Distinguished Fellowship
 
 The BMVA Distinguished Fellowship is awarded to one person each year in
-recognition of his or her services to the British machine vision
-community. The awardees are distinguished researchers, based in the UK, who
-have contributed significantly to the field of research and the reputation of
+recognition of their services to the British machine vision
+community. The awardees are distinguished researchers, normally based in the UK, who
+have contributed significantly to research in the field and service to
 the British machine vision community, both nationally and internationally.
 
 ### Distinguished Fellows
@@ -33,6 +33,8 @@ the British machine vision community, both nationally and internationally.
 + [2016: Edwin Hancock]({{ site.baseurl }}{% link fellowship/2016-hancock.md %})
 + [2017: Andrew Fitzgibbon]({{ site.baseurl }}{% link fellowship/2017-fitzgibbon.md %})
 + [2018: Majid Mirmehdi]({{ site.baseurl }}{% link fellowship/2018-mirmehdi.md %})
++ 2019: Philip Torr
++ 2020: Emanuele Trucco
 
 ### Nominations
 
