@@ -172,7 +172,7 @@ The registration **does not include accommodation**. Rooms can be booked at the 
 The oral presentations are expected to be 15 minutes long, followed by 5 minutes of questions. Our AV team at the event will have a windows based computer to present via Powerpoint. Alternatively, you are welcome to use your device to connect via an HDMI port. After the oral presentation deadline of 28th March, a complete programme will be created with the time slots.
 
 #### Poster Presentations 
-The posters will be kept up for an entire day, and several poster sessions will occur throughout the day. Each poster presentation will have a single poster board. We wish to encourage attendees not to waste time reformatting posters and welcome portrait and landscape designs if already created for a previous conference.
+The posters will be kept up for an entire day, and several poster sessions will occur throughout the day. Each poster presentation will have a single poster board, 2.1m high and 1.2m wide. They should just fit A0 in either portrait or landscape form,we wish to encourage attendees not to waste time reformatting posters and welcome portrait and landscape designs if already created for a previous conference.
 
 #### Demo Presentations
 Each demo request receives a 6ft trestle table and is situated close to some standard 13A British plug sockets. The demos will be co-located with the poster presentations and co-occur.
