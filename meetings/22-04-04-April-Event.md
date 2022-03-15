@@ -37,7 +37,7 @@ We intend to keep the cost of attending as low as possible and make sure there a
 ## Attending
 
 
-We are keeping the cost of attending as low as possible and ensuring there are no barriers from the whole computer vision community attending. We anticipate that UK restrictions will permit national travel to allow attendance. We welcome attendance from colleagues overseas, however at your own risk and we are not issueing visa letters.
+We are keeping the cost of attending as low as possible and ensuring no barriers from the whole computer vision community attending. We anticipate that UK restrictions will permit national travel to allow attendance. However, we welcome attendance from colleagues overseas at your own risk, and we are not issuing visa letters.
 
 The registration costs are as follows 
 - **PhD Students**:  £135.00
@@ -59,13 +59,14 @@ The registration costs are as follows
 We are looking forward to the BMVA 3 Day Symposium and hope to see you there! As we all know, it has been a challenging time for organising research events, and we hope that this in-person meeting will be a welcome opportunity for everyone to meet up and discuss research. As the circumstances are unusual, please make sure you read the following:
 
 - **Included:** Registration is for in-person access to the event (there will be no hybrid or online attendance options); included are the event reception, lunch on all days, dinner on Monday and Tuesday. **Accommodation and travel are not included.** The website provides recommendations for affordable hotel accommodation, with easy access to the event hotel below.
-- **Invited Keynotes:**: We have some invited keynote speakers from recently appointed BMVA Distinguished Fellows including [Phil Torr](https://www.robots.ox.ac.uk/~tvg/).
-- **Missing Orals:** Many researchers missed out on presenting interesting work in person due to the need for virtual conferences. We will organise sessions to allow researchers who received an oral presentation at one of the conferences that became virtual during the pandemic to apply to give their presentation. Please slect this option during registration.
-- **Poster Presenations:** We encourage all attendees to present a poster at the event there will be no formal proceedings published and attendees are free to choose whether they would like to present previous work (e.g. already published), current work in progress, or just new ideas that they wish to discuss or receive feedback on. Please indicate your interest in this on the registration form.
-- **Refunds:** In the (hopefully unlikely) event that we cannot go ahead with the event, we will be offering refunds on registrations. There will be no online equivalent if the event cannot be held in person. 
-- **Demos:**  We are also canvassing demand for demos, and can provide a table and standard power for a demo presentation held conjointly with the posters.
+- **Invited Keynotes:**: We have invited keynote speakers from recently appointed BMVA Distinguished Fellows, including [Phil Torr](https://www.robots.ox.ac.uk/~tvg/).
+- **Missing Orals:** Many researchers missed out on presenting interesting work in person due to the need for virtual conferences. We will organise sessions to allow researchers who received an oral presentation at one of the conferences that became virtual during the pandemic to apply to give their presentation. Please select this option during registration.
+**Poster Presentations:** We encourage all attendees to present a poster at the event; no formal proceedings will be published. Therefore attendees are free to choose whether they would like to present previous work (e.g. already published), current work in progress, or just new ideas that they wish to discuss or receive feedback on. Please indicate your interest in this on the registration form.
+- **Refunds:** In the (hopefully unlikely) event that we cannot go ahead with the event, we will be offering refunds on registrations. There will be no online equivalent if the event cannot be held in person and all registrations refunded. 
+- **Demos:**  We are also canvassing demand for demos and can provide a table and standard power for a demo presentation held conjointly with the posters.
 - **Presentation Deadlines:** The deadline for poster and oral presentations registrations is 28th March
-### Format
+
+
 
 <div class="alert mt-3 alert-warning" style="">
     <span><strong>Research Focus:</strong> We strongly encourage all attendees to submit a short 1 page abstract of work they would like to present at the event, and all attendees will be given space for a poster. Whilst the abstracts will be checked for topic and relevance, there is no formal peer-review process, and there will be <strong>no formal proceedings published</strong>. There will be <strong>no restrictions from the BMVA on dual-submission</strong> and attendees are free to choose whether they would like to present previous work (e.g. already published), current work in progress, or just new ideas that they wish to discuss or receive feedback on.</span>
@@ -165,3 +166,13 @@ The registration **does not include accommodation**. Rooms can be booked at the 
 
 
 
+### Presentation details
+
+#### Oral Presentations
+The oral presentations are expected to be 15 minutes long, followed by 5 minutes of questions. Our AV team at the event will have a windows based computer to present via Powerpoint. Alternatively, you are welcome to use your device to connect via an HDMI port. After the oral presentation deadline of 28th March, a complete programme will be created with the time slots.
+
+#### Poster Presentations 
+The posters will be kept up for an entire day, and several poster sessions will occur throughout the day. Each poster presentation will have a single poster board. We wish to encourage attendees not to waste time reformatting posters and welcome portrait and landscape designs if already created for a previous conference.
+
+#### Demo Presentations
+Each demo request receives a 6ft trestle table and is situated close to some standard 13A British plug sockets. The demos will be co-located with the poster presentations and co-occur.
