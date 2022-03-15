@@ -4,7 +4,7 @@ type: BMVA 3 Day Symposium
 title: BMVA 3 Day Symposium (4-6 April 2022)
 index: 0
 date: 2022-04-04
-dates: [Kimpton Clocktower](https://www.kimptonclocktowerhotel.com), Manchester, 4th - 6th April 2022
+dates: Kimpton Clocktower, Manchester, 4th - 6th April 2022
 meeting-title: BMVA 3 Day Symposium 
 image: 21-09-06-september-event.png
 organisers: Neill Campbell, Andrew Gilbert, Tim Cootes
@@ -22,7 +22,7 @@ organisers: Neill Campbell, Andrew Gilbert, Tim Cootes
 <p>
 The BMVA presents an in-person symposium in Manchester on April 4th – 6th, 2022. 
 
-Aiming to bring together all machine vision researchers based in the UK through and comprehensive programme of keynotes, "missed" orals from recent online BMVC/CVPR/ICCV… conferences, and extended poster sessions. The event includes lunches, coffee breaks and dinners in Manchester's grand [Kimpton Clocktower](https://www.kimptonclocktowerhotel.com). The event is closest in ethos to an extended multi-day BMVA technical meeting previous held in London workshop taking the form of a greatly expanded,
+Aiming to bring together all machine vision researchers based in the UK through and comprehensive programme of keynotes, "missed" orals from recent online BMVC/CVPR/ICCV… conferences, and extended poster sessions. The event includes lunches, coffee breaks and dinners in Manchester's grand Kimpton Clocktower hotel. The event is closest in ethos to an extended multi-day BMVA technical meeting previous held in London workshop taking the form of a greatly expanded,
 
 We intend to keep the cost of attending as low as possible and make sure there are no barriers from the whole computer vision community attending from PhD to Professors in academia and industry. All participants will receive space for a poster, and there will be a variety of additional timetabled sessions.
 </p>
