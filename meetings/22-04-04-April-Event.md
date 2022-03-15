@@ -4,7 +4,7 @@ type: BMVA 3 Day Symposium
 title: BMVA 3 Day Symposium (4-6 April 2022)
 index: 0
 date: 2022-04-04
-dates: Kimpton Clocktower Hotel, Manchester, 4th - 6th April 2022
+dates: [Kimpton Clocktower](https://www.kimptonclocktowerhotel.com), Manchester, 4th - 6th April 2022
 meeting-title: BMVA 3 Day Symposium 
 image: 21-09-06-september-event.png
 organisers: Neill Campbell, Andrew Gilbert, Tim Cootes
