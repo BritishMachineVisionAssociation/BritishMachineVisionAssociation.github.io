@@ -34,6 +34,14 @@ We intend to keep the cost of attending as low as possible and make sure there a
 </p>
 </div>
 
+## Timetable
+
+- 4th **Monday** 12.30 Lunch - 4.30 pm Dinner 8 pm
+- 5th **Tuesday** 9.30-4.30 pm Formal Dinner 8 pm
+- 6th **Wednesday** 9.30-4.30 pm
+
+All coffee breaks, lunches on Monday, Tuesday and Wednesday, and Dinners on Monday and Tuesday are included in your ticket. With extended breaks throughout the days, which include the posters sessions. 
+
 ## Attending
 
 
