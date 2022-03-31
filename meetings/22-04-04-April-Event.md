@@ -11,11 +11,9 @@ organisers: Neill Campbell, Andrew Gilbert, Tim Cootes
 ---
 
 <div class="alert mt-3 alert-success" style="text-align:center;">
-    <span><strong>Registration now open!</strong></span>
+    <span><strong>Programme Avaliable</strong></span>
         &nbsp;&nbsp;<span>
-        <a class="btn btn-success mt-1 mb-1" role="button" href="#attending">Go to Registration</a></span>
-        &nbsp;&nbsp;<span>
-        <a class="btn btn-success mt-1 mb-1" role="button" href="#accommodation">Accommodation Information</a></span>
+        <a class="btn btn-success mt-1 mb-1" role="button" href="#attending">[Timetable]({{ site.baseurl }}{% link assets/events/22-04-04 3daysympsium.pdf %})</a></span>
 </div>
 
 
@@ -27,20 +25,59 @@ Aiming to bring together all machine vision researchers based in the UK through 
 We intend to keep the cost of attending as low as possible and make sure there are no barriers from the whole computer vision community attending from PhD to Professors in academia and industry. All participants will receive space for a poster, and there will be a variety of additional timetabled sessions.
 </p>
 
-<div class="alert mt-3 alert-success">
-<h2 style="text-align:center;">Announcement: Event to go ahead: 4th-6th April 2022</h2>
-<p>
-    The BMVA is pleased to announce that the BMVA 3 Day Symposium will be going ahead as planned. While the risk of covid has not gone away, postponing the event again was not possible, and our options were either to continue or cancel. We will follow all government guidelines in April.
-</p>
-</div>
 
-## Timetable
+### Programme of talks
 
-- 4th **Monday** 12.30 Lunch - 4.30 pm Dinner 8 pm
-- 5th **Tuesday** 9.30-4.30 pm Formal Dinner 8 pm
-- 6th **Wednesday** 9.30-4.30 pm
+## Monday
+12.30-1.30pm **Buffet lunch**
+1.30 Welcome
+1.45 Sagar Vaze – University of Oxford – Open-Set Recognition: A Good Closed Set Classifier is all you Need
+2.05 Tu Bui – University of Surrey - content provenance for images and videos
+2.25 Yuki Asano – University of Amsterdam - Keeping Your Eye on the Ball: Trajectory Attention in Video Transformers
+2.45 **Coffee**
+3.30 Muhammad Ahmed Raza - University of Edinburgh - Object-Centric Representation Learning with Generative Spatial-Temporal Factorization
+3.50 Adam J Shephard - University of Warwick - Simultaneous Nuclear Instance and Layer Segmentation in Oral Epithelial Dysplasia
+Continued on following page
+4.10 Connor James Robinson - University of Manchester - Segmentation of Multiple Tissue Types in Regenerating Wounds
+4.30 Nikolina Kubiak - University of Surrey - SILT: Self-supervised Lighting Transfer Using Implicit Image Decomposition
+4.50 End
+7pm **Drinks Reception**
+8pm **Sit down Dinner**
 
-All coffee breaks, lunches on Monday, Tuesday and Wednesday, and Dinners on Monday and Tuesday are included in your ticket. With extended breaks throughout the days, which include the posters sessions. 
+ 
+## Tuesday 
+8.30 **Coffee**
+9.00 Welcome
+9.10 Margaret Duff – University of Bath - Regularising Inverse Imaging Problems using Generative Machine Learning Methods
+9.30 Aneeshan Sain – University of Surrey - StyleMeUp: Towards Style-Agnostic Sketch-Based Image Retrieval
+9.50 Spotlights
+10.30 **Coffee + posters**
+11.30 **Keynote: Andrew Davison** - Imperial college London - A Robot Web for Multi-Robot Localisation
+12.30 **lunch**
+1.30 Srijay Deshpande - University of Warwick - Stitching Across the FROntier Network for Generating Colorectal Cancer Histology Images
+1.50 Dan Ruta – University of Surrey –  ALADIN: All Layer Adaptive Instance Normalization for Fine-grained Style Similarity
+2.10 Pinaki Nath Chowdhury – University of Surrey - Partially Does It: Towards Scene-Level FG-SBIR with Partial Input
+2.30 **Coffee + posters**
+3.30 Ayan Kumar Bhunia – University of Surrey - Vectorization and Rasterization: Self-Supervised Learning for Sketch and Handwriting
+3.50 Robert Dawes – BBC R&D – Using AI to assist natural history production
+4.10 Manuel Rey Area – University of Bath 
+4.30 Raja Ebsim – University of Manchester - Analysing hips/knees scans in the UK Biobank
+4.50 End
+7pm **Drinks Reception**
+8pm **Sit down Dinner**
+
+ 
+## Wednesday
+8.30 **Coffee**
+9.15 Welcome
+9.30 Prajwal Kondajji Renukananda - Visual Keyword Spotting with Attention – University of Oxford
+9.50 Spotlights
+10.30 **Coffee + posters** 
+11.50 Laura Hanu – Unitary - VTC: Improving Video-Text Retrieval with User Comments
+12.10 Ayna Das - University of Surrey - Pixelor: a competitive sketching AI agent. so you think you can sketch?
+12.30 lunch
+1.30 **Finish**
+
 
 ## Attending
 
