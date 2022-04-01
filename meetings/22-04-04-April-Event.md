@@ -23,7 +23,7 @@ We intend to keep the cost of attending as low as possible and make sure there a
 
 
 ## Programme of talks
-[pdf of Programme available Here]({{ site.baseurl }}{% link assets/events/22-04-04-3daysympsium.pdf %})</a></span>
+[pdf of Programme available Here]({{ site.baseurl }}{% link assets/events/22-04-04-3daysympsium.pdf %})
 
 ### Monday
 12.30-1.30pm **Buffet lunch**
