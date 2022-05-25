@@ -61,6 +61,7 @@ exclude:
   - vendor/ruby/
   - assets/multipagethumb.sh
   - assets/thumbnail_script.sh
+  - old_news.md
 
 main_sponsors:
   - name: IAPR

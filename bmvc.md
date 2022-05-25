@@ -6,21 +6,85 @@ permalink: /bmvc
 
 ## The British Machine Vision Conference (BMVC)
 
-<div class="alert mt-3 alert-info" style="text-align:center;">
-<h2>BMVC 2022 Announcement</h2>
+<div class="alert mt-3 alert-danger" style="text-align:center;">
+<h2>BMVC Announcement : Risk of no conference for 2022</h2>
 
-<p><strong>
-    This year, BMVC will follow a similar timeline to last year with the paper submission deadline in June. We are currently looking for volunteers for General Chair and to join the Programme Committee. Please get in touch to express your interest:
-</strong></p>
+<p>
+    Whilst the BMVA Executive Committee would like to thank those volunteers who have stepped forward to contribute to the organisation of BMVC 2022, <b>unfortunately, we are sorry to announce that we are still lacking sufficient experienced volunteers to serve as conference and programme chairs.</b>
+</p>
+<p>
+    BMVC has grown substantially in size over the last few years and requires a larger team to run than previous conferences; we regret that, without sufficient academic and industrial researchers (both UK and international) helping to organise, we will be unable to provide a high quality conference.
+</p>
+<p>
+    Please see below for more details on the call for volunteers. The <b>deadline for additional volunteers to put their names forward is 11:00 BST, 8th June 2022</b> and the Executive Committee will make a final announcement on whether or not to go ahead with the conference on 8th June.
+</p>
+
+<p style="text-align: center;">
+<a class="btn btn-danger" role="button" href="mailto:chair@bmva.org?subject=Interest in joining the BMVC 2022 team">Express interested in joining the BMVC 2022 team (details below) before 7th June.</a></p>
+
+</div>
+
+
+
+<div class="alert mt-3 alert-info" style="text-align:center;">
+
+<h2 id="open-letter-to-the-community-for-volunteers-for-bmvc-2022">Open Letter to the Community for Volunteers for BMVC 2022</h2>
+
+<div style="text-align: left;">
+
+<p>Dear BMVC Community,</p>
+
+<p>During the turbulent pandemic times, I took on the mantle of the BMVC General Chair for the last two years to ensure that BMVC continued to happen in some form; like many other conferences, we ended up virtual and now have a tried and tested virtual conference model. BMVC continues to grow and flourish, it is something which we should all feel pride over, and I am exceptionally thankful for the hard work and support from the volunteers who made that happen.</p>
+
+<p>The BMVA Executive Committee is arranging to run BMVC 2022 as a hybrid event. We are finalising dates with a physical venue in London for November, allowing for a similar timeline to last year. It’s now time to hand over the reins back to the community.</p>
+
+<p>This year we intend to host a hybrid conference (along a similar timeline as the <a href="https://www.bmvc2021-virtualconference.com/dates/">2021 conference</a> with the in-person meeting held in London (alongside virtual attendance); this will follow a model from other conferences in the area for example CVPR.</p>
+
+<h4 id="how-can-you-get-involved">How can you get involved?</h4>
+
+<p>We need a programme committee that can ensure the high standards of academic content, engage with industry and help BMVC 2022 be another successful conference. While BMVC was traditionally a UK academic conference, we welcome applications from those outside the UK, and industry based researchers, reflecting the standing and scope of what BMVC has become.</p>
+
+<h4 id="what-experience-do-i-need">What experience do I need?</h4>
+
+<p>It has been great to see many early career researchers getting in touch to volunteer to serve as reviewers and area chairs - we are very grateful for this. We will do our best to contact everyone who has volunteered and make sure that they are added to the appropriate lists.</p>
+
+<p><b>This call is particularly for researchers with more experience to serve at the programme and general chair level.</b> As a rough indication, we would hope that programme chairs would have experience serving as area chairs at previous conferences (not necessarily BMVC). At the same time, general chairs would have experience serving as programme chairs or organisers of previous conferences or workshops in the area. We hope that ensuring this sort of experience in the organising committee will allow us to continue to maintain the high standards built over previous conferences and keep innovating to try to improve further and respond to the ideas of the community.</p>
+
+<p>Whilst we already have some very kind volunteers for some of the positions, the scale of BMVC requires a whole team to make a successful conference, and we will be unable to host a conference of sufficient quality without additional volunteers.</p>
+
+<h4 id="we-are-looking-to-fill-the-following-positions">We are looking to fill the following positions:</h4>
+
+<ul>
+  <li>Conference Chairs</li>
+  <li>Program Chairs</li>
+  <li>Keynote Chair</li>
+  <li>Workshop Chair</li>
+  <li>Awards Chair</li>
+  <li>Sponsorship Chair</li>
+  <li>Marketing Chair</li>
+</ul>
+
+<p>If you are interested in getting involved, please drop me a line at chair@bmva.org, including a brief description of any prior experience of conference or workshop organisation and what you think you could offer BMVC 2022.</p>
+
+<p>I can confirm that organising an important conference such as BMVC (whilst often an interesting learning curve) is a rewarding experience; it is great to work with enthusiastic colleagues from across the community and help support and disseminate the exciting international research being performed in our field. I also hope that such a contribution to the research community is valued at your host institution, be it academic or an industrial lab, and I would certainly be happy to provide letters to that affect to all who kindly volunteer their time. Please do get in touch.</p>
+
+<p>Many thanks,</p>
+
+<p>Neill</p>
+
+<p>BMVA Chair</p>
 
 <p style="text-align: center;">
 <a class="btn btn-info" role="button" href="mailto:chair@bmva.org?subject=Interest in joining the BMVC 2022 team">Express interested in joining the BMVC 2022 team.</a></p>
 
-<!--<p><strong>
-    We are also excited to announce that we will be making use of the September booking in Manchester to host a "BMVA September Event" which will be an in-person meeting open to all computer vision researchers. We take inspiration from our technical meetings and the recent successes of community events such as "unconferences". Please see <a href="{{ site.baseurl }}/meetings/21-09-06-september-event">BMVA September Event</a> for further details.
-</strong></p>-->
+</div>
 
 </div>
+
+
+
+
+<!--
 
 ### BMVC 2021
 
@@ -54,8 +118,6 @@ To contact the programme committee, please use the email address: <a href="mailt
 
 ### 2021 Timeline
 
-<!--<p align="center"><strong>Please note all deadlines are at 23:59 PT.</strong></p>-->
-
 <div class="row pl-4 pr-4 pt-2 pb-2">
 <table style="width:100%;" class="table">
 <colgroup>
@@ -85,6 +147,7 @@ To contact the programme committee, please use the email address: <a href="mailt
 </table>
 </div>
 
+--->
 
 <!--background-color: #0000006F; "-->
 <!--
@@ -250,6 +313,7 @@ The BMVC proceedings style files are available on [GitHub](https://github.com/Br
 The online proceedings for past conferences are available:
 
 <ul>
+<li><a href="https://www.bmvc2021-virtualconference.com/">BMVC 2021</a>, (Virtual)</li>  
 <li><a href="https://www.bmvc2020-conference.com/">BMVC 2020</a>, (Virtual)</li>    
 <li><a href="https://bmvc2019.org/">BMVC 2019</a>, Cardiff</li>
 <li><a href="http://www.bmva.org/bmvc/2018/index.html">BMVC 2018</a>, Northumbria</li>

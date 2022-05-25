@@ -6,10 +6,10 @@ permalink: /summer-school
 
 ## The Summer School in Computer Vision
 
-The [2019 Summer School](https://cvss.blogs.lincoln.ac.uk/) was held in Lincoln on 8th - 12th July 2019.
+The [2022 Summer School](https://cvss2022-uea.uk/) will be held in Norwich (at the University of East Anglia) on 11th - 15th July 2022. Please see the [summer school website](https://cvss2022-uea.uk/) for more details.
 
 <p style="pb-2">
-<a href="https://cvss.blogs.lincoln.ac.uk/"><img src="{{ site.baseurl }}/assets/images/events/cvss2019.jpg" class="img-fluid rounded mx-auto d-block" style="max-width: 200px;" alt="CVSS 2019 Logo"></a>
+<a href="https://cvss2022-uea.uk//"><img src="{{ site.baseurl }}/assets/images/events/cvss2022.jpg" class="img-fluid rounded mx-auto d-block" style="max-width: 400px;" alt="CVSS 2019 Logo"></a>
 </p>
 
 The BMVA runs an annual summer school on computer vision. Speakers on the Summer School are academic researchers or experienced practitioners from industry. It has been running for since the 1990s and is updated every year to ensure it covers the state-of-the-art, broadens awareness of related research fields, and develops research skills.
@@ -22,6 +22,7 @@ Recent venues for the summer school were:
 
 | &nbsp;&nbsp;&nbsp;Year&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;Venue&nbsp;&nbsp;&nbsp; |
 |:-:|:-:|
+| 2019 | [Lincoln](https://cvss.blogs.lincoln.ac.uk/) |
 | 2018 | [UEA](http://cvss-uea.uk) |
 | 2017 | [Lincoln](http://cvss.blogs.lincoln.ac.uk) |
 | 2016 | [Swansea](http://cvss.swansea.ac.uk) |

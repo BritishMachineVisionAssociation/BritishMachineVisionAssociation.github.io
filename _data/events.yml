@@ -1,5 +1,17 @@
 # Events
 
+- type: Summer School
+  title: BMVA Summer School
+  date: 2022-07-11
+  image: cvss2022_blank.jpg
+  link: https://cvss2022-uea.uk/
+
+- type: MIUA Conference
+  title: MIUA 2022 in Cambridge
+  date: 2022-07-27
+  image: LogoMIUA2022_Cambridge.png
+  link: https://www.miua2022.com/
+
 - type: MIUA Conference
   title: MIUA 2021 in Oxford
   date: 2021-07-12
