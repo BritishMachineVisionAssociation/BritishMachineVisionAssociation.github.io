@@ -20,7 +20,7 @@ permalink: /bmvc
 </p>
 
 <p style="text-align: center;">
-<a class="btn btn-danger" role="button" href="mailto:chair@bmva.org?subject=Interest in joining the BMVC 2022 team">Express interested in joining the BMVC 2022 team (details below) before 7th June.</a></p>
+<a class="btn btn-danger" role="button" href="mailto:chair@bmva.org?subject=Interest in joining the BMVC 2022 team">Express interested in joining the BMVC 2022 team (details below) before 11:00 BST, 8th June.</a></p>
 
 </div>
 
