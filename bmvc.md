@@ -6,6 +6,7 @@ permalink: /bmvc
 
 ## The British Machine Vision Conference (BMVC)
 
+<!--
 <div class="alert mt-3 alert-danger" style="text-align:center;">
 <h2>BMVC Announcement : Risk of no conference for 2022</h2>
 
@@ -22,11 +23,34 @@ permalink: /bmvc
 <p style="text-align: center;">
 <a class="btn btn-danger" role="button" href="mailto:chair@bmva.org?subject=Interest in joining the BMVC 2022 team">Express interested in joining the BMVC 2022 team (details below) before 11:00 BST, 8th June.</a></p>
 
+</div> 
+-->
+
+<div class="alert mt-3 alert-warning" style="text-align:center;">
+<h2>BMVC Announcement : Conference will go ahead in 2022</h2>
+
+<p>
+    The BMVA Executive Committee are glad to announce that, due to many kind volunteers for the community, we now have sufficient numbers to go ahead with the conference for this year. The conference committee will now finalise the timeline and make an annoucement as soon as possible; <b>the expected submission deadline will be mid-July (after the annoucements from ECCV 2022 on 3rd July).</b>
+</p>
+<p>
+    We will like to thank all those who got in contact with kind offers to help with a range of positions. We will be sending announcements out separately for those who kindly volunteered as reviewers or area chairs.
+</p>
+<p>
+    We will shortly be announcing the bidding process for forming teams to host future BMVCs (2023 and onwards) as we try to get back to a normal cycle and we hope it will be OK to put some of our volunteers in contact with these teams for future conferences. 
+</p>
+<p>
+    There are also additional BMVA positions that we are looking for volunteers for and details of these roles will be forwarded on; once again, we hope that kind volunteers from the community will consider taking these positions on.
+</p>
+
+<!--<p style="text-align: center;">
+<a class="btn btn-danger" role="button" href="mailto:chair@bmva.org?subject=Interest in joining the BMVC 2022 team">Express interested in joining the BMVC 2022 team (details below) before 11:00 BST, 8th June.</a></p>-->
+
 </div>
 
 
 
-<div class="alert mt-3 alert-info" style="text-align:center;">
+
+<div class="alert mt-3 alert-secondary" style="text-align:center;">
 
 <h2 id="open-letter-to-the-community-for-volunteers-for-bmvc-2022">Open Letter to the Community for Volunteers for BMVC 2022</h2>
 
