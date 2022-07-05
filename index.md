@@ -9,10 +9,10 @@ title: Home
 
 ## Latest News
 
-**BMVC 2022**: Due to insufficient experienced volunteers, there is a risk that the BMVC will not run this year. **Please read the [important announcement]({{ site.baseurl }}/bmvc) and consider volunteering to help organise the conference.**
+**BMVC 2022**: Thanks for your patience. This year BMVC will be held from 21st - 24th November 2022. We invite papers to be submitted for the conference and ask that potential authors read the call for papers that deatails both the topics of interest for the conference. The #BMVC2022 paper submission deadline by 23:59 GMT Friday 29th July 2022. 
 
 <p style="text-align: center;">
-<a class="btn btn-danger" role="button" href="{{ site.baseurl }}/bmvc">Please read the important announcement about BMVC 2022.</a></p>
+<a class="btn btn-info" role="button" href="https://bmvc2022.org/">BMVC 2022 Website.</a></p>
 
 
 
