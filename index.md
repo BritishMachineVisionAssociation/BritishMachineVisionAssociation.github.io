@@ -9,7 +9,7 @@ title: Home
 
 ## Latest News
 
-**BMVC 2022**: Thanks for your patience. This year BMVC will be held from 21st - 24th November 2022. We invite papers to be submitted for the conference and ask that potential authors read the call for papers that deatails both the topics of interest for the conference. The #BMVC2022 paper submission deadline by 23:59 GMT Friday 29th July 2022. 
+**BMVC 2022**: Thanks for your patience. This year BMVC will be held from 21st - 24th November 2022. We invite papers to be submitted for the conference and ask that potential authors read the call for papers that deatails both the topics of interest for the conference. The paper submission deadline will be **23:59 GMT Friday 29th July 2022**. 
 
 <p style="text-align: center;">
 <a class="btn btn-info" role="button" href="https://bmvc2022.org/">BMVC 2022 Website.</a></p>

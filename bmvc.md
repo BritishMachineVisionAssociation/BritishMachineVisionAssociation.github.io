@@ -6,6 +6,11 @@ permalink: /bmvc
 
 ## The British Machine Vision Conference (BMVC)
 
+**BMVC 2022**: Thanks for your patience. This year BMVC will be held from 21st - 24th November 2022. We invite papers to be submitted for the conference and ask that potential authors read the call for papers that deatails both the topics of interest for the conference. The paper submission deadline will be **23:59 GMT Friday 29th July 2022**. 
+
+<p style="text-align: center;">
+<a class="btn btn-info" role="button" href="https://bmvc2022.org/">BMVC 2022 Website.</a></p>
+
 <!--
 <div class="alert mt-3 alert-danger" style="text-align:center;">
 <h2>BMVC Announcement : Risk of no conference for 2022</h2>
@@ -24,7 +29,7 @@ permalink: /bmvc
 <a class="btn btn-danger" role="button" href="mailto:chair@bmva.org?subject=Interest in joining the BMVC 2022 team">Express interested in joining the BMVC 2022 team (details below) before 11:00 BST, 8th June.</a></p>
 
 </div> 
--->
+
 
 <div class="alert mt-3 alert-warning" style="text-align:center;">
 <h2>BMVC Announcement : Conference will go ahead in 2022</h2>
@@ -41,13 +46,14 @@ permalink: /bmvc
 <p>
     There are also additional BMVA positions that we are looking for volunteers for and details of these roles will be forwarded on; once again, we hope that kind volunteers from the community will consider taking these positions on.
 </p>
+-->
 
 <!--<p style="text-align: center;">
 <a class="btn btn-danger" role="button" href="mailto:chair@bmva.org?subject=Interest in joining the BMVC 2022 team">Express interested in joining the BMVC 2022 team (details below) before 11:00 BST, 8th June.</a></p>-->
 
-</div>
 
 
+<!--
 
 
 <div class="alert mt-3 alert-secondary" style="text-align:center;">
@@ -105,7 +111,7 @@ permalink: /bmvc
 
 </div>
 
-
+-->
 
 
 <!--
@@ -337,6 +343,7 @@ The BMVC proceedings style files are available on [GitHub](https://github.com/Br
 The online proceedings for past conferences are available:
 
 <ul>
+<li><a href="https://www.bmvc2022.org/">BMVC 2022</a>, London</li>  
 <li><a href="https://www.bmvc2021-virtualconference.com/">BMVC 2021</a>, (Virtual)</li>  
 <li><a href="https://www.bmvc2020-conference.com/">BMVC 2020</a>, (Virtual)</li>    
 <li><a href="https://bmvc2019.org/">BMVC 2019</a>, Cardiff</li>
