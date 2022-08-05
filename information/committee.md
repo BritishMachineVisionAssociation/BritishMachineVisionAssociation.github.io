@@ -28,10 +28,10 @@ The current ExCo is as follows:
 | Social media | |
 | Website | Dr Neill Campbell (E19) |
 | Industrial liaison | Dr Stephen Pollard (co-opt) |
-| Bursaries | Prof Lourdes Agapito (co-opt) |
+| Bursaries |  |
 | Thesis archive | Dr Adrian Clark |
-| BMVC 2018 | Dr Hubert Shum (co-opt) |
-| BMVC 2019 | Prof David Marshall, <br>Dr Yulia Hicks, <br>Dr Kirill Siderov (co-opt) |
+| BMVC 2022 | Dr Guang Yang (co-opt), <br>Dr Constantino-Carlos Reyes-Aldasoro (co-opt) |
+| BMVC 2023 |  |
 | MIUA conference coordinator| Dr Xianghua Xie (E18) |
 | Summer School | Dr Tryphon Lambrou, <br>Dr Michal Mickiewicz (co-opt) |
 | Other members | Prof Marina Bloj (E18) |
