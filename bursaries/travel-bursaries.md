@@ -5,7 +5,7 @@ title: Travel Bursaries for Conferences
 
 ## Travel Bursaries for Conferences
 
-The BMVC regrets that it's not able to offer bursaries in 2022, we hope to reopen the scheme in 2023.  
+The BMVA regrets that it's not able to offer bursaries in 2022, we hope to reopen the scheme in 2023.  
 
 In order to encourage UK postgraduate students to present work at
 international conferences, the BMVA issues bursaries to help cover the travel
