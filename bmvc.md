@@ -6,10 +6,22 @@ permalink: /bmvc
 
 ## The British Machine Vision Conference (BMVC)
 
-**BMVC 2022**: Thanks for your patience. This year BMVC will be held from 21st - 24th November 2022. We invite papers to be submitted for the conference and ask that potential authors read the call for papers that deatails both the topics of interest for the conference. The paper submission deadline will be **23:59 GMT Friday 29th July 2022**. 
+### BMVC 2023
+
+<div class="row justify-content-md-center pb-2 ml-3 mr-3">
+    <div class="col-12 col-md-8 col-lg-6">
+        <a href="https://www.bmvc2023.org/">
+            <picture>
+                <img src="{{ site.baseurl }}/assets/images/events/bmvc-2023-logo.png" class="img-fluid rounded mx-auto d-block"  alt="BMVC 2023 Logo">
+            </picture>
+        </a>
+    </div>
+</div>
+
+**BMVC 2023**: We are pleased to announce that BMVC will be held from 20th - 24th November 2023 in Aberdeen. The timeline for the conference is [now available](https://bmvc2023.org/dates/) and the paper submission deadline will be **23:59 GMT Friday, 12 May 2023**. 
 
 <p style="text-align: center;">
-<a class="btn btn-info" role="button" href="https://bmvc2022.org/">BMVC 2022 Website.</a></p>
+<a class="btn btn-info" role="button" href="https://bmvc2023.org/">BMVC 2023 Website</a></p>
 
 <!--
 <div class="alert mt-3 alert-danger" style="text-align:center;">

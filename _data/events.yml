@@ -1,5 +1,17 @@
 # Events
 
+- type: BMVC Conference
+  title: BMVC 2023 in Aberdeen
+  date: 2022-11-20
+  image: bmvc-2023-logo.png
+  link: https://www.bmvc2023.org
+
+- type: MIUA Conference
+  title: MIUA 2023 in Aberdeen
+  date: 2023-07-19
+  image: miua2023.png
+  link: https://email.abdn-online.ac.uk/7EPZ-1ASB-T7VZ5-JND1-1/c.aspx
+
 - type: Summer School
   title: BMVA Summer School
   date: 2022-07-11
