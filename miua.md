@@ -9,7 +9,7 @@ permalink: /miua
 [MIUA 2023](https://email.abdn-online.ac.uk/7EPZ-1ASB-T7VZ5-JND1-1/c.aspx) will be held in Aberdeen on 19th — 21st July 2023.
 
 <p style="pb-2">
-<a href="https://email.abdn-online.ac.uk/7EPZ-1ASB-T7VZ5-JND1-1/c.aspx"><img src="{{ site.baseurl }}/assets/images/events/miua2023.png" class="img-fluid rounded mx-auto d-block" style="max-width: 200px;" alt="MIUA 2021 Logo"></a>
+<a href="https://email.abdn-online.ac.uk/7EPZ-1ASB-T7VZ5-JND1-1/c.aspx"><img src="{{ site.baseurl }}/assets/images/events/miua2023-banner.png" class="img-fluid rounded mx-auto d-block" style="max-width: 200px;" alt="MIUA 2021 Logo"></a>
 </p>
 
 <!--
