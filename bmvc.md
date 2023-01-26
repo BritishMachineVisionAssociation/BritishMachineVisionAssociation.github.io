@@ -6,7 +6,7 @@ permalink: /bmvc
 
 ## The British Machine Vision Conference (BMVC)
 
-### BMVC 2023
+
 
 <div class="row justify-content-md-center pb-2 ml-3 mr-3">
     <div class="col-12 col-md-8 col-lg-6">
