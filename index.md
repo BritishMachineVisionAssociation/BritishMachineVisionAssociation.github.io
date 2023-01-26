@@ -14,6 +14,7 @@ title: Home
 --->
 
 **BMVC 2023**: We are pleased to announce that BMVC will be held from 20th - 24th November 2023 in Aberdeen. The timeline for the conference is [now available](https://bmvc2023.org/dates/) and the paper submission deadline will be **23:59 GMT Friday, 12 May 2023**. 
+Please note, **there will be no extension on the paper submission deadline.**
 
 <p style="text-align: center;">
 <a class="btn btn-info" role="button" href="https://bmvc2023.org/">BMVC 2023 Website</a></p>
