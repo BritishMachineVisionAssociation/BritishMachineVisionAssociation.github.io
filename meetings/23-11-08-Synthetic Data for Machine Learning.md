@@ -23,7 +23,10 @@ We invite submissions from industry and academia, bringing together researchers 
 
 Abstracts are not published, and the re-presentation of previous work is acceptable and encouraged.
 
-Submit interest through <https://bit.ly/3ZpD5Ay> by 1st July
+<div class="alert mt-3 alert-info" style="text-align:center;">
+<span><strong>Submit interest through: &nbsp;&nbsp;
+<a class="btn btn-warning" role="button" href="https://bit.ly/3ZpD5Ay">Submit Interest here</a></strong></span>
+</div>
 
 
 ## Meeting Location
@@ -36,9 +39,19 @@ British Computer Society (BCS), 25 Copthall Avenue, London EC2R 7BP
 
 ## Registration
 
-BMVA Members: £20, 	Non-Members: £20, (Both Inc Lunch and refreshments for the day)
+We keep the cost of attending these events as low as possible to ensure no barriers from the whole computer vision community attending. 
+The registration costs are as follows 
+- **BMVA Members**:  £20
 
-<p style="text-align: center;">
-<a class="btn btn-info" role="button" href="https://bmva.charitysuite.com/events/mhezay4q">Register for a ticket here</a></p>
+- **Non BMVA Members**   £40 (Includes membership to the BMVA)
+
+Both Inc Lunch and refreshments for the day
+
+
+<div class="alert mt-3 alert-info" style="text-align:center;">
+<span><strong>Please register via charitysuite on this link: &nbsp;&nbsp;
+<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/events/mhezay4q">Register Here</a></strong></span>
+</div>
+
 
 
