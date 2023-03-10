@@ -17,7 +17,7 @@ The recent success of Machine Learning (ML) models is associated with the abilit
 Synthetic data comes as a solution to help solve all the above issues. While its application in CV and NLP has attracted more attention, especially with the recent paradigm shift from model-centric ML to data-centric ML solutions. This Symposium explores all stages of synthetic data from its creation to use in training and as applications.
 
 
-## Submission Deadline 
+## Submission Deadline 5th July
 
 We invite submissions from industry and academia, bringing together researchers and practitioners interested in all aspects of real data limitations, synthetic data-based solutions in the ML field, and their potential future applications. 
 
