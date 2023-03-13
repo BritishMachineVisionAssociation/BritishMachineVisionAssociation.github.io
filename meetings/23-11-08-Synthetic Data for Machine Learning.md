@@ -10,7 +10,7 @@ organisers: Abdulrahman Kerim - UCA, Leandro Soriano Marcolino – Lancaster Uni
 ---
 
 
-A copy of the Call for Papers can be found [here]({{ site.baseurl }}{% link assets/events/20-05-27Call.pdf %}).
+A copy of the Call for Papers can be found [here]({{ site.baseurl }}{% link assets/events/23-11-08-Call.pdf %}).
 ## Call for Papers
 
 The recent success of Machine Learning (ML) models is associated with the ability to train deep models on large-scale training data. However, annotating large-scale datasets is still the bottleneck in Computer Vision (CV) and Natural Language Processing (NLP) fields. Furthermore, ensuring diverse training data under challenging attributes like adverse weather conditions or when data is scarce is not only dangerous, time-consuming, and hard to collect but also cumbersome and subjective to human errors in the annotation process.
