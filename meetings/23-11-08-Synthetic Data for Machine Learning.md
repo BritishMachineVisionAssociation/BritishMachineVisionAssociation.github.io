@@ -6,7 +6,7 @@ index: 1
 date: 2023-11-08
 meeting-title: "Synthetic Data for Machine Learning"
 image: 23-11-08SytheticData.png
-organisers: Abdulrahman Kerim - UCA, Leandro Soriano Marcolino – Lancaster University, Erickson Nascimento - Microsoft
+organisers: Abdulrahman Kerim - UCA, Leandro Soriano Marcolino – Lancaster University, Erickson Nascimento - Universidade Federal de Minas Gerais
 ---
 
 
