@@ -18,7 +18,7 @@ You do not need to be a member of the BMVA to attend one of our technical meetin
 
 ## Volunteer to chair your own meeting
 
-We are currently **SEEKING VOLUNTEERS** to host meetings for Autumn 2020 onwards. 
+We are currently **SEEKING VOLUNTEERS** to host meetings for Autumn 2024 onwards. 
 
 This is not a hard task and involves:
 
