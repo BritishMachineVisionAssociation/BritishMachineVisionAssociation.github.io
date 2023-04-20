@@ -14,7 +14,7 @@ non-member technical meeting cost includes a year's free membership to the
 BMVA and will save you having to fill in a separate form.
 
 <div class="alert mt-3 alert-info" style="text-align:center;">
-<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/events/dwonyclg">Join Here</a></strong></span>
+<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/events/dwonyclg">Join Here</a>
 </div>
 
 
