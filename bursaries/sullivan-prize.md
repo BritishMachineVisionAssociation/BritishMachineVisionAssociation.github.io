@@ -3,6 +3,7 @@ layout: default_sparse
 title: The Sullivan Doctoral Thesis Prize
 ---
 
+<!--
 ## The Sullivan Doctoral Thesis Prize
 
 The British Machine Vision Association has established a prize fund to
@@ -26,6 +27,63 @@ and supervisors may act as nominators, but the committee would like to
 receive an accompanying report and endorsement of the nomination from
 the external examiner of the thesis. The closing date for theses to be
 considered for the award of the 2019 prize is 31st May 2019.
+-->
+
+## The Sullivan Doctoral Thesis Prize
+
+<div class="alert mt-3 alert-warning" style="text-align:center;">
+<h2>Mission for 2023</h2>
+
+<p>Encourage wider participation, streamline submission and review process, widen scope for topics of interest, and expand marking criteria to recognise a more diverse range of talent.</p>
+
+<p>Submission details are provided below. Please note that submissions are now via the new <a href="https://cmt3.research.microsoft.com/SullivanThesisPrize2023">CMT website</a>. </p>
+</div>
+
+### Overview
+
+The Sullivan Thesis Prize celebrates early stage researchers working in the field of computer vision and related areas in the United Kingdom. The prize will be presented at the annual British Machine Vision Conference (BMVC)conference dinner. The prize fund is provided by the British Machine Vision Association (BMVA) to commemorate the contribution made by the late Professor Geoff Sullivan.
+
+While normally awarded annually, in 2023 we have widened the eligibility criteria due to the impact of COVID-19. We want all applicable candidates to feel empowered to apply, so please feel free to contact the award organizers if you have any further questions, or are unsure about eligibility.
+
+### Acceptance Criteria
+
+We welcome submissions from anyone who has submitted their PhD thesis at a university in the United Kingdom between 1st April 2019 and 31st August 2023. Any topic that is applicable under the current BMVC call for papers is valid.
+
+### Submission
+
+Candidates should submit a short summary (max 500 words) providing an overview of the contributions made during their PhD, and a digital copy of their completed PhD Thesis. If available, it is recommended that the external examiner(s) report for the Thesis is also included, which can either be post-viva or post-corrections (preferred).
+
+[Optional] Candidates may also provide additional supporting evidence, which may include but is not limited to:
+
+- Up to 3 accepted paper(s) as first author (or equal contributor)
+- Blog post(s)
+- Conference poster(s)
+- Details of External talks (e.g. conferences)
+- Profile page(s) on Google Scholar, ResearchGate etc.
+- Report from an industrial placement
+- Endorsement from either an academic or industrial supervisor
+- Demos
+
+Please submit evidence in PDF format, or provide an accessible link. If any of the evidence is confidential please get permission before submitting.
+
+Submissions should be made using CMT: https://cmt3.research.microsoft.com/SullivanThesisPrize2023
+
+**Submission deadline: 15 September 2023**
+
+### Award process
+
+After the submission deadline, each application will be assessed by a panel of experts from academia and industry. Applications will be marked across a broad range of criteria including originality, academic/industrial impact, breadth and depth.
+
+### Any Questions?
+
+Please email Sullivan Thesis Prize Chairs at acmackin@amazon.co.uk (Dr. Alex Mackin)
+
+
+
+
+
+
+
 
 ### Previous winners
 
