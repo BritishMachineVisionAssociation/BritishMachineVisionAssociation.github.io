@@ -66,7 +66,7 @@ Candidates should submit a short summary (max 500 words) providing an overview o
 
 Please submit evidence in PDF format, or provide an accessible link. If any of the evidence is confidential please get permission before submitting.
 
-Submissions should be made using CMT: https://cmt3.research.microsoft.com/SullivanThesisPrize2023
+Submissions should be made using CMT: [https://cmt3.research.microsoft.com/SullivanThesisPrize2023](https://cmt3.research.microsoft.com/SullivanThesisPrize2023).
 
 **Submission deadline: 15 September 2023**
 
@@ -76,7 +76,7 @@ After the submission deadline, each application will be assessed by a panel of e
 
 ### Any Questions?
 
-Please email Sullivan Thesis Prize Chairs at acmackin@amazon.co.uk (Dr. Alex Mackin)
+Please email Sullivan Thesis Prize Chairs at [Dr Alex Mackin](mailto:acmackin@amazon.co.uk).
 
 
 
