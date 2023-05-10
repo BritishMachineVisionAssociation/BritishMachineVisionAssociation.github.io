@@ -13,12 +13,22 @@ title: Home
 **BMVC 2022**: Thanks for your patience. This year BMVC will be held from 21st - 24th November 2022. We invite papers to be submitted for the conference and ask that potential authors read the call for papers that deatails both the topics of interest for the conference. The paper submission deadline will be **23:59 GMT Friday 29th July 2022**. 
 --->
 
+**Sullivan Thesis Prize Nominations**: We are pleased to announce that we are now accepting nominations for the Sullivan Thesis Prize again. These include **retrospective** nominations from **2019-2023** with a deadline of **15 September 2023**. Please see the [Sullivan thesis prize page]({{ site.baseurl }}/bursaries/sullivan-prize) for further details.
+
+
+<p style="text-align: center;">
+<a class="btn btn-info" role="button" href="{{ site.baseurl }}/bursaries/sullivan-prize">Thesis Prize Nominations</a></p>
+
+
+
 **BMVC 2023**: We are pleased to announce that BMVC will be held from 20th - 24th November 2023 in Aberdeen. The timeline for the conference is [now available](https://bmvc2023.org/dates/) and the paper submission deadline will be **23:59 GMT Friday, 12 May 2023**. 
 Please note, **there will be no extension on the paper submission deadline.**
 
 <p style="text-align: center;">
 <a class="btn btn-info" role="button" href="https://bmvc2023.org/">BMVC 2023 Website</a></p>
 
+
+**IAPR Information**: The BMVA is a member of the [International Association for Pattern Recognition](http://www.iapr.org/) that provides a number of opportunities open to BMVA members including research travel scholarships and a list of internships. Please see the [IAPR page]({{ site.baseurl }}{% link information/iapr.md %}) for further details.
 
 
 ## Aims and Objectives
@@ -102,9 +112,9 @@ The association is actively interested in a number of application domains of com
 ### Wider Associations
 
 The BMVA is a member organisation of
-  [the International Association of Pattern Recognition](http://www.iapr.org/)
+  [the International Association for Pattern Recognition](http://www.iapr.org/)
 
-<a href="http://www.ukiva.org">![](/assets/images/layout/affiliates/logo-iapr.png)</a>
+<a href="http://www.iapr.org/">![](/assets/images/layout/affiliates/logo-iapr.png)</a>
 
 The BMVA is a member of the
 [Campaign for Science and Engineering](http://www.sciencecampaign.org.uk)
