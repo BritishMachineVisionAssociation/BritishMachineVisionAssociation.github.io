@@ -5,19 +5,19 @@ title: "BMVA Symposium on Vision and Language. (10th January 2024) "
 index: 1
 date: 2024-01-10
 meeting-title: "BMVA Symposium on Vision and Language"
-image: 23-11-08SytheticDta.png
+image: BMVAForYoutube.png
 organisers: Michael Wray Unviersity of Bristol, Davide Moltisanti (University of Edinburgh), and Tengda Han (University of Oxford). 
 ---
 
 ## Keynote Speaker
 
-Andrew Zisserman (Deepmind, University of Oxford)
+Andrew Zisserman (University of Oxford)
 
 ## Call for Papers
 
 Coming Soon
 
-The Call for Papers can be found [here]({{ site.baseurl }}{% link assets/events/24-01-10-Call.pdf %} Coming Soon.
+The Call for Papers is Coming Soon.
 
 ## Submission Deadline 27th November
 
