@@ -1,12 +1,12 @@
 ---
 layout: meeting
 type: One Day Meeting
-title: "BMVA Symposium on Vision and Language. (10th January 2024) "
+title: "BMVA Symposium on Vision and Language. (17th January 2024) "
 index: 1
-date: 2024-01-10
+date: 2024-01-17
 meeting-title: "BMVA Symposium on Vision and Language"
 image: BMVAForYoutube.png
-organisers: Michael Wray Unviersity of Bristol, Davide Moltisanti (University of Edinburgh), and Tengda Han (University of Oxford). 
+organisers: Michael Wray (University of Bristol), Davide Moltisanti (University of Edinburgh), and Tengda Han (University of Oxford). 
 ---
 
 ## Keynote Speaker
