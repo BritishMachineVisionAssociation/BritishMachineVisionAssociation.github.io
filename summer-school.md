@@ -9,7 +9,7 @@ permalink: /summer-school
 The [2023 Summer School](https://cvss-uea.uk) will be held in Norwich (at the University of East Anglia) on 10th - 14th July 2023. Please see the [summer school website](https://cvss-uea.uk/) for more details.
 
 <p style="pb-2">
-<a href="https://cvss-uea.uk//"><img src="{{ site.baseurl }}/assets/images/events/cvss2022.jpg" class="img-fluid rounded mx-auto d-block" style="max-width: 400px;" alt="CVSS 2023 Logo"></a>
+<a href="https://cvss-uea.uk//"><img src="{{ site.baseurl }}/assets/images/events/2023-norwich-summer-school.jpg" class="img-fluid rounded mx-auto d-block" style="max-width: 400px;" alt="CVSS 2023 Logo"></a>
 </p>
 
 The BMVA runs an annual summer school on computer vision. Speakers on the Summer School are academic researchers or experienced practitioners from industry. It has been running for since the 1990s and is updated every year to ensure it covers the state-of-the-art, broadens awareness of related research fields, and develops research skills.

@@ -13,7 +13,7 @@ title: Home
 **BMVC 2022**: Thanks for your patience. This year BMVC will be held from 21st - 24th November 2022. We invite papers to be submitted for the conference and ask that potential authors read the call for papers that deatails both the topics of interest for the conference. The paper submission deadline will be **23:59 GMT Friday 29th July 2022**. 
 --->
 
-**Call for Volunteers for BMVA Summer School 2024**: We are seeking volunteers for both hosting and helping on the organising team for the summer school. Please see the [summer school page]({{ site.baseurl }}/summer-school) for further details and the [online form](https://forms.gle/rY79xfc9xc38GdYz7).
+**Call for Volunteers for BMVA Summer School 2024: Deadline 24th July 2023**: We are seeking volunteers for both hosting and helping on the organising team for the summer school. Please see the [summer school page]({{ site.baseurl }}/summer-school) for further details and the [online form](https://forms.gle/rY79xfc9xc38GdYz7).
 
 **Sullivan Thesis Prize Nominations**: We are pleased to announce that we are now accepting nominations for the Sullivan Thesis Prize again. These include **retrospective** nominations from **2019-2023** with a deadline of **15 September 2023**. Please see the [Sullivan thesis prize page]({{ site.baseurl }}/bursaries/sullivan-prize) for further details.
 
