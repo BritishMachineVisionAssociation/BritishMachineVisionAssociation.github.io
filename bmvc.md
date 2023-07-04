@@ -24,6 +24,28 @@ Please note, **there will be no extension on the paper submission deadline.**
 <p style="text-align: center;">
 <a class="btn btn-info" role="button" href="https://bmvc2023.org/">BMVC 2023 Website</a></p>
 
+### Call for Volunteers for hosting and organsing BMVC!
+
+We are seeking volunteers to host and form the organising team for BMVC.
+
+BMVC is a flagship conference and important conference for the global computer vision community; as such it is a priorty for the BMVA. The conference can only run with support of the vision community; the organisational teams include junior and senior researchers across both academia and industry from the UK and around the world. 
+
+The vision community, and the size of the conference, has expanded over recent years and we currently plan for around 500 attendees. This places a strain on the old model of hosting within a university with a team entirely from the same university. Instead, BMVC has moved to a model where the conference is split with general chairs comprising a local chair and a programme chair. The local chair is responsible for overseeing the physical hosting of the conference and the programme chair for the selection of the papers (appointing area chairs and reviewers, etc...). These chairs lead teams of volunteers who do not need to be at the same institution and we encourage forming a diverse team from across the global vision community. 
+
+The BMVA committee can assist with finding and securing venues if this is required (the scale of BMVC can now make it difficult to host within a university lecture theatre for example) and we can provide assistance with putting together the budget and sponsorship.
+
+<div class="alert mt-3 alert-danger" style="text-align:center;">
+<h2>Volunteers for BMVC 2024: Deadline 24th July 2023</h2>
+
+For the expression of interest, we are looking for individuals with experience of organising or hosting workshops or conferences who would form the general local and/or programme chairs. 
+
+We are also looking for volunteers to form the programme committee (should have experience as an area chair or above) and the other roles of the organising committee (please see this year's conference website for examples of the roles required).
+
+<p style="text-align: center;">
+<a class="btn btn-danger" role="button" href="https://forms.gle/SAHrQg7LAUo84TRGA">Expression of Interest Form</a></p>
+
+</div>
+
 <!--
 <div class="alert mt-3 alert-danger" style="text-align:center;">
 <h2>BMVC Announcement : Risk of no conference for 2022</h2>

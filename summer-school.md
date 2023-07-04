@@ -21,7 +21,7 @@ The summer school also fulfills an important social function in that it gives at
 The summer school is an excellent opportunity for computer vision researchers at the start of their careers and is a priority for the BMVA. This is only possible through the kind work of volunteers from the academic and industry communities who host and support the organisation of the school.
 
 <div class="alert mt-3 alert-danger" style="text-align:center;">
-<h2>Volunteers for BMVA Summer School 2024</h2>
+<h2>Volunteers for BMVA Summer School 2024: Deadline 24th July 2023</h2>
 
 <p>We are asking for volunteers to host the BMVA Summer School (in 2024 and beyond)! The deadline for applications for 2024 is <b>24th July 2023</b>. Please submit an expression of interest via <a href="https://forms.gle/rY79xfc9xc38GdYz7">this google form</a>. At this stage, it is sufficient to express an interest in either hosting the summer school (in which case a proposed venue and dates are required) or to express interest in being involved in the organisation team for the school (which would be hosted elsewhere). Volunteers for both would be most welcome. Please see the <a href="https://cvss-uea.uk//">current website</a> as an example of the content and activities.</p>
 
