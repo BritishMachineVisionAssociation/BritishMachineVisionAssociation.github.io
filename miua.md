@@ -73,6 +73,31 @@ Statistics and the proceedings from previous conferences can be found in the tab
 <td align="left"></td>
 </tr>-->
 
+<!-- <tr class="even">
+<td align="left">2020</td>
+<td align="left"><a href="http://miua2020.com/">Oxford</a></td>
+<td align="right">72 (Tech.) Virtual Conference</td>
+<td align="right">34 (47%)</td>
+<td align="right">34</td>
+<td align="right">-</td>
+<td align="right">55%</td>
+<td align="right">45%</td>
+<td align="right">411 (free registration)</td>
+<td align="left"><a href="https://link.springer.com/book/10.1007/978-3-030-52791-4">proceedings</a></td>
+</tr> -->
+
+<tr class="odd">
+<td align="left">2020</td>
+<td align="left"><a href="http://miua2021.com/">Oxford</a></td>
+<td align="right">81 (Tech.) Virtual Conference</td>
+<td align="right">40 (49%)</td>
+<td align="right">40</td>
+<td align="right">-</td>
+<td align="right">40%</td>
+<td align="right">60%</td>
+<td align="right">113</td>
+<td align="left"><a href="https://link.springer.com/book/10.1007/978-3-030-80432-9">proceedings</a></td>
+</tr>
 
 <tr class="even">
 <td align="left">2020</td>
