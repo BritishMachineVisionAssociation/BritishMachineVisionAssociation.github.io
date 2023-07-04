@@ -70,6 +70,34 @@ Statistics and the proceedings from previous conferences can be found in the tab
 <td align="right"></td>
 <td align="left"></td>
 </tr>-->
+
+
+<tr class="even">
+<td align="left">2020</td>
+<td align="left"><a href="http://miua2020.com/">Oxford</a></td>
+<td align="right">72 (Tech.) Virtual Conference</td>
+<td align="right">34 (47%)</td>
+<td align="right">34</td>
+<td align="right">-</td>
+<td align="right">55%</td>
+<td align="right">45%</td>
+<td align="right">411 (free registration)</td>
+<td align="left"><a href="https://link.springer.com/book/10.1007/978-3-030-52791-4">proceedings</a></td>
+</tr>
+<tr class="odd">
+<td align="left">2019</td>
+<td align="left"><a href="https://miua2019.wordpress.com/">Liverpool</a></td>
+<td align="right">70 (Tech.) 20 (Clin. Abs.)</td>
+<td align="right">43 (61.4%)</td>
+<td align="right">36</td>
+<td align="right">7</td>
+<td align="right">64%</td>
+<td align="right">46%</td>
+<td align="right">110</td>
+<td align="left"><a href="https://link.springer.com/book/10.1007/978-3-030-39343-4">proceedings</a></td>
+</tr>
+
+
 <tr class="even">
 <td align="left">2018</td>
 <td align="left"><a href="https://www.miua2018.soton.ac.uk/">Southampton</a></td>
