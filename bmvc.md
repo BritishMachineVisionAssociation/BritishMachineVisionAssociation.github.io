@@ -37,9 +37,9 @@ The BMVA committee can assist with finding and securing venues if this is requir
 <div class="alert mt-3 alert-danger" style="text-align:center;">
 <h2>Volunteers for BMVC 2024: Deadline 24th July 2023</h2>
 
-For the expression of interest, we are looking for individuals with experience of organising or hosting workshops or conferences who would form the general local and/or programme chairs. 
+<p>For the expression of interest, we are looking for individuals with experience of organising or hosting workshops or conferences who would form the general local and/or programme chairs.</p>
 
-We are also looking for volunteers to form the programme committee (should have experience as an area chair or above) and the other roles of the organising committee (please see this year's conference website for examples of the roles required).
+<p>We are also looking for volunteers to form the programme committee (should have experience as an area chair or above) and the other roles of the organising committee (please see this year's conference website for examples of the roles required).</p>
 
 <p style="text-align: center;">
 <a class="btn btn-danger" role="button" href="https://forms.gle/SAHrQg7LAUo84TRGA">Expression of Interest Form</a></p>
