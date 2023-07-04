@@ -28,6 +28,8 @@ The Steering Committee reports to the BMVA ExCo regarding annual MIUA organisati
 
 ### Previous Conferences
 
+
+
 Statistics and the proceedings from previous conferences can be found in the table below:
 
 <table style="width:100%;" class="table">
