@@ -17,7 +17,7 @@ title: Home
 **Call for Volunteers for BMVC 2024: Deadline 24th July 2023**: We are seeking volunteers for both hosting and helping on the organising team for BMVC. Please see the [BMVC page]({{ site.baseurl }}/bmvc) for further details and the [online form](https://forms.gle/SAHrQg7LAUo84TRGA).
 
 <p style="text-align: center;">
-<a class="btn btn-warning" role="button" href="https://forms.gle/SAHrQg7LAUo84TRGA">Volunteers for the BMVA Summer School</a></p>
+<a class="btn btn-warning" role="button" href="https://forms.gle/SAHrQg7LAUo84TRGA">Volunteers for BMVC</a></p>
 
 
 **Call for Volunteers for BMVA Summer School 2024: Deadline 24th July 2023**: We are seeking volunteers for both hosting and helping on the organising team for the summer school. Please see the [summer school page]({{ site.baseurl }}/summer-school) for further details and the [online form](https://forms.gle/rY79xfc9xc38GdYz7).
