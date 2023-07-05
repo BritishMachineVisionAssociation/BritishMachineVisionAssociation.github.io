@@ -47,7 +47,7 @@ The BMVA keeps an archive of PhD theses written by students at UK institutions. 
 <td align="left">{{ thesis.date | date: "%Y" }}</td>
 <td align="left">{{ thesis.author }}</td>
 <td align="left">{{ thesis.institution }}</td>
-<td align="left"><a href="http://www.bmva.org/{{ thesis.pdf-link }}">{{ thesis.title }}</a></td>
+<td align="left"><a href="{{ site.archive_url }}/{{ thesis.pdf-link }}">{{ thesis.title }}</a></td>
 </tr>
 {% endfor %}
 </tbody>

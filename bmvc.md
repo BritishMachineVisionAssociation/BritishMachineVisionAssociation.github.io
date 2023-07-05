@@ -382,43 +382,43 @@ The online proceedings for past conferences are available:
 <li><a href="https://www.bmvc2021-virtualconference.com/">BMVC 2021</a>, (Virtual)</li>  
 <li><a href="https://www.bmvc2020-conference.com/">BMVC 2020</a>, (Virtual)</li>    
 <li><a href="https://bmvc2019.org/">BMVC 2019</a>, Cardiff</li>
-<li><a href="https://bmva-archive.org.uk/bmvc/2018/index.html">BMVC 2018</a>, Northumbria</li>
-<li><a href="https://bmva-archive.org.uk/bmvc/2017/index.html">BMVC 2017</a>, London</li>
-<li><a href="https://bmva-archive.org.uk/bmvc/2016/index.html">BMVC 2016</a>, York</li>
-<li><a href="https://bmva-archive.org.uk/bmvc/2015/index.html">BMVC 2015</a>, Swansea</li>
-<li><a href="https://bmva-archive.org.uk/bmvc/2014/index.html">BMVC 2014</a>, Nottingham</li>
-<li><a href="https://bmva-archive.org.uk/bmvc/2013/index.html">BMVC 2013</a>, Bristol</li>
-<li><a href="https://bmva-archive.org.uk/bmvc/2012/index.html">BMVC 2012</a>, Surrey</li>
-<li><a href="https://bmva-archive.org.uk/bmvc/2011/index.html">BMVC 2011</a>, Dundee</li>
-<li><a href="https://bmva-archive.org.uk/bmvc/2010/index.html">BMVC 2010</a>, Aberystwyth</li>
-<li><a href="https://bmva-archive.org.uk/bmvc/2009/index.html">BMVC 2009</a>, London</li>
-<li><a href="https://bmva-archive.org.uk/bmvc/2008/index.html">BMVC 2008</a>, Leeds</li>
-<li><a href="https://bmva-archive.org.uk/bmvc/2007/index.html">BMVC 2007</a>, Warwick</li>
-<li><a href="https://bmva-archive.org.uk/bmvc/2006/index.html">BMVC 2006</a>, Edinburgh</li>
-<li><a href="https://bmva-archive.org.uk/bmvc/2005/index.html">BMVC 2005</a>, Oxford</li>
-<li><a href="https://bmva-archive.org.uk/bmvc/2004/index.html">BMVC 2004</a>, Kingston</li>
-<li><a href="https://bmva-archive.org.uk/bmvc/2003/index.html">BMVC 2003</a>, Norwich</li>
-<li><a href="https://bmva-archive.org.uk/bmvc/2002/index.html">BMVC 2002</a>, Cardiff</li>
-<li><a href="https://bmva-archive.org.uk/bmvc/2001/index.html">BMVC 2001</a>, Manchester</li>
-<li><a href="https://bmva-archive.org.uk/bmvc/2000/index.html">BMVC 2000</a>, Bristol</li>
-<li><a href="https://bmva-archive.org.uk/bmvc/1999/index.html">BMVC 1999</a>, Nottingham</li>
-<li><a href="https://bmva-archive.org.uk/bmvc/1998/index.html">BMVC 1998</a>, Southampton</li>
-<li><a href="https://bmva-archive.org.uk/bmvc/1997/index.html">BMVC 1997</a>, Essex</li>
-<li><a href="https://bmva-archive.org.uk/bmvc/1996/index.html">BMVC 1996</a>, Edinburgh</li>
-<li><a href="https://bmva-archive.org.uk/bmvc/1995/index.html">BMVC 1995</a>, Birmingham</li>
-<li><a href="https://bmva-archive.org.uk/bmvc/1994/index.html">BMVC 1994</a>, York</li>
-<li><a href="https://bmva-archive.org.uk/bmvc/1993/index.html">BMVC 1993</a>, Surrey</li>
-<li><a href="https://bmva-archive.org.uk/bmvc/1992/index.html">BMVC 1992</a>, Leeds</li>
-<li><a href="https://bmva-archive.org.uk/bmvc/1991/index.html">BMVC 1991</a>, Glasgow</li>
-<li><a href="https://bmva-archive.org.uk/bmvc/1990/index.html">BMVC 1990</a>, Oxford</li>
+<li><a href="{{ site.archive_url }}/bmvc/2018/index.html">BMVC 2018</a>, Northumbria</li>
+<li><a href="{{ site.archive_url }}/bmvc/2017/index.html">BMVC 2017</a>, London</li>
+<li><a href="{{ site.archive_url }}/bmvc/2016/index.html">BMVC 2016</a>, York</li>
+<li><a href="{{ site.archive_url }}/bmvc/2015/index.html">BMVC 2015</a>, Swansea</li>
+<li><a href="{{ site.archive_url }}/bmvc/2014/index.html">BMVC 2014</a>, Nottingham</li>
+<li><a href="{{ site.archive_url }}/bmvc/2013/index.html">BMVC 2013</a>, Bristol</li>
+<li><a href="{{ site.archive_url }}/bmvc/2012/index.html">BMVC 2012</a>, Surrey</li>
+<li><a href="{{ site.archive_url }}/bmvc/2011/index.html">BMVC 2011</a>, Dundee</li>
+<li><a href="{{ site.archive_url }}/bmvc/2010/index.html">BMVC 2010</a>, Aberystwyth</li>
+<li><a href="{{ site.archive_url }}/bmvc/2009/index.html">BMVC 2009</a>, London</li>
+<li><a href="{{ site.archive_url }}/bmvc/2008/index.html">BMVC 2008</a>, Leeds</li>
+<li><a href="{{ site.archive_url }}/bmvc/2007/index.html">BMVC 2007</a>, Warwick</li>
+<li><a href="{{ site.archive_url }}/bmvc/2006/index.html">BMVC 2006</a>, Edinburgh</li>
+<li><a href="{{ site.archive_url }}/bmvc/2005/index.html">BMVC 2005</a>, Oxford</li>
+<li><a href="{{ site.archive_url }}/bmvc/2004/index.html">BMVC 2004</a>, Kingston</li>
+<li><a href="{{ site.archive_url }}/bmvc/2003/index.html">BMVC 2003</a>, Norwich</li>
+<li><a href="{{ site.archive_url }}/bmvc/2002/index.html">BMVC 2002</a>, Cardiff</li>
+<li><a href="{{ site.archive_url }}/bmvc/2001/index.html">BMVC 2001</a>, Manchester</li>
+<li><a href="{{ site.archive_url }}/bmvc/2000/index.html">BMVC 2000</a>, Bristol</li>
+<li><a href="{{ site.archive_url }}/bmvc/1999/index.html">BMVC 1999</a>, Nottingham</li>
+<li><a href="{{ site.archive_url }}/bmvc/1998/index.html">BMVC 1998</a>, Southampton</li>
+<li><a href="{{ site.archive_url }}/bmvc/1997/index.html">BMVC 1997</a>, Essex</li>
+<li><a href="{{ site.archive_url }}/bmvc/1996/index.html">BMVC 1996</a>, Edinburgh</li>
+<li><a href="{{ site.archive_url }}/bmvc/1995/index.html">BMVC 1995</a>, Birmingham</li>
+<li><a href="{{ site.archive_url }}/bmvc/1994/index.html">BMVC 1994</a>, York</li>
+<li><a href="{{ site.archive_url }}/bmvc/1993/index.html">BMVC 1993</a>, Surrey</li>
+<li><a href="{{ site.archive_url }}/bmvc/1992/index.html">BMVC 1992</a>, Leeds</li>
+<li><a href="{{ site.archive_url }}/bmvc/1991/index.html">BMVC 1991</a>, Glasgow</li>
+<li><a href="{{ site.archive_url }}/bmvc/1990/index.html">BMVC 1990</a>, Oxford</li>
 </ul>
 
 Proceedings for the BMVC's immediate predecessor, the Alvey Vision Conference, are also available:
 
 <ul>
-<li><a href="https://bmva-archive.org.uk/bmvc/1989/index.html">AVC 1989</a>, Reading</li>
-<li><a href="https://bmva-archive.org.uk/bmvc/1988/index.html">AVC 1988</a>, Manchester</li>
-<li><a href="https://bmva-archive.org.uk/bmvc/1987/index.html">AVC 1987</a>, Cambridge</li>
+<li><a href="{{ site.archive_url }}/bmvc/1989/index.html">AVC 1989</a>, Reading</li>
+<li><a href="{{ site.archive_url }}/bmvc/1988/index.html">AVC 1988</a>, Manchester</li>
+<li><a href="{{ site.archive_url }}/bmvc/1987/index.html">AVC 1987</a>, Cambridge</li>
 </ul>
 
 ### Copyright

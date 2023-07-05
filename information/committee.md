@@ -17,7 +17,7 @@ The current ExCo is as follows:
 
 | Office | Person |
 |:-------|:-------|
-| Chairman | Dr Neill Campbell (E19) |
+| Chairman | Prof Neill Campbell (E19) |
 | Treasurer and Company Secretary&nbsp;&nbsp;&nbsp;| Prof Toby Breckon (E18) |
 | Membership secretary | Dr Helen Cooper |
 | ExCo Meetings secretary | Dr Helen Cooper |
@@ -26,7 +26,7 @@ The current ExCo is as follows:
 | Meetings coordinator | Dr Andrew Gilbert (E18) |
 | Newsletter editor | Prof Roy Davies (E19) |
 | Social media | |
-| Website | Dr Neill Campbell (E19) |
+| Website | Prof Neill Campbell (E19) |
 | Industrial liaison | Dr Stephen Pollard (co-opt) |
 | Bursaries |  |
 | Thesis archive | Dr Adrian Clark |
