@@ -418,7 +418,7 @@ Proceedings for the BMVC's immediate predecessor, the Alvey Vision Conference, a
 <ul>
 <li><a href="{{ site.archive_url }}/bmvc/1989/index.html">AVC 1989</a>, Reading</li>
 <li><a href="{{ site.archive_url }}/bmvc/1988/index.html">AVC 1988</a>, Manchester</li>
-<li><a href="{{ site.archive_url }}/bmvc/1987/index.html">AVC 1987</a>, Cambridge</li>
+<li><a href="{{ site.baseurl }}/bmvc/1987/index.html">AVC 1987</a>, Cambridge</li>
 </ul>
 
 ### Copyright
