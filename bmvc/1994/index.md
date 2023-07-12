@@ -1,6 +1,12 @@
+---
+layout: default_sparse
+title: The British Machine Vision Conference (BMVC)
+permalink: /bmvc/1994/index
+---
+
 # Proceedings of the British Machine Vision Conference 1994
 
-[Front matter](bmvc-94-000.pdf)
+[Front matter]({{ site.archive_url }}/bmvc/1994/bmvc-94-000.pdf)
 
 [Relief: Pictorial and otherwise](bmvc-94-001.html)
 Jan J. Koenderink and Andrea.J. van Doorn
@@ -239,5 +245,5 @@ V. Caglioti, F. Mainardi, M. Pilu, and D.G. Sorrenti
 [Mapping Algorithms on to Platforms: An Approach to Algorithm and Hardware Co-Design](bmvc-94-079.html)
 P. Courtney, R. B. Yates, and P. A. Ivey
 
-[Author Index](bmvc-94-080.pdf)
+[Author Index]({{ site.archive_url }}/bmvc/1994/bmvc-94-080.pdf)
 

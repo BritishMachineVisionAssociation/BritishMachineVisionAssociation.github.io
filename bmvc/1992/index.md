@@ -1,6 +1,12 @@
+---
+layout: default_sparse
+title: The British Machine Vision Conference (BMVC)
+permalink: /bmvc/1992/index
+---
+
 # Proceedings of the British Machine Vision Conference 1992
 
-[Front matter](bmvc-92-000.pdf)
+[Front matter]({{ site.archive_url }}/bmvc/1992/bmvc-92-000.pdf)
 
 [Performance Characterization in Computer Vision](bmvc-92-001.html)
 R.M. Haralick
@@ -188,5 +194,5 @@ K.C. Wong and J. Kittler
 [Linear Algorithms for Object Pose Estimation](bmvc-92-062.html)
 T.N. Tan, G.D. Sullivan and K.D. Baker
 
-[Author Index](bmvc-92-063.pdf)
+[Author Index]({{ site.archive_url }}/bmvc/1992/bmvc-92-063.pdf)
 

@@ -1,6 +1,12 @@
+---
+layout: default_sparse
+title: The British Machine Vision Conference (BMVC)
+permalink: /bmvc/1995/index
+---
+
 # Proceedings of the British Machine Vision Conference 1995
 
-[Front matter](bmvc-95-000.pdf)
+[Front matter]({{ site.archive_url }}/bmvc/1995/bmvc-95-000.pdf)
 
 [Medical Computer Vision, Virtual Reality and Robotics: Promising Research Tracks](bmvc-95-001.html)
 Professor N Ayache
@@ -212,4 +218,4 @@ KC Yow and R Cipolla
 [Sign Language Recognition: an Application of the Theory of Size Functions.](bmvc-95-070.html)
 C Uras and A Verri
 
-[Author index](bmvc-95-071.pdf)
+[Author index]({{ site.archive_url }}/bmvc/1995/bmvc-95-071.pdf)

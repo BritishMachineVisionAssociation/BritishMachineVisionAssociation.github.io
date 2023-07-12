@@ -1,3 +1,9 @@
+---
+layout: default_sparse
+title: The British Machine Vision Conference (BMVC)
+permalink: /bmvc/1996/index
+---
+
 # The British Machine Vision Conference 1996
 
 [Independent 3D Motion Detection through Robust Regression in Depth Layers](argyros_1.html)

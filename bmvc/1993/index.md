@@ -1,6 +1,12 @@
+---
+layout: default_sparse
+title: The British Machine Vision Conference (BMVC)
+permalink: /bmvc/1993/index
+---
+
 # Proceedings of the British Machine Vision Conference 1993
 
-[Front matter](bmvc-93-000.pdf)
+[Front matter]({{ site.archive_url }}/bmvc/1993/bmvc-93-000.pdf)
 
 [Issues in Robot Vision](bmvc-93-001.html)
 Goesta H. Granlund

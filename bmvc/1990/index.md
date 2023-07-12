@@ -1,7 +1,13 @@
+---
+layout: default_sparse
+title: The British Machine Vision Conference (BMVC)
+permalink: /bmvc/1990/index
+---
+
 # Proceedings of the British Machine Vision Conference 1990
 >Body:
 
-[Front matter](bmvc-90-000.pdf)
+[Front matter]({{ site.archive_url }}/bmvc/1990/bmvc-90-000.pdf)
 
 ## Invited Papers
 
@@ -258,5 +264,5 @@ D J F Walker and C R Chatwin
 [Segmentation coding using edge detection and region merging](bmvc-90-074.html)
 Y Yu
 
-[Author index](bmvc-90-075.pdf)
+[Author index]({{ site.archive_url }}/bmvc/1990/bmvc-90-075.pdf)
 

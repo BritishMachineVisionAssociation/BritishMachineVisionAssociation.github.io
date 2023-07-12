@@ -1,6 +1,12 @@
+---
+layout: default_sparse
+title: The British Machine Vision Conference (BMVC)
+permalink: /bmvc/1991/index
+---
+
 # Proceedings of the British Machine Vision Conference 1991
 
-[Front matter](bmvc-91-000.pdf)
+[Front matter]({{ site.archive_url }}/bmvc/1991/bmvc-91-000.pdf)
 
 [Image Motion Analysis Made Simple and Fast, One Component at a Time](bmvc-91-001.html)
 Peter J.Burt
@@ -188,4 +194,4 @@ D.M. Booth, J.E.W. Mayhew and M.J.C. Pidcock
 [Edge Labelling by Fusion of Intensity and Range Data](bmvc-91-062.html)
 G. Zhang and AM Wallace
 
-[Author index](bmvc-91-063.pdf)
+[Author index]({{ site.archive_url }}/bmvc/1991/bmvc-91-063.pdf)
