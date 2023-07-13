@@ -28,6 +28,7 @@ PDF files of many of the back-issues of the BMVA newsletter can be found below.
 
 |&nbsp;&nbsp;&nbsp;Year&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;Q1&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Q2&nbsp;&nbsp;&nbsp; | Q3&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Q4&nbsp;&nbsp;&nbsp; |
 |:-:|:-:|:-:|:-:|:-:|
+| 2023 | | [Jun]({{ site.archive_url }}/bmva-news/2023-06.pdf) |  |  |  
 | 2019 | [Mar]({{ site.archive_url }}/bmva-news/2019-03.pdf) |  |  |  |
 | 2018 | [Mar]({{ site.archive_url }}/bmva-news/2018-03.pdf) | [Jun]({{ site.archive_url }}/bmva-news/2018-06.pdf) | [Sep]({{ site.archive_url }}/bmva-news/2018-09.pdf) | [Dec]({{ site.archive_url }}/bmva-news/2018-12.pdf) |
 | 2017 | [Mar]({{ site.archive_url }}/bmva-news/2017-03.pdf) | [Jun]({{ site.archive_url }}/bmva-news/2017-06.pdf) | [Sep]({{ site.archive_url }}/bmva-news/2017-09.pdf) | [Dec]({{ site.archive_url }}/bmva-news/2017-12.pdf) |
