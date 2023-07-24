@@ -21,7 +21,7 @@ Synthetic data comes as a solution to help solve all the above issues. While its
 
 The Programme for the Meeting can be found [here]({{ site.baseurl }}{% link assets/events/23-11-08-Programme.pdf %}).
 
-## Programme
+
 
 09:30 Registration and Coffee
 10.00 **Keynote Talk - Dr. Tadas Baltrusaitis (Principal Scientist, Microsoft)**
