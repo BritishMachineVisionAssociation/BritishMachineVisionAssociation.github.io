@@ -9,10 +9,7 @@ image: 20-05-27 Localization.png
 organisers: Toby Breckon - Durham, Khalid Ismail - Durham, Andrew Calway - Bristol, Tim Lukins - Machines with Vision
 ---
 
-## This meeting has been postponed until the autumn
-
-When a new data has been set we will advertise the meeting again
-
+## This meeting has been postponed
 
 A copy of the Call for Papers can be found [here]({{ site.baseurl }}{% link assets/events/20-05-27Call.pdf %}).
 ## Call for Papers
@@ -38,7 +35,7 @@ Other topics within the broadly applicable domain of localization and spatial aw
 
 ## Submission Deadline 
 
-Papers are invited covering aspects of Localization and Spatial Awareness in Computer Vision. Abstracts are not published and re-presentation of previous work is acceptable. Please submit a title and abstract via <https://forms.gle/6ZQd9KM5ABqWfm958> by 18th March.
+Papers are invited covering aspects of Localization and Spatial Awareness in Computer Vision. Abstracts are not published and re-presentation of previous work is acceptable. 
 
 ## Meeting Location
 
