@@ -25,15 +25,29 @@ The Programme for the Meeting can be found [here]({{ site.baseurl }}{% link asse
 
 09:30 Registration and Coffee
 10.00 **Keynote Talk - Dr. Tadas Baltrusaitis (Principal Scientist, Microsoft)**
+
 10.45 Divyanshu Mishra (University of Oxford) - **Dual Conditioned Diffusion Models for Out-of-Distribution Detection**
-11.15 Coffee Break 11.45 Bram Vanherle (Hasselt University) - **Analysis of Training Object Detection Models with Synthetic Data** 
+
+11.15 Coffee Break 
+
+11.45 Bram Vanherle (Hasselt University) - **Analysis of Training Object Detection Models with Synthetic Data** 
+
 12.15 Jing Wang (Sheffield Hallam University) - **Photorealistic Synthetic Image Dataset for Fall Detection**
-12.45 Lunch Break 13.45 Zien Ma (Cardiff University) - **Quantification of Metabolites in Magnetic Resonance Spectra with Deep Learning: Insights on Simulated and Real Data**
+
+12.45 Lunch Break 
+
+13.45 Zien Ma (Cardiff University) - **Quantification of Metabolites in Magnetic Resonance Spectra with Deep Learning: Insights on Simulated and Real Data**
+
 14.15 Felipe Cadar Chamone (Universidade Federal de Minas Gerais) - **A New Dataset for Evaluating Keypoint Correspondence Methods on Complex and Non-rigid Scenes**
+
 14.45 Coffee Break
+
 15.15 **Keynote Talk - Prof. Edmond Prakash (Research Centre for Creative Technologies, UCA)**
+
 16.00 Alex Mackin (Amazon Prime Video) - **Closing the Domain Gap Between Development and Production Environments**
+
 16.30 Closing thoughts and final discussion
+
 17.00 Meeting Ends
 
 
