@@ -6,28 +6,41 @@ index: 1
 date: 2024-01-17
 meeting-title: "BMVA Symposium on Vision and Language"
 image: BMVAForYoutube.png
-organisers: Michael Wray (University of Bristol), Davide Moltisanti (University of Edinburgh), and Tengda Han (University of Oxford). 
+organisers: [Michael Wray](https://mwray.github.io/) (University of Bristol), [Davide Moltisanti](https://www.davidemoltisanti.com/research/) (University of Edinburgh), and [Tengda Han](https://tengdahan.github.io/) (University of Oxford). 
 ---
 
-## Keynote Speaker
+## Invited Speakers
 
-Andrew Zisserman (University of Oxford)
+[Andrew Zisserman](https://www.robots.ox.ac.uk/~az/) (University of Oxford)
+[Frank Keller](https://homepages.inf.ed.ac.uk/keller/) (University of Edinburgh)
+[Hilde Kuehne](https://hildekuehne.github.io/) (University of Bonn/MIT-IBM Watson AI Lab)
+[Yuki M. Asano](https://yukimasano.github.io/) (University of Amsterdam)
 
-## Call for Papers
+## Call for Presentations
 
-Coming Soon
+We invite presentations from both academia and industry, bringing together researchers interested in all aspects of vision-language models and their potential future applications. 
 
-The Call for Papers is Coming Soon.
+**Presentations can be either published work or ongoing research**. The aim is to spotlight recent work, receive feedback and spur discussion. We expect presentations to cover one or more of the following areas (but this is a non-exhaustive list):
 
-## Submission Deadline 27th November
+* What’s next for Vision-Language Models?
+* Generative models (both text and vision generation)
+* Retrieval and Search Based-Tasks
+* Visual Question Answering
+* Foundation Models
+* Is Large-Scale Pre-training Required?
+* Evaluating Generative Vision-Language Models
+* Vision Language Benchmarks and Datasets
+* Adversarial Attacks
+* Security and Wellbeing
 
-We invite submissions from industry and academia, bringing together researchers and practitioners interested in all aspects of real data limitations, synthetic data-based solutions in the ML field, and their potential future applications. 
+Presentations will take the form of one of three types: poster, talk, demo. When applying for a presentation, you are welcome to choose any combination of the options. You can apply to give a presentation using the form below.  Note that this will NOT be a hybrid event, therefore we expect **presenters to attend the event in person**.
 
-Abstracts are not published, and the re-presentation of previous work is acceptable and encouraged.
+**The deadline for submitting a presentation is the 27th November 2023.**
+
 
 <div class="alert mt-3 alert-info" style="text-align:center;">
 <span><strong>Submit interest through: &nbsp;&nbsp;
-<a class="btn btn-warning" role="button" href="https://bit.ly/3ZpDAy">Submit Interest here (Coming Soon)</a></strong></span>
+<a class="btn btn-warning" role="button" href="https://forms.gle/dJ5uw5i5F7jBQi977">Submit Interest here</a></strong></span>
 </div>
 
 
