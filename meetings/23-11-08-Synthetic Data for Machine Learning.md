@@ -44,7 +44,7 @@ The Programme for the Meeting can be found [here]({{ site.baseurl }}{% link asse
 
 15.15 **Keynote Talk - Prof. Edmond Prakash (Research Centre for Creative Technologies, UCA)**
 
-16.00 Alex Mackin (Amazon Prime Video) - **Closing the Domain Gap Between Development and Production Environments**
+16.00 Benoit Quentin Arthur Vallade (Amazon Prime Video) - **Closing the Domain Gap Between Development and Production Environments**
 
 16.30 Closing thoughts and final discussion
 
