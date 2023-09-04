@@ -5,7 +5,7 @@ title: "BMVA Symposium on Vision and Language. (17th January 2024) "
 index: 1
 date: 2024-01-17
 meeting-title: "BMVA Symposium on Vision and Language"
-image: 24-01-17VisionLanguage.jpg
+image: 24-01-17VisionLanguage.png
 organisers: Michael Wray (University of Bristol), Davide Moltisanti (University of Bath), and Tengda Han (University of Oxford). 
 ---
 
@@ -71,4 +71,4 @@ Both Inc Lunch and refreshments for the day
 
 
 
-Banner image by [Kevin Rheese](https://www.flickr.com/photos/129440207@N08)
+Banner image by [Davide Moltisanti](https://www.davidemoltisanti.com/)
