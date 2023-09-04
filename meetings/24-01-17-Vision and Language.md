@@ -6,13 +6,13 @@ index: 1
 date: 2024-01-17
 meeting-title: "BMVA Symposium on Vision and Language"
 image: 24-01-17VisionLanguage.jpg
-organisers: Michael Wray (University of Bristol), Davide Moltisanti (University of Edinburgh), and Tengda Han (University of Oxford). 
+organisers: Michael Wray (University of Bristol), Davide Moltisanti (University of Bath), and Tengda Han (University of Oxford). 
 ---
 
 ## Invited Speakers
 
 * [Yuki M. Asano](https://yukimasano.github.io/) (University of Amsterdam)
-* [Frank Keller](https://homepages.inf.ed.ac.uk/keller/) (University of Bath)
+* [Frank Keller](https://homepages.inf.ed.ac.uk/keller/) (University of Edinburgh)
 * [Hilde Kuehne](https://hildekuehne.github.io/) (University of Bonn/MIT-IBM Watson AI Lab)
 * [Andrew Zisserman](https://www.robots.ox.ac.uk/~az/) (University of Oxford)
 
