@@ -61,7 +61,7 @@ The registration costs are as follows
 
 - **Non BMVA Members**   £40 (Includes membership to the BMVA)
 
-Both Inc Lunch and refreshments for the day
+Both include lunch and refreshments for the day
 
 
 <div class="alert mt-3 alert-info" style="text-align:center;">
@@ -69,6 +69,11 @@ Both Inc Lunch and refreshments for the day
 <a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/events/iiso4qt1">Register Here</a></strong></span>
 </div>
 
+## Organisers
+
+- [Michael Wray](https://mwray.github.io/) (University of Bristol)
+- [Davide Moltisanti](https://www.davidemoltisanti.com/research/) (University of Bath)
+- [Tengda Han](https://tengdahan.github.io/) (University of Oxford)
 
 
-Banner image by [Davide Moltisanti](https://www.davidemoltisanti.com/)
+Banner image by [Davide Moltisanti](https://www.davidemoltisanti.com/research)
