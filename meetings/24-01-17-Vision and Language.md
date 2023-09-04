@@ -12,7 +12,7 @@ organisers: Michael Wray (University of Bristol), Davide Moltisanti (University 
 ## Invited Speakers
 
 * [Yuki M. Asano](https://yukimasano.github.io/) (University of Amsterdam)
-* [Frank Keller](https://homepages.inf.ed.ac.uk/keller/) (University of Edinburgh)
+* [Frank Keller](https://homepages.inf.ed.ac.uk/keller/) (University of Bath)
 * [Hilde Kuehne](https://hildekuehne.github.io/) (University of Bonn/MIT-IBM Watson AI Lab)
 * [Andrew Zisserman](https://www.robots.ox.ac.uk/~az/) (University of Oxford)
 
