@@ -1,17 +1,22 @@
 ---
 layout: meeting
 type: One Day Meeting
-title: "BMVA Symposium on Multimodal Learning. (24th April 2024) "
+title: "Multimodal Learning with Foundation Models: Bridging the Gap between AI Research and Real World Applications. (24th April 2024) "
 index: 1
 date: 2024-04-24
-meeting-title: "BMVA Symposium on Multimodal Learning"
-image: 24-01-17VisionLanguage.png
-organisers: Chao Zhang (), Jindong Gu, Shitong Sun (Queen MAry Unviersity of London)
+meeting-title: "Multimodal Learning with Foundation Models: Bridging the Gap between AI Research and Real World Applications"
+image: 24-01-24_Multimodal Learningcrop.jpg
+organisers: Chao Zhang (Toshiba Europe Ltd), Jindong Gu (University of Oxford), Shitong Sun (Queen Mary University of London)
 ---
 
 ## Invited Speakers
 
-* Coming Soon
+* Professor Sean Gong FREng, Queen Mary University of London
+ 
+* Ashkan Khakzar, University of Oxford
+ 
+* Oleg Sinavski, Principal Applied Scientist at Wayve, London
+
 
 
 ## Call for Presentations
