@@ -59,7 +59,7 @@ Both include lunch and refreshments for the day
 
 <div class="alert mt-3 alert-info" style="text-align:center;">
 <span><strong>Please register via charitysuite on this link: &nbsp;&nbsp;
-<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/events/iisghhgo4qt1">Register Here</a></strong></span>
+<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/events/k8hipdaz">Register Here</a></strong></span>
 </div>
 
 
