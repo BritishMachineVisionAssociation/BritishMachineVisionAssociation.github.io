@@ -47,7 +47,7 @@ Presentations will take the form of one of two types: poster, talk. When applyin
 
 <div class="alert mt-3 alert-info" style="text-align:center;">
 <span><strong>Submit interest through : &nbsp;&nbsp;
-<a class="btn btn-warning" role="button" href="http://tinyurl.com/bmvatrustworthy">Submit Interest here (Coming Soon)</a></strong></span>
+<a class="btn btn-warning" role="button" href="http://tinyurl.com/bmvatrustworthy">Submit Interest here</a></strong></span>
 </div>
 
 
