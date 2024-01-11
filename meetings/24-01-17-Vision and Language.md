@@ -62,7 +62,7 @@ organisers: Michael Wray (University of Bristol), Davide Moltisanti (University 
 * **Charles Raude** - ENPC, Imagine lab (France): A Tale of Two Languages: Large-Vocabulary Continuous Sign Language Recognition from Spoken Language Supervision
 * **Adriano Fragomeni** - University of Bristol: ConTra:(Con) text (Tra) nsformer for Cross-Modal Video Retrieval
 * **Yongshuo Zong** - University of Edinburgh: Fool Your (Vision and) Language Model With Embarrassingly Simple Permutations
-* **Oleg Sinavski** - Wayve: Language and Video Generative AI in Autonomous Driving
+* **Ana-Maria Marcu** - Wayve: Language and Video Generative AI in Autonomous Driving
 * **Christina Kassab** - University of Oxford: Visual-Language Models for Scene Understanding and Localisation
 * **Junjie Shentu** - Durham University: CXR-IRGen: An Integrated Vision and Language Model for the Generation of Clinically Accurate Chest X-Ray Image-Report Pairs
 * **Kevin Flanagan** - University of Bristol: Learning Temporal Sentence Grounding From Narrated EgoVideos
