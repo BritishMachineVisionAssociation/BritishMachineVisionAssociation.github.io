@@ -1,9 +1,9 @@
 ---
 layout: meeting
 type: One Day Meeting
-title: "Image and Video Quality Assessment (16th October 2024) "
+title: "Image and Video Quality Assessment (9th October 2024) "
 index: 1
-date: 2024-04-24
+date: 2024-10-09
 meeting-title: "Image and Video Quality Assessment"
 image: 24-01-24_Multimodal Learningcrop.jpg
 organisers: Alex Mackin (Prime Video), Angeliki Katsenou (University of Bristol), Aaron Zhang (University of Bristol)
