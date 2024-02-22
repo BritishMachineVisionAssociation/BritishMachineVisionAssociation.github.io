@@ -6,12 +6,12 @@ index: 1
 date: 2024-04-24
 meeting-title: "Trustworthy Multimodal Learning with Foundation Models: Bridging the Gap between AI Research and Real World Applications"
 image: 24-01-24_Multimodal Learningcrop.jpg
-organisers: Chao Zhang (Toshiba Europe Ltd), Jindong Gu (University of Oxford), Shitong Sun (Queen Mary University of London)
+organisers: Chao Zhang (Toshiba Europe Ltd), Jindong Gu (University of Oxford), Shitong Sun (Queen Mary University of London), Onay Urfalioglu, Vivo Tech GmbH 
 ---
 
 ## Invited Speakers
 
-* Professor Sean Gong FREng, Queen Mary University of London
+* Guohao Li, University of Oxford & CAMEL-AI.org 
  
 * Ashkan Khakzar, University of Oxford
  
