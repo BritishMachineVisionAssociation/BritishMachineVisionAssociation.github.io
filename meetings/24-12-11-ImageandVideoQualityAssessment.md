@@ -1,9 +1,9 @@
 ---
 layout: meeting
 type: One Day Meeting
-title: "Image and Video Quality Assessment (9th October 2024) "
+title: "Image and Video Quality Assessment (11th December 2024) "
 index: 1
-date: 2024-10-09
+date: 2024-12-11
 meeting-title: "Image and Video Quality Assessment"
 image: 24-01-24_Multimodal Learningcrop.jpg
 organisers: Alex Mackin (Prime Video), Angeliki Katsenou (University of Bristol), Aaron Zhang (University of Bristol)
@@ -30,7 +30,7 @@ We invite academic and industry presentations,
 
 Presentations will take the form of one of two types: poster, talk. When applying for a presentation, you are welcome to choose any combination of the options. You can apply to give a presentation using the form below.  Note that this will NOT be a hybrid event, therefore we expect **presenters to attend the event in person**.
 
-**The deadline for submitting a presentation is the TBC.**
+**The deadline for submitting a presentation is the 8th October**
 
 
 <div class="alert mt-3 alert-info" style="text-align:center;">
