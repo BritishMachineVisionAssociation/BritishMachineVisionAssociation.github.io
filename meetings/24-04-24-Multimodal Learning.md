@@ -9,46 +9,37 @@ image: 24-01-24_Multimodal Learningcrop.jpg
 organisers: Chao Zhang (Toshiba Europe Ltd), Jindong Gu (University of Oxford), Shitong Sun (Queen Mary University of London), Onay Urfalioglu, Vivo Tech GmbH 
 ---
 
-## Invited Speakers
-
-* Guohao Li, University of Oxford & CAMEL-AI.org 
- 
-* Ashkan Khakzar, University of Oxford
- 
-* Oleg Sinavski, Principal Applied Scientist at Wayve, London
-
-
-
-## Call for Presentations
-
 We invite academic and industry presentations, bringing together researchers interested in all aspects of foundational models (GPT-4, CLIP, SAM, etc) and multimodal learning involving, but not limited to, image, video, audio, depth, text, drawings, laser, IMU, etc. 
 
-**Presentations can be either published work or ongoing research**. The aim is to spotlight recent work, receive feedback and spur discussion. We expect presentations to cover one or more of the following areas (but this is a non-exhaustive list):
+## Invited Speakers
 
-*   Multimodal data generation
-*   Multimodal data preprocessing
-*   Multimodal data fusion
-*   Self-supervised learning for multimodal data
-*   Unsupervised learning on multimodal data
-*   Cross-modal adaptation
-*   Multimodal transfer learning
-*   Multimodal zero-shot learning with foundation models
-*   Biases in foundation models/multimodal learning
-*   Explainable multimodal learning
-*	Trustworthy multimodal learning
-*	Responsible multimodal learning
-*	Applications of Multimodal learning (e.g. healthcare, robotics, social media)
+* [Guohao Li](https://ghli.org/) (University of Oxford & CAMEL-AI.org )
+* [Oleg Sinavski](https://sinavski.com/) (Wayve, London)
+* [Da Li](https://dali-dl.github.io/index.html) (Samsung Research)
+* [Rudra Poudel](https://rudrapoudel.com/) (Toshiba Europe)
+* [Ashkan Khakzar](https://ashk-on.github.io/) (University of Oxford)
 
 
-Presentations will take the form of one of two types: poster, talk. When applying for a presentation, you are welcome to choose any combination of the options. You can apply to give a presentation using the form below.  Note that this will NOT be a hybrid event, therefore we expect **presenters to attend the event in person**.
 
-**The deadline for submitting a presentation is the 21st Feburary 2024.**
+## Programme
 
+| Start 	|   	| End    	|   	| Title                                        	|
+|-------	|---	|--------	|---	|----------------------------------------------	|
+| 09:00 	|   	| 09:15  	|   	| Registration/Poster Set-up                   	|
+| 09:15 	|   	| 09:20  	|   	| Opening Remarks                              	|
+| 09:20 	|   	| 10:00  	|   	| Invited Speaker - Guohao Li,                	|
+| 10:00 	|   	| 10:40  	|   	| Invited Speaker - Oleg Sinavski              	|
+| 10:40 	|   	| 11:05  	|   	| Coffee Break + Posters                       	|
+| 11:05 	|   	| 12:20  	|   	| Accepted Talks - Pt. 1                       	|
+| 12:20 	|   	| 13:20  	|   	| Lunch + Posters                              	|
+| 13:20 	|   	| 14:00  	|   	| Invited Speaker - Da Li                      	|
+| 14:00 	|   	| 15:15  	|   	| Accepted Talks - Pt. 2                       	|
+| 15:15 	|   	| 15:40  	|   	| Coffee Break + Posters                       	|
+| 15:40 	|   	| 16:20  	|   	| Invited Speaker - Rudra Poudel             	|
+| 16:20 	|   	| 17:00  	|   	| Invited Speaker - Ashkan Khakzar             	|
+| 17:00 	|   	| 17:05  	|   	| Past, Present, and Future of Vision-Language 	|
 
-<div class="alert mt-3 alert-info" style="text-align:center;">
-<span><strong>Submit interest through : &nbsp;&nbsp;
-<a class="btn btn-warning" role="button" href="http://tinyurl.com/bmvatrustworthy">Submit Interest here</a></strong></span>
-</div>
+### Talks
 
 
 ## Meeting Location
