@@ -39,8 +39,30 @@ We invite academic and industry presentations, bringing together researchers int
 | 16:20 	|   	| 17:00  	|   	| Invited Speaker - Ashkan Khakzar             	|
 | 17:00 	|   	| 17:05  	|   	| Past, Present, and Future of Vision-Language 	|
 
-### Talks
+### Talk Part 1 (15 mins each)
 
+* Hang Dai (University of Glasgow) Multimodal BEV Fusion for Autonomous Driving
+* Zhening Huang (University of Cambridge) OpenIns3D: Snap and Lookup for 3D Open-vocabulary Instance Segmentation
+* Jian Hu (Queen Mary University of London) Is Instance-specific Manual Prompt Necessary for Promptable Semantic Segmentation?
+* Xingchen Zhang (Imperial College London) Self-supervised RGBT tracking with Cross-input consistency
+* Yongshuo Zong (University of Edinburgh) Safety Fine-Tuning at (Almost) No Cost: A Baseline for Vision Large Language Models
+ 
+
+### Talk Part 2 (15 mins each)
+
+* Chengzu Li (University of Cambridge) On Task Performance and Model Calibration with Supervised and Self-Ensembled In-Context Learning
+* Ziquan Liu (Queen Mary University of London) Borrowing Treasures from Neighbors: In-Context Learning for Multimodal Learning with Missing Modalities and Data Scarcity
+* Yimeng Gu (Queen Mary University of London) Domain Adaptive Multimodal Out-of-context News Detection
+* Yinghao Ma (Queen Mary University of London) MusiLingo: Bridging Music and Text with Pre-trained Language Models for Music Captioning and Query Response
+* Chen Chen (University of Sheffield) Unlocking the Value of Single Modality through Multi-Modal Knowledge Transfer with Large Language Models
+ 
+
+### Posters
+
+* Cangxiong Chen (University of Bath) Understanding the Vulnerability of CLIP to Image Compression
+* Charlie Grimshaw (University of Sheffield) Using Large Vision Language Models to detect Propaganda Techniques in memes
+* Dean Slack (Durham University) Enhancing Next-Frame Video Prediction through Linguistic Scene Understanding
+* Anum Masood (Harvard Medical School) Advancing Accuracy in Multimodal Medical Tasks through Bootstrapped Language-Image Pretraining (BLIP)
 
 ## Meeting Location
 
