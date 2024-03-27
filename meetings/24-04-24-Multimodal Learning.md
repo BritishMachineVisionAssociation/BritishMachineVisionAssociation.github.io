@@ -11,6 +11,11 @@ organisers: Chao Zhang (Toshiba Europe Ltd), Jindong Gu (University of Oxford), 
 
 We invite academic and industry presentations, bringing together researchers interested in all aspects of foundational models (GPT-4, CLIP, SAM, etc) and multimodal learning involving, but not limited to, image, video, audio, depth, text, drawings, laser, IMU, etc. 
 
+<div class="alert mt-3 alert-info" style="text-align:center;">
+<span><strong>Please register via charitysuite on this link: &nbsp;&nbsp;
+<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/events/k8hipdaz">Register Here</a></strong></span>
+</div>
+
 ## Invited Speakers
 
 * [Guohao Li](https://ghli.org/) (University of Oxford & CAMEL-AI.org )

@@ -9,6 +9,11 @@ image: 24-12-11_ImageAndVideoQuality.png
 organisers: Alex Mackin (Prime Video), Angeliki Katsenou (University of Bristol), Aaron Zhang (University of Bristol)
 ---
 
+<div class="alert mt-3 alert-info" style="text-align:center;">
+<span><strong>Please register via charitysuite on this link: &nbsp;&nbsp;
+<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/events/ismhd4ut">Register Here</a></strong></span>
+</div>
+
 ## Invited Speakers
 
 * Coming Soon
@@ -20,11 +25,11 @@ organisers: Alex Mackin (Prime Video), Angeliki Katsenou (University of Bristol)
 
 ## Call for Presentations
 
-We aim to bring together a diverse range of researchers and engineers in Image and Video Quali-ty across all career stages. This event is a great opportunity to learn and network – even if you are new to the field! If you still need convincing, lunch is included.
+We aim to bring together a diverse range of researchers and engineers in Image and Video Quality across all career stages. This event is a great opportunity to learn and network – even if you are new to the field! If you still need convincing, lunch is included.
 
-We invite both academic and industry presentations on the quality assessment of imaging sys-tems (images, videos, medical imaging, graphics, virtual reality etc). This is a forum to showcase your work, receive feedback, practice your presentation skills, and spur discussion.
+We invite both academic and industry presentations on the quality assessment of imaging systems (images, videos, medical imaging, graphics, virtual reality etc). This is a forum to showcase your work, receive feedback, practice your presentation skills, and spur discussion.
 
-**Presentations can be either published work, or ongoing research**. We are looking for both re-search and applied topics on quality assessment in areas similar to below (non-exhaustive list) 
+**Presentations can be either published work, or ongoing research**. We are looking for both research and applied topics on quality assessment in areas similar to below (non-exhaustive list) 
 *	Classical / Deep Quality Models
 *	Perceptual Quality / Psychophysics
 *	Quality of Experience
