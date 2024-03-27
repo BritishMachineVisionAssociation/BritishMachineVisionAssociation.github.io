@@ -13,7 +13,7 @@ title: Home
 **BMVC 2022**: Thanks for your patience. This year BMVC will be held from 21st - 24th November 2022. We invite papers to be submitted for the conference and ask that potential authors read the call for papers that deatails both the topics of interest for the conference. The paper submission deadline will be **23:59 GMT Friday 29th July 2022**. 
 --->
 
-**BMVC 2024**: We are pleased to announce that BMVC will be held from 25th - 28th November 2024 in Glasgow. The timeline for the conference is [now available](https://bmvc2024.org/dates/) and the paper submission deadline will be **23:59 GMT Friday, 3 May 2024**. 
+**BMVC 2024**: We are pleased to announce that BMVC will be held from 25th - 28th November 2024 in Glasgow. The timeline for the conference is [now available](https://bmvc2024.org/dates/) and the paper submission deadline will be **23:59 GMT Friday, 10 May 2024**. 
 Please note, **there will be no extension on the paper submission deadline.**
 
 <p style="text-align: center;">
