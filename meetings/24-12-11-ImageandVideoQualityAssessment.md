@@ -16,11 +16,10 @@ organisers: Alex Mackin (Prime Video), Angeliki Katsenou (University of Bristol)
 
 ## Invited Speakers
 
-* Coming Soon
+* [Mathias Wien](https://www.lfb.rwth-aachen.de/en/institute/team/wien/) (RWTH Aachen University)
 
-*
+* [Andy Collins](https://www.linkedin.com/in/andrew-collins-bba8b0/) (Head of Video Quality Analysis at Prime Video)
 
-*
 
 
 ## Call for Presentations
@@ -56,7 +55,7 @@ Presentations will take the form of one of two types: poster, talk. When applyin
 
 <div class="alert mt-3 alert-info" style="text-align:center;">
 <span><strong>Submit interest through : &nbsp;&nbsp;
-<a class="btn btn-warning" role="button" href="http://tinyurl.com/bmvatrustworthyg">Submit Interest here</a></strong></span>
+<a class="btn btn-warning" role="button" href="https://forms.office.com/e/aPvEFLQaJH">Submit Interest here</a></strong></span>
 </div>
 
 ## Meeting Location
