@@ -3,32 +3,6 @@ layout: default_sparse
 title: The Sullivan Doctoral Thesis Prize
 ---
 
-<!--
-## The Sullivan Doctoral Thesis Prize
-
-The British Machine Vision Association has established a prize fund to
-commemorate the contribution made by the late Professor Geoff Sullivan to the
-advancement of the field of Computer Vision in the United Kingdom. The prize
-is considered for award, on an annual basis, to the best doctoral thesis
-submitted to a UK University, in the field of computer or natural vision.
-
-Recommendations for the prize are considered by a Selection Panel appointed
-annually by the BMVA Executive Committee.
-
-The decision of the Selection Panel is announced at the annual
-[British Machine Vision Conference]({{ site.baseurl }}/bmvc), at which the presentation will
-be made.
-
-### 2019 Prize Nominations
-
-The BMVA Executive Committee seeks nominations for the Sullivan Prize
-for theses examined during the calendar year 2018.  Internal examiners
-and supervisors may act as nominators, but the committee would like to
-receive an accompanying report and endorsement of the nomination from
-the external examiner of the thesis. The closing date for theses to be
-considered for the award of the 2019 prize is 31st May 2019.
--->
-
 ## The Sullivan Doctoral Thesis Prize
 
 <div class="alert mt-3 alert-warning" style="text-align:center;">
@@ -41,19 +15,22 @@ considered for the award of the 2019 prize is 31st May 2019.
 
 ### Overview
 
-The Sullivan Thesis Prize celebrates early stage researchers working in the field of computer vision and related areas in the United Kingdom. The prize will be presented at the annual British Machine Vision Conference (BMVC)conference dinner. The prize fund is provided by the British Machine Vision Association (BMVA) to commemorate the contribution made by the late Professor Geoff Sullivan.
-
-While normally awarded annually, in 2023 we have widened the eligibility criteria due to the impact of COVID-19. We want all applicable candidates to feel empowered to apply, so please feel free to contact the award organizers if you have any further questions, or are unsure about eligibility.
+The Sullivan Thesis Prize celebrates early stage researchers working in the field of computer vision and related areas in the United Kingdom. The prize will be presented at the annual British Machine Vision Conference (BMVC) conference dinner. The prize fund is provided by the British Machine Vision Association (BMVA) to commemorate the contribution made by the late Professor Geoff Sullivan.
 
 ### Acceptance Criteria
 
-We welcome submissions from anyone who has submitted their PhD thesis at a university in the United Kingdom between 1st April 2019 and 31st August 2023. Any topic that is applicable under the current BMVC call for papers is valid.
+We welcome submissions from anyone who has submitted their PhD thesis at a university in the United Kingdom within the 2024 academic year. Any topic that is applicable under the current BMVC call for papers is valid.
 
 ### Submission
 
-Candidates should submit a short summary (max 500 words) providing an overview of the contributions made during their PhD, and a digital copy of their completed PhD Thesis. If available, it is recommended that the external examiner(s) report for the Thesis is also included, which can either be post-viva or post-corrections (preferred).
+Candidates should submit:
 
+-	Short summary (max 500 words) of the contributions made during their PhD
+-	Digital copy of their completed PhD Thesis. 
+
+If available, it is recommended that the external examiner(s) report for the Thesis is also included, which can either be post-viva or post-corrections (preferred).
 [Optional] Candidates may also provide additional supporting evidence, which may include but is not limited to:
+
 
 - Up to 3 accepted paper(s) as first author (or equal contributor)
 - Blog post(s)
@@ -68,7 +45,7 @@ Please submit evidence in PDF format, or provide an accessible link. If any of t
 
 Submissions should be made using CMT: [https://cmt3.research.microsoft.com/SullivanThesisPrize2023](https://cmt3.research.microsoft.com/SullivanThesisPrize2023).
 
-**Submission deadline: 15 September 2023**
+**Submission deadline: 13 September 2024**
 
 ### Award process
 
@@ -78,9 +55,7 @@ After the submission deadline, each application will be assessed by a panel of e
 
 Please email Sullivan Thesis Prize Chairs at [Dr Alex Mackin](mailto:acmackin@amazon.co.uk).
 
-
-
-
+### Previous Award Winners Photos
 
 
 
@@ -103,6 +78,10 @@ Please email Sullivan Thesis Prize Chairs at [Dr Alex Mackin](mailto:acmackin@am
 </tr>
 </thead>
 <tbody>
+
+<tr><td align="left">2022</td><td align="left">Shangzhe Wu</td><td align="left">University of Oxford</td><td align="left"><a href="http://www.bmva.org/theses/2016/2016-lebeda3.pdf">Unsupervised Learning of 3D Objects in the Wild</a></td></tr>
+<tr><td align="left">2021</td><td align="left">Jaime Spencer Martin</td><td align="left">University of Surrey</td><td align="left"><a href="http://www.bmva.org/theses/2016/2016-lebeda3.pdf">Learning Generic Deep Feature Representations</a></td></tr>
+<tr><td align="left">2020</td><td align="left">Dimitrios Kollias</td><td align="left">Imperial College London</td><td align="left"><a href="http://www.bmva.org/theses/2016/2016-lebeda3.pdf">Affect Recognition & Generation in-the-wild</a></td></tr>
 <tr><td align="left">2017</td><td align="left">Karel Lebeda</td><td align="left">University of Surrey</td><td align="left"><a href="http://www.bmva.org/theses/2016/2016-lebeda.pdf">2D and 3D Tracking and Modelling</a></td></tr>
 <tr><td align="left">2016</td><td align="left">Xiatian Zhu</td><td align="left">Queen Mary, University of London</td><td align="left"><a href="http://www.bmva.org/theses/2015/2015-zhu.pdf">Semantic Structure Discovery in Surveillance Videos</a></td></tr>
 <tr><td align="left">2015</td><td align="left">Vibhav Vineet</td><td align="left">Oxford Brookes University</td><td align="left"><a href="http://www.bmva.org/theses/2014/2014-vineet.pdf">Recognition, Reorganisation, Reconstruction and Reinteraction for Scene Understanding</a></td></tr>
