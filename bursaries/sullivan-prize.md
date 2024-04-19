@@ -55,8 +55,6 @@ Please email Sullivan Thesis Prize Chairs at [Dr Alex Mackin](mailto:acmackin@am
 </p>
 <p style="pb-2">
 <img src="{{ site.baseurl }}/assets/images/ThesisPrize/SulivanThesisAward2023_3.png" class="img-fluid rounded mx-auto d-block" style="max-width: 500px;" alt="Thesis Prive Awarding">
-</p>
-<p style="pb-2">
 <img src="{{ site.baseurl }}/assets/images/ThesisPrize/SulivanThesisAward2023_4.png" class="img-fluid rounded mx-auto d-block" style="max-width: 500px;" alt="Thesis Prive Awarding">
 </p>
 
