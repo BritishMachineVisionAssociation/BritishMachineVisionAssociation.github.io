@@ -5,14 +5,6 @@ title: The Sullivan Doctoral Thesis Prize
 
 ## The Sullivan Doctoral Thesis Prize
 
-<div class="alert mt-3 alert-warning" style="text-align:center;">
-<h2>Mission for 2023</h2>
-
-<p>Encourage wider participation, streamline submission and review process, widen scope for topics of interest, and expand marking criteria to recognise a more diverse range of talent.</p>
-
-<p>Submission details are provided below. Please note that submissions are now via the new <a href="https://cmt3.research.microsoft.com/SullivanThesisPrize2023">CMT website</a>. </p>
-</div>
-
 ### Overview
 
 The Sullivan Thesis Prize celebrates early stage researchers working in the field of computer vision and related areas in the United Kingdom. The prize will be presented at the annual British Machine Vision Conference (BMVC) conference dinner. The prize fund is provided by the British Machine Vision Association (BMVA) to commemorate the contribution made by the late Professor Geoff Sullivan.
@@ -58,16 +50,16 @@ Please email Sullivan Thesis Prize Chairs at [Dr Alex Mackin](mailto:acmackin@am
 ### Previous Award Winners Photos
 
 <p style="pb-2">
-<a href="https://cvss-uea.uk//"><a <img src="{{ site.baseurl }}/assets/images/ThesisPrize/SulivanThesisAward2023_1.png" class="img-fluid rounded mx-auto d-block" style="max-width: 400px;" alt="Thesis Prive Awarding"></a>
+< <img src="{{ site.baseurl }}/assets/images/ThesisPrize/SulivanThesisAward2023_1.png" class="img-fluid rounded mx-auto d-block" style="max-width: 400px;" alt="Thesis Prive Awarding">
 </p>
 <p style="pb-2">
-<a href="https://cvss-uea.uk//"><a <img src="{{ site.baseurl }}/assets/images/ThesisPrize/SulivanThesisAward2023_2.png" class="img-fluid rounded mx-auto d-block" style="max-width: 400px;" alt="Thesis Prive Awarding"></a>
+< <img src="{{ site.baseurl }}/assets/images/ThesisPrize/SulivanThesisAward2023_2.png" class="img-fluid rounded mx-auto d-block" style="max-width: 400px;" alt="Thesis Prive Awarding">
 </p>
 <p style="pb-2">
-<a <img src="{{ site.baseurl }}/assets/images/ThesisPrize/SulivanThesisAward2023_3.png" class="img-fluid rounded mx-auto d-block" style="max-width: 400px;" alt="Thesis Prive Awarding"></a>
+<img src="{{ site.baseurl }}/assets/images/ThesisPrize/SulivanThesisAward2023_3.png" class="img-fluid rounded mx-auto d-block" style="max-width: 400px;" alt="Thesis Prive Awarding">
 </p>
 <p style="pb-2">
-<a <img src="{{ site.baseurl }}/assets/images/ThesisPrize/SulivanThesisAward2023_4.png" class="img-fluid rounded mx-auto d-block" style="max-width: 400px;" alt="Thesis Prive Awarding"></a>
+<img src="{{ site.baseurl }}/assets/images/ThesisPrize/SulivanThesisAward2023_4.png" class="img-fluid rounded mx-auto d-block" style="max-width: 400px;" alt="Thesis Prive Awarding">
 </p>
 
 ### Previous winners
