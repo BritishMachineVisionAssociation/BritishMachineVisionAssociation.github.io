@@ -7,7 +7,7 @@ date: 2024-10-30
 meeting-title: "BMVA Symposium: Robotics Foundation World Models"
 image: 24-12-11_ImageAndVideoQuality.png
 organisers: [Dr. Rudra P.K. Poudel](https://rudrapoudel.com/), Toshiba Europe Ltd, [rudra.poudel@gmail.com](udra.poudel@gmail.com), 
-[Assoc. Prof. Dimitrios Kanoulas](https://dkanou.github.io/), University College London, [d.kanoulas@ucl.ac.uk]d.kanoulas@ucl.ac.uk),  
+[Assoc. Prof. Dimitrios Kanoulas](https://dkanou.github.io/), University College London, [d.kanoulas@ucl.ac.uk](d.kanoulas@ucl.ac.uk),  
 [Asst. Prof. Maria Koskinopoulou](https://sites.google.com/view/mariakoskinopoulou/), Heriot-Watt University, [M.Koskinopoulou@hw.ac.uk](M.Koskinopoulou@hw.ac.uk)
 [Asst. Prof. Thomas George Thuruthel](https://tthuruthel.com/), University College London, [t.thuruthel@ucl.ac.uk](t.thuruthel@ucl.ac.uk)
 ---
@@ -26,6 +26,12 @@ organisers: [Dr. Rudra P.K. Poudel](https://rudrapoudel.com/), Toshiba Europe Lt
 
 *
 
+## To contact the chairs
+
+[Dr. Rudra P.K. Poudel](https://rudrapoudel.com/), Toshiba Europe Ltd, [rudra.poudel@gmail.com](udra.poudel@gmail.com), 
+[Assoc. Prof. Dimitrios Kanoulas](https://dkanou.github.io/), University College London, [d.kanoulas@ucl.ac.uk](d.kanoulas@ucl.ac.uk),  
+[Asst. Prof. Maria Koskinopoulou](https://sites.google.com/view/mariakoskinopoulou/), Heriot-Watt University, [M.Koskinopoulou@hw.ac.uk](M.Koskinopoulou@hw.ac.uk)
+[Asst. Prof. Thomas George Thuruthel](https://tthuruthel.com/), University College London, [t.thuruthel@ucl.ac.uk](t.thuruthel@ucl.ac.uk)
 
 ## Call for Presentations
 
