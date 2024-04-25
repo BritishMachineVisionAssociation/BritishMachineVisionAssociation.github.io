@@ -1,10 +1,10 @@
 ---
 layout: meeting
 type: One Day Meeting
-title: "BMVA Symposium on 3D Vision (26th Feburary 2025) "
+title: "BMVA Symposium: Robotics Foundation World Models (30th October 2024) "
 index: 1
-date: 2025-02-26
-meeting-title: "BMVA Symposium on 3D Vsion"
+date: 2024-10-30
+meeting-title: "BMVA Symposium: Robotics Foundation World Models"
 image: 24-12-11_ImageAndVideoQuality.png
 organisers: [Dr. Rudra P.K. Poudel](https://rudrapoudel.com/), Toshiba Europe Ltd, [rudra.poudel@gmail.com](udra.poudel@gmail.com), 
 [Assoc. Prof. Dimitrios Kanoulas](https://dkanou.github.io/), University College London, [d.kanoulas@ucl.ac.uk]d.kanoulas@ucl.ac.uk),  
