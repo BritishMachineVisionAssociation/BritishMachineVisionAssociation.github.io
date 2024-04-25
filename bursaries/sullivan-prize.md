@@ -35,7 +35,7 @@ If available, it is recommended that the external examiner(s) report for the The
 
 Please submit evidence in PDF format, or provide an accessible link. If any of the evidence is confidential please get permission before submitting.
 
-Submissions should be made using CMT: [https://cmt3.research.microsoft.com/SullivanThesisPrize2023](https://cmt3.research.microsoft.com/SullivanThesisPrize2023).
+Submissions should be made using CMT: [https://cmt3.research.microsoft.com/SullivanThesisPrize2024](https://cmt3.research.microsoft.com/SullivanThesisPrize2024).
 
 **Submission deadline: 13 September 2024**
 

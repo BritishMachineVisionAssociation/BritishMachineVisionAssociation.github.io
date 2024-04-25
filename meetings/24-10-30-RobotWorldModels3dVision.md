@@ -5,7 +5,7 @@ title: "BMVA Symposium: Robotics Foundation World Models (30th October 2024) "
 index: 1
 date: 2024-10-30
 meeting-title: "BMVA Symposium: Robotics Foundation World Models"
-image: 24-12-11_ImageAndVideoQuality.png
+image: BMVAForYoutubeicon.png
 organisers: Dr. Rudra P.K. Poudel (Toshiba Europe Ltd), Assoc. Prof. Dimitrios Kanoulas (University College London) Asst. Prof. Maria Koskinopoulou (Heriot-Watt University), Asst. Prof. Thomas George Thuruthel (University College London)
 ---
 
