@@ -5,8 +5,8 @@ title: "BMVA Symposium: Robotics Foundation World Models (30th October 2024) "
 index: 1
 date: 2024-10-30
 meeting-title: "BMVA Symposium: Robotics Foundation World Models"
-image: BMVAForYoutubeicon.png
-organisers: Dr. Rudra P.K. Poudel (Toshiba Europe Ltd), Assoc. Prof. Dimitrios Kanoulas (University College London) Asst. Prof. Maria Koskinopoulou (Heriot-Watt University), Asst. Prof. Thomas George Thuruthel (University College London)
+image: 24-09-15_RobotWorldModels.jpeg
+organisers: Rudra Poudel (Toshiba Europe Ltd), Dimitrios Kanoulas (University College London) Maria Koskinopoulou (Heriot-Watt University), Thomas George Thuruthel (University College London)
 ---
 
 <div class="alert mt-3 alert-info" style="text-align:center;">
@@ -34,14 +34,14 @@ organisers: Dr. Rudra P.K. Poudel (Toshiba Europe Ltd), Assoc. Prof. Dimitrios K
 
 ## Call for Presentations
 
-Coming Soon....
+We invite academic and industry presentations, bringing together researchers interested in all aspects of learning world models and foundational models for robotics, including but not limited to, world models, robotic foundation models, efficient foundation models, planning, manipulation, navigation, multimodal representation learning, vision-and-language for robotics, etc.
 	
 
 If you are unsure about the suitable of your topic, please contact the chairs.
 
 Presentations will take the form of one of two types: poster, talk. When applying for a presentation, you are welcome to choose any combination of the options. You can apply to give a presentation using the form below.  Note that this will NOT be a hybrid event, therefore we expect **presenters to attend the event in person**.
 
-**The deadline for submitting a presentation is the TBC **
+**The deadline for submitting a presentation is the Sunday 15th September 2024 **
 
 
 <div class="alert mt-3 alert-info" style="text-align:center;">
