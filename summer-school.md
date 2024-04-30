@@ -6,16 +6,22 @@ permalink: /summer-school
 
 ## The Summer School in Computer Vision
 
-The [2023 Summer School](https://cvss-uea.uk) will be held in Norwich (at the University of East Anglia) on 10th - 14th July 2023. Please see the [summer school website](https://cvss-uea.uk/) for more details.
+The 27th BMVA Computer Vision Summer School (CVSS 2024) will take place between 15th - 19th July 2024 at Durham University, Durham, UK. 
+
+The event will consist of an intensive week of lectures and lab sessions covering a wide range of topics in Computer Vision. Lecturers are researchers in the field from some of the most active research groups in the UK and abroad. The summer school also fulfills an important social function in that it gives attendees a chance to meet other vision students and researchers from around the UK and beyond. 
+
+Please see the [Computer Vision Summer School 2024 Website](https://cvss.bmva.org/) for more details.
 
 <p style="pb-2">
-<a href="https://cvss-uea.uk//"><img src="{{ site.baseurl }}/assets/images/events/2023-norwich-summer-school.jpg" class="img-fluid rounded mx-auto d-block" style="max-width: 400px;" alt="CVSS 2023 Logo"></a>
+<a href="https://cvss.bmva.org/"><img src="{{ site.baseurl }}/assets/images/events/2024-durham-summer-school.jpg" class="img-fluid rounded mx-auto d-block" style="max-width: 600px;" alt="CVSS 2024 Logo"></a>
 </p>
 
-The BMVA runs an annual summer school on computer vision. Speakers on the Summer School are academic researchers or experienced practitioners from industry. It has been running for since the 1990s and is updated every year to ensure it covers the state-of-the-art, broadens awareness of related research fields, and develops research skills.
 
-The summer school also fulfills an important social function in that it gives attendees a chance to meet other vision students and researchers from around the UK and beyond.
+### Next Summer School
 
+The 28th BMVA Computer Vision Summer School (CVSS 2025) will be hosted by [University of Aberdeen](https://www.abdn.ac.uk/), Aberdeen, UK.
+
+<!---
 ### Call for Proposals to Host the 2024 Summer School!
 
 The summer school is an excellent opportunity for computer vision researchers at the start of their careers and is a priority for the BMVA. This is only possible through the kind work of volunteers from the academic and industry communities who host and support the organisation of the school.
@@ -29,20 +35,22 @@ The summer school is an excellent opportunity for computer vision researchers at
 <a class="btn btn-danger" role="button" href="https://forms.gle/rY79xfc9xc38GdYz7">Expression of Interest Form</a></p>
 
 </div>
+--->
 
 ### Previous Summer Schools
 
-Recent venues for the summer school were:
+The BMVA has been running this annual summer school on computer vision since the 1990s and is updated every year to ensure it covers the state-of-the-art, broadens awareness of related research fields, and develops research skills. Speakers on the Summer School are academic researchers or experienced practitioners from industry. Recent venues for the summer school were:
 
 | &nbsp;&nbsp;&nbsp;Year&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;Venue&nbsp;&nbsp;&nbsp; |
 |:-:|:-:|
+| 2023 | [UEA](https://cvss-uea.uk/) |
 | 2022 | [UEA](https://cvss2022-uea.uk/) |
 | 2019 | [Lincoln](https://cvss.blogs.lincoln.ac.uk/) |
 | 2018 | [UEA](http://cvss-uea.uk) |
 | 2017 | [Lincoln](http://cvss.blogs.lincoln.ac.uk) |
 | 2016 | [Swansea](http://cvss.swansea.ac.uk) |
 | 2015 | [Swansea](http://cvss.swansea.ac.uk/cvss2015) |
-| 2014 | [Swansea](http://cvss.swan.ac.uk/cvss2014) |
+| 2014 | [Swansea](http://cvss.swansea.ac.uk/cvss2014) |
 | 2013 | [Manchester](http://personalpages.manchester.ac.uk/staff/carole.j.twining/bmva) |
 | 2012 | [Manchester](http://personalpages.manchester.ac.uk/staff/jim.graham/SummerSchool) |
 | 2011 | [Manchester](http://personalpages.manchester.ac.uk/staff/jim.graham) |
