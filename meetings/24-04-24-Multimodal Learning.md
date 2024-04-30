@@ -28,7 +28,17 @@ We invite academic and industry presentations, bringing together researchers int
 * [Rudra Poudel](https://rudrapoudel.com/) (Toshiba Europe)
 * [Ashkan Khakzar](https://ashk-on.github.io/) (University of Oxford)
 
+## Videos of Talks
 
+On our BMVA YouTube channel there are recorded talks of the slides and speaker from the day [here](https://www.youtube.com/playlist?list=PLW8VWHVjepIvYueL7BiYvpTIHpXW6uQh1)
+
+<div class="container">
+	<div class="row"><div class="col-xs-12 col-lg-10 mx-auto">
+		<div class="video-container">
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLW8VWHVjepIvYueL7BiYvpTIHpXW6uQh1 " frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+		</div>
+	</div></div>
+</div>
 
 ## Programme
 

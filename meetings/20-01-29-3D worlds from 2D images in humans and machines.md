@@ -15,14 +15,6 @@ James Elder. Professor of Human and Computer Vision, York University, Toronto.
 Johannes Burge, University of Pennsylvania
 Lourdes Agapito, University College London.
 
-## Meeting Report
-
-After the meeting the organisers prepared a short summary of the meeting.
-**Coming Soon**
-<!--
-This can be found [here]({{ site.baseurl }}{% link assets/events/bmvameetingreport-19-11-27.pdf %})
-!-->
-
 ## Videos of Talks
 
 On our BMVA YouTube channel there are recorded talks of the slides and speaker from the day [here](https://www.youtube.com/playlist?list=PLW8VWHVjepIsuKddDZmImJJ2vAqDcBQNO)
