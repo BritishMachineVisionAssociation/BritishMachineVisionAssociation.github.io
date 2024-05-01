@@ -2,6 +2,24 @@
 
 - type: Summer School
   title: BMVA Summer School
+  date: 2024-07-15
+  image: 07-08-bmva-summer-school.png
+  link: https://cvss.bmva.org
+
+- type: BMVC Conference
+  title: BMVC 2024 in Glasgow
+  date: 2024-11-25
+  image: bmvc-2023-logo.png
+  link: https://www.bmvc2024.org
+
+- type: MIUA Conference
+  title: MIUA 2024 in Manchester
+  date: 2024-07-24
+  image: miua2024.png
+  link: https://miua2024.github.io
+
+- type: Summer School
+  title: BMVA Summer School
   date: 2023-07-10
   image: 07-08-bmva-summer-school.png
   link: https://cvss-uea.uk
