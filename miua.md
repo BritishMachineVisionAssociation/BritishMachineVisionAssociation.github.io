@@ -6,10 +6,12 @@ permalink: /miua
 
 ## Medical Image Understanding and Analysis Conference (MIUA)
 
-[MIUA 2023](https://email.abdn-online.ac.uk/7EPZ-1ASB-T7VZ5-JND1-1/c.aspx) will be held in Aberdeen on 19th — 21st July 2023.
+[MIUA 2024](https://miua2024.github.io) will be held in Manchester on 24-26th July 2024.
+
+<!--[MIUA 2023](https://email.abdn-online.ac.uk/7EPZ-1ASB-T7VZ5-JND1-1/c.aspx) will be held in Aberdeen on 19th — 21st July 2023.-->
 
 <p style="pb-2">
-<a href="https://email.abdn-online.ac.uk/7EPZ-1ASB-T7VZ5-JND1-1/c.aspx"><img src="{{ site.baseurl }}/assets/images/events/miua2023-banner.png" class="img-fluid rounded mx-auto d-block" style="max-width: 450px;" alt="MIUA 2021 Logo"></a>
+<a href="https://miua2024.github.io"><img src="{{ site.baseurl }}/assets/images/events/miua2024.png" class="img-fluid rounded mx-auto d-block" style="max-width: 450px;" alt="MIUA 2024 Logo"></a>
 </p>
 
 <!--
