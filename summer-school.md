@@ -46,7 +46,7 @@ The BMVA has been running this annual summer school on computer vision since the
 | 2023 | [UEA](https://cvss-uea.uk/) |
 | 2022 | [UEA](https://cvss2022-uea.uk/) |
 | 2019 | [Lincoln](https://cvss.blogs.lincoln.ac.uk/) |
-| 2018 | [UEA](http://cvss-uea.uk) |
+| 2018 | [UEA](https://bmvass2018.wordpress.com) |
 | 2017 | [Lincoln](http://cvss.blogs.lincoln.ac.uk) |
 | 2016 | [Swansea](http://cvss.swansea.ac.uk) |
 | 2015 | [Swansea](http://cvss.swansea.ac.uk/cvss2015) |
