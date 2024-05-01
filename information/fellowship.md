@@ -34,7 +34,8 @@ the British machine vision community, both nationally and internationally.
 + [2017: Andrew Fitzgibbon]({{ site.baseurl }}{% link fellowship/2017-fitzgibbon.md %})
 + [2018: Majid Mirmehdi]({{ site.baseurl }}{% link fellowship/2018-mirmehdi.md %})
 + [2019: Philip Torr]({{ site.baseurl }}{% link fellowship/2019-torr.md %})
-+ 2020: Emanuele Trucco
++ [2020: Emanuele Trucco]({{ site.baseurl }}{% link fellowship/2020-trucco.md %})
++ [2021: Richard Bowden]({{ site.baseurl }}{% link fellowship/2021-bowden.md %})
 
 ### Nominations
 
