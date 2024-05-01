@@ -13,20 +13,18 @@ title: Home
 **BMVC 2022**: Thanks for your patience. This year BMVC will be held from 21st - 24th November 2022. We invite papers to be submitted for the conference and ask that potential authors read the call for papers that deatails both the topics of interest for the conference. The paper submission deadline will be **23:59 GMT Friday 29th July 2022**. 
 --->
 
-
-**Call for Volunteers for BMVC 2024: Deadline 24th July 2023**: We are seeking volunteers for both hosting and helping on the organising team for BMVC. Please see the [BMVC page]({{ site.baseurl }}/bmvc) for further details and the [online form](https://forms.gle/SAHrQg7LAUo84TRGA).
-
-<p style="text-align: center;">
-<a class="btn btn-warning" role="button" href="https://forms.gle/SAHrQg7LAUo84TRGA">Volunteers for BMVC</a></p>
-
-
-**Call for Volunteers for BMVA Summer School 2024: Deadline 24th July 2023**: We are seeking volunteers for both hosting and helping on the organising team for the summer school. Please see the [summer school page]({{ site.baseurl }}/summer-school) for further details and the [online form](https://forms.gle/rY79xfc9xc38GdYz7).
+**BMVC 2024**: We are pleased to announce that BMVC will be held from 25th - 28th November 2024 in Glasgow. The timeline for the conference is [now available](https://bmvc2024.org/dates/) and the paper submission deadline will be **23:59 GMT Friday, 10 May 2024**. 
+Please note, **there will be no extension on the paper submission deadline.**
 
 <p style="text-align: center;">
-<a class="btn btn-warning" role="button" href="https://forms.gle/rY79xfc9xc38GdYz7">Volunteers for the BMVA Summer School</a></p>
+<a class="btn btn-info" role="button" href="https://bmvc2024.org/">BMVC 2024 Website</a></p>
 
+**MIUA 2024**: We are pleased to announce that MIUA will be held from 24th - 26th July 2024 in Manchester. The timeline for the conference is [now available](https://miua2024.github.io/) and the paper submission deadline will be **23:59 GMT, 31st March 2024**. 
 
-**Sullivan Thesis Prize Nominations**: We are pleased to announce that we are now accepting nominations for the Sullivan Thesis Prize again. These include **retrospective** nominations from **2019-2023** with a deadline of **15 September 2023**. Please see the [Sullivan thesis prize page]({{ site.baseurl }}/bursaries/sullivan-prize) for further details.
+<p style="text-align: center;">
+<a class="btn btn-info" role="button" href="https://miua2024.github.io/">MIUA 2024 Website</a></p>
+
+**Sullivan Thesis Prize Nominations**: We are pleased to announce that we are now accepting nominations for the Sullivan Thesis Prize again. Please see the [Sullivan thesis prize page]({{ site.baseurl }}/bursaries/sullivan-prize) for further details.
 
 
 <p style="text-align: center;">
@@ -34,11 +32,9 @@ title: Home
 
 
 
-**BMVC 2023**: We are pleased to announce that BMVC will be held from 20th - 24th November 2023 in Aberdeen. The timeline for the conference is [now available](https://bmvc2023.org/dates/) and the paper submission deadline will be **23:59 GMT Friday, 12 May 2023**. 
-Please note, **there will be no extension on the paper submission deadline.**
 
-<p style="text-align: center;">
-<a class="btn btn-info" role="button" href="https://bmvc2023.org/">BMVC 2023 Website</a></p>
+
+
 
 
 **IAPR Information**: The BMVA is a member of the [International Association for Pattern Recognition](http://www.iapr.org/) that provides a number of opportunities open to BMVA members including research travel scholarships and a list of internships. Please see the [IAPR page]({{ site.baseurl }}{% link information/iapr.md %}) for further details.

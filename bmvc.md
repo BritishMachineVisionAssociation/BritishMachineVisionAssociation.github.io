@@ -404,20 +404,20 @@ The online proceedings for past conferences are available:
 <li><a href="{{ site.archive_url }}/bmvc/1999/index.html">BMVC 1999</a>, Nottingham</li>
 <li><a href="{{ site.archive_url }}/bmvc/1998/index.html">BMVC 1998</a>, Southampton</li>
 <li><a href="{{ site.archive_url }}/bmvc/1997/index.html">BMVC 1997</a>, Essex</li>
-<li><a href="{{ site.archive_url }}/bmvc/1996/index.html">BMVC 1996</a>, Edinburgh</li>
-<li><a href="{{ site.archive_url }}/bmvc/1995/index.html">BMVC 1995</a>, Birmingham</li>
-<li><a href="{{ site.archive_url }}/bmvc/1994/index.html">BMVC 1994</a>, York</li>
-<li><a href="{{ site.archive_url }}/bmvc/1993/index.html">BMVC 1993</a>, Surrey</li>
-<li><a href="{{ site.archive_url }}/bmvc/1992/index.html">BMVC 1992</a>, Leeds</li>
-<li><a href="{{ site.archive_url }}/bmvc/1991/index.html">BMVC 1991</a>, Glasgow</li>
-<li><a href="{{ site.archive_url }}/bmvc/1990/index.html">BMVC 1990</a>, Oxford</li>
+<li><a href="{{ site.baseurl }}/bmvc/1996/index.html">BMVC 1996</a>, Edinburgh</li>
+<li><a href="{{ site.baseurl }}/bmvc/1995/index.html">BMVC 1995</a>, Birmingham</li>
+<li><a href="{{ site.baseurl }}/bmvc/1994/index.html">BMVC 1994</a>, York</li>
+<li><a href="{{ site.baseurl }}/bmvc/1993/index.html">BMVC 1993</a>, Surrey</li>
+<li><a href="{{ site.baseurl }}/bmvc/1992/index.html">BMVC 1992</a>, Leeds</li>
+<li><a href="{{ site.baseurl }}/bmvc/1991/index.html">BMVC 1991</a>, Glasgow</li>
+<li><a href="{{ site.baseurl }}/bmvc/1990/index.html">BMVC 1990</a>, Oxford</li>
 </ul>
 
 Proceedings for the BMVC's immediate predecessor, the Alvey Vision Conference, are also available:
 
 <ul>
-<li><a href="{{ site.archive_url }}/bmvc/1989/index.html">AVC 1989</a>, Reading</li>
-<li><a href="{{ site.archive_url }}/bmvc/1988/index.html">AVC 1988</a>, Manchester</li>
+<li><a href="{{ site.baseurl }}/bmvc/1989/index.html">AVC 1989</a>, Reading</li>
+<li><a href="{{ site.baseurl }}/bmvc/1988/index.html">AVC 1988</a>, Manchester</li>
 <li><a href="{{ site.baseurl }}/bmvc/1987/index.html">AVC 1987</a>, Cambridge</li>
 </ul>
 

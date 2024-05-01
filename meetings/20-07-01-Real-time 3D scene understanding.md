@@ -23,9 +23,7 @@ A copy of the Call for Papers can be found [here]({{ site.baseurl }}{% link asse
 
 ## Submission Deadline 
 
-We wish to encourage submissions from students as well as academic and industry researchers in the area. Abstracts are not published and re-presentation of previous work is acceptable. All those interested in presenting at this meeting are invited to submit a summary of their talk by 
-22th April 2020 at: 
-<https://forms.gle/vWJytu5NkHcJpXnGA>
+We wish to encourage submissions from students as well as academic and industry researchers in the area. Abstracts are not published and re-presentation of previous work is acceptable.
 
 
 ## Meeting Location
