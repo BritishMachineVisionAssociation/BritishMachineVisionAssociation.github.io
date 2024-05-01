@@ -10,19 +10,19 @@ permalink: /bmvc
 
 <div class="row justify-content-md-center pb-2 ml-3 mr-3">
     <div class="col-12 col-md-8 col-lg-6">
-        <a href="https://www.bmvc2023.org/">
+        <a href="https://www.bmvc2024.org/">
             <picture>
-                <img src="{{ site.baseurl }}/assets/images/events/bmvc-2023-logo.png" class="img-fluid rounded mx-auto d-block"  alt="BMVC 2023 Logo">
+                <img src="{{ site.baseurl }}/assets/images/events/bmvc-2024-logo-small.png" class="img-fluid rounded mx-auto d-block"  alt="BMVC 2024 Logo">
             </picture>
         </a>
     </div>
 </div>
 
-**BMVC 2023**: We are pleased to announce that BMVC will be held from 20th - 24th November 2023 in Aberdeen. The timeline for the conference is [now available](https://bmvc2023.org/dates/) and the paper submission deadline will be **23:59 GMT Friday, 12 May 2023**. 
+**BMVC 2024**: We are pleased to announce that BMVC will be held from 25th - 28th November 2024 in Glasgow. The timeline for the conference is [now available](https://bmvc2024.org/dates/) and the paper submission deadline will be **23:59 GMT Friday, 10 May 2024**. 
 Please note, **there will be no extension on the paper submission deadline.**
 
 <p style="text-align: center;">
-<a class="btn btn-info" role="button" href="https://bmvc2023.org/">BMVC 2023 Website</a></p>
+<a class="btn btn-info" role="button" href="https://bmvc2024.org/">BMVC 2024 Website</a></p>
 
 ### Call for Volunteers for hosting and organsing BMVC!
 
@@ -34,6 +34,7 @@ The vision community, and the size of the conference, has expanded over recent y
 
 The BMVA committee can assist with finding and securing venues if this is required (the scale of BMVC can now make it difficult to host within a university lecture theatre for example) and we can provide assistance with putting together the budget and sponsorship.
 
+<!--
 <div class="alert mt-3 alert-danger" style="text-align:center;">
 <h2>Volunteers for BMVC 2024: Deadline 24th July 2023</h2>
 
@@ -45,6 +46,7 @@ The BMVA committee can assist with finding and securing venues if this is requir
 <a class="btn btn-danger" role="button" href="https://forms.gle/SAHrQg7LAUo84TRGA">Expression of Interest Form</a></p>
 
 </div>
+-->
 
 <!--
 <div class="alert mt-3 alert-danger" style="text-align:center;">
@@ -378,6 +380,7 @@ The BMVC proceedings style files are available on [GitHub](https://github.com/Br
 The online proceedings for past conferences are available:
 
 <ul>
+<li><a href="https://www.bmvc2023.org/">BMVC 2023</a>, Aberdeen</li>
 <li><a href="https://www.bmvc2022.org/">BMVC 2022</a>, London</li>  
 <li><a href="https://www.bmvc2021-virtualconference.com/">BMVC 2021</a>, (Virtual)</li>  
 <li><a href="https://www.bmvc2020-conference.com/">BMVC 2020</a>, (Virtual)</li>    
