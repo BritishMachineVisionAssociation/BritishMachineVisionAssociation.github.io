@@ -50,8 +50,8 @@ Please email Sullivan Thesis Prize Chairs at [Dr Alex Mackin](mailto:acmackin@am
 ### Previous Award Winners Photos
 
 <p style="pb-2">
-< <img src="{{ site.baseurl }}/assets/images/ThesisPrize/SulivanThesisAward2023_1.png" class="img-fluid rounded mx-auto d-block" style="max-width: 500px;" alt="Thesis Prive Awarding">
-< <img src="{{ site.baseurl }}/assets/images/ThesisPrize/SulivanThesisAward2023_2.png" class="img-fluid rounded mx-auto d-block" style="max-width: 500px;" alt="Thesis Prive Awarding">
+<img src="{{ site.baseurl }}/assets/images/ThesisPrize/SulivanThesisAward2023_1.png" class="img-fluid rounded mx-auto d-block" style="max-width: 500px;" alt="Thesis Prive Awarding">
+<img src="{{ site.baseurl }}/assets/images/ThesisPrize/SulivanThesisAward2023_2.png" class="img-fluid rounded mx-auto d-block" style="max-width: 500px;" alt="Thesis Prive Awarding">
 </p>
 <p style="pb-2">
 <img src="{{ site.baseurl }}/assets/images/ThesisPrize/SulivanThesisAward2023_3.png" class="img-fluid rounded mx-auto d-block" style="max-width: 500px;" alt="Thesis Prive Awarding">
@@ -77,9 +77,9 @@ Please email Sullivan Thesis Prize Chairs at [Dr Alex Mackin](mailto:acmackin@am
 </thead>
 <tbody>
 
-<tr><td align="left">2022</td><td align="left">Shangzhe Wu</td><td align="left">University of Oxford</td><td align="left"><a href="http://www.bmva.org/theses/2016/2016-lebeda3.pdf">Unsupervised Learning of 3D Objects in the Wild</a></td></tr>
-<tr><td align="left">2021</td><td align="left">Jaime Spencer Martin</td><td align="left">University of Surrey</td><td align="left"><a href="http://www.bmva.org/theses/2016/2016-lebeda3.pdf">Learning Generic Deep Feature Representations</a></td></tr>
-<tr><td align="left">2020</td><td align="left">Dimitrios Kollias</td><td align="left">Imperial College London</td><td align="left"><a href="http://www.bmva.org/theses/2016/2016-lebeda3.pdf">Affect Recognition & Generation in-the-wild</a></td></tr>
+<tr><td align="left">2022</td><td align="left">Shangzhe Wu</td><td align="left">University of Oxford</td><td align="left"><a href="http://www.bmva.org/theses/2022/2022-Wu.pdf">Unsupervised Learning of 3D Objects in the Wild</a></td></tr>
+<tr><td align="left">2021</td><td align="left">Jaime Spencer Martin</td><td align="left">University of Surrey</td><td align="left"><a href="http://www.bmva.org/theses/2021/2021_Spencer.pdf">Learning Generic Deep Feature Representations</a></td></tr>
+<tr><td align="left">2020</td><td align="left">Dimitrios Kollias</td><td align="left">Imperial College London</td><td align="left"><a href="http://www.bmva.org/theses/2020/2020-Kollias.pdf">Affect Recognition & Generation in-the-wild</a></td></tr>
 <tr><td align="left">2017</td><td align="left">Karel Lebeda</td><td align="left">University of Surrey</td><td align="left"><a href="http://www.bmva.org/theses/2016/2016-lebeda.pdf">2D and 3D Tracking and Modelling</a></td></tr>
 <tr><td align="left">2016</td><td align="left">Xiatian Zhu</td><td align="left">Queen Mary, University of London</td><td align="left"><a href="http://www.bmva.org/theses/2015/2015-zhu.pdf">Semantic Structure Discovery in Surveillance Videos</a></td></tr>
 <tr><td align="left">2015</td><td align="left">Vibhav Vineet</td><td align="left">Oxford Brookes University</td><td align="left"><a href="http://www.bmva.org/theses/2014/2014-vineet.pdf">Recognition, Reorganisation, Reconstruction and Reinteraction for Scene Understanding</a></td></tr>
