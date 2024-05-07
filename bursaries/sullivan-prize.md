@@ -77,9 +77,13 @@ Please email Sullivan Thesis Prize Chairs at [Dr Alex Mackin](mailto:acmackin@am
 </thead>
 <tbody>
 
-<tr><td align="left">2022</td><td align="left">Shangzhe Wu</td><td align="left">University of Oxford</td><td align="left"><a href="http://www.bmva.org/theses/2022/2022-Wu.pdf">Unsupervised Learning of 3D Objects in the Wild</a></td></tr>
-<tr><td align="left">2021</td><td align="left">Jaime Spencer Martin</td><td align="left">University of Surrey</td><td align="left"><a href="http://www.bmva.org/theses/2021/2021_Spencer.pdf">Learning Generic Deep Feature Representations</a></td></tr>
-<tr><td align="left">2020</td><td align="left">Dimitrios Kollias</td><td align="left">Imperial College London</td><td align="left"><a href="http://www.bmva.org/theses/2020/2020-Kollias.pdf">Affect Recognition & Generation in-the-wild</a></td></tr>
+<tr><td align="left">2022</td><td align="left">Shangzhe Wu</td><td align="left">University of Oxford</td><td align="left"><a href="http://www.bmva.org/theses/2022/2022-wu.pdf">Unsupervised Learning of 3D Objects in the Wild</a></td></tr>
+<tr><td align="left">2021</td><td align="left">Jaime Spencer Martin</td><td align="left">University of Surrey</td><td align="left"><a href="http://www.bmva.org/theses/2021/2021-spencer.pdf">Learning Generic Deep Feature Representations</a></td></tr>
+<tr><td align="left">2020</td><td align="left">Dimitrios Kollias</td><td align="left">Imperial College London</td><td align="left"><a href="http://www.bmva.org/theses/2023/2023-kollias.pdf">Affect Recognition & Generation in-the-wild</a></td></tr>
+<tr><td align="left">2019</td><td align="left">Alex Kendall</td><td align="left">University of Cambridge</td><td align="left"><a href="http://www.bmva.org/theses/2017/2017-kendall.pdf">Geometry and Uncertainty
+in Deep Learning for Computer Vision</a></td></tr>
+<tr><td align="left">2018</td><td align="left">Oscar Mendez</td><td align="left">University of Surrey</td><td align="left"><a href="http://www.bmva.org/theses/2017/2017-mendez.pdf">Collaborative Strategies for Autonomous
+Localisation, 3D Reconstruction and Pathplanning</a></td></tr>
 <tr><td align="left">2017</td><td align="left">Karel Lebeda</td><td align="left">University of Surrey</td><td align="left"><a href="http://www.bmva.org/theses/2016/2016-lebeda.pdf">2D and 3D Tracking and Modelling</a></td></tr>
 <tr><td align="left">2016</td><td align="left">Xiatian Zhu</td><td align="left">Queen Mary, University of London</td><td align="left"><a href="http://www.bmva.org/theses/2015/2015-zhu.pdf">Semantic Structure Discovery in Surveillance Videos</a></td></tr>
 <tr><td align="left">2015</td><td align="left">Vibhav Vineet</td><td align="left">Oxford Brookes University</td><td align="left"><a href="http://www.bmva.org/theses/2014/2014-vineet.pdf">Recognition, Reorganisation, Reconstruction and Reinteraction for Scene Understanding</a></td></tr>
