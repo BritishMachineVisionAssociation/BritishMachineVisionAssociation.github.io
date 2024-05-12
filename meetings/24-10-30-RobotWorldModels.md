@@ -6,7 +6,7 @@ index: 1
 date: 2024-10-30
 meeting-title: "BMVA Symposium: Robotics Foundation World Models"
 image: 24-09-15_RobotWorldModels.jpeg
-organisers: Rudra Poudel (Toshiba Europe Ltd), Dimitrios Kanoulas (University College London) Maria Koskinopoulou (Heriot-Watt University), Thomas George Thuruthel (University College London)
+organisers: Rudra Poudel (Toshiba Europe Ltd), Dimitrios Kanoulas (University College London), Maria Koskinopoulou (Heriot-Watt University), Thomas George Thuruthel (University College London), Edward Johns (University College London)
 ---
 
 <div class="alert mt-3 alert-info" style="text-align:center;">
@@ -16,11 +16,8 @@ organisers: Rudra Poudel (Toshiba Europe Ltd), Dimitrios Kanoulas (University Co
 
 ## Invited Speakers
 
-* Coming Soon
-
-*
-
-*
+* [Subramanian Ramamoorthy](https://rad.inf.ed.ac.uk/) University of Edinburgh, 
+* More Coming Soon
 
 ## To contact the chairs
 
@@ -31,6 +28,8 @@ organisers: Rudra Poudel (Toshiba Europe Ltd), Dimitrios Kanoulas (University Co
 [Asst. Prof. Maria Koskinopoulou](https://sites.google.com/view/mariakoskinopoulou/) Heriot-Watt University, [M.Koskinopoulou@hw.ac.uk](M.Koskinopoulou@hw.ac.uk)
 
 [Asst. Prof. Thomas George Thuruthel](https://tthuruthel.com/) University College London, [t.thuruthel@ucl.ac.uk](t.thuruthel@ucl.ac.uk)
+
+[Edward Johns](https://www.robot-learning.uk/), University College London, [e.johns@imperial.ac.uk](e.johns@imperial.ac.uk), 
 
 ## Call for Presentations
 
