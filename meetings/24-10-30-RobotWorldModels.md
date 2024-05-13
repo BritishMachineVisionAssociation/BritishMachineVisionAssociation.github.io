@@ -6,7 +6,7 @@ index: 1
 date: 2024-10-30
 meeting-title: "BMVA Symposium: Robotics Foundation World Models"
 image: 24-09-15_RobotWorldModels.jpeg
-organisers: Rudra Poudel (Toshiba Europe Ltd), Dimitrios Kanoulas (University College London), Maria Koskinopoulou (Heriot-Watt University), Thomas George Thuruthel (University College London), Edward Johns (University College London)
+organisers: Rudra Poudel (Toshiba Europe Ltd), Dimitrios Kanoulas (University College London), Maria Koskinopoulou (Heriot-Watt University), Thomas George Thuruthel (University College London), Edward Johns (Imperial College London)
 ---
 
 <div class="alert mt-3 alert-info" style="text-align:center;">
@@ -21,15 +21,15 @@ organisers: Rudra Poudel (Toshiba Europe Ltd), Dimitrios Kanoulas (University Co
 
 ## To contact the chairs
 
-[Dr. Rudra P.K. Poudel](https://rudrapoudel.com/) Toshiba Europe Ltd, [rudra.poudel@gmail.com](udra.poudel@gmail.com)
+[Rudra P.K. Poudel](https://rudrapoudel.com/) Toshiba Europe Ltd, [rudra.poudel@gmail.com](udra.poudel@gmail.com)
 
-[Assoc. Prof. Dimitrios Kanoulas](https://dkanou.github.io/) University College London, [d.kanoulas@ucl.ac.uk](d.kanoulas@ucl.ac.uk)
+[Dimitrios Kanoulas](https://dkanou.github.io/) University College London, [d.kanoulas@ucl.ac.uk](d.kanoulas@ucl.ac.uk)
 
-[Asst. Prof. Maria Koskinopoulou](https://sites.google.com/view/mariakoskinopoulou/) Heriot-Watt University, [M.Koskinopoulou@hw.ac.uk](M.Koskinopoulou@hw.ac.uk)
+[Maria Koskinopoulou](https://sites.google.com/view/mariakoskinopoulou/) Heriot-Watt University, [M.Koskinopoulou@hw.ac.uk](M.Koskinopoulou@hw.ac.uk)
 
-[Asst. Prof. Thomas George Thuruthel](https://tthuruthel.com/) University College London, [t.thuruthel@ucl.ac.uk](t.thuruthel@ucl.ac.uk)
+[Thomas George Thuruthel](https://tthuruthel.com/) University College London, [t.thuruthel@ucl.ac.uk](t.thuruthel@ucl.ac.uk)
 
-[Edward Johns](https://www.robot-learning.uk/), University College London, [e.johns@imperial.ac.uk](e.johns@imperial.ac.uk), 
+[Edward Johns](https://www.robot-learning.uk/), Imperial College London, [e.johns@imperial.ac.uk](e.johns@imperial.ac.uk), 
 
 ## Call for Presentations
 
