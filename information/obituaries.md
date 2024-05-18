@@ -18,3 +18,4 @@ Here we remember researchers in computer vision and related fields.
 + [Mark Bradshaw, 1961-2004]({{ site.baseurl }}{% link obituaries/mark-bradshaw.md %})
 + [Mark Everingham, 1973-2012]({{ site.baseurl }}{% link obituaries/mark-everingham.md %})
 + [Maria Petrou, 1953-2012]({{ site.baseurl }}{% link obituaries/maria-petrou.md %})
++ [Roy Davies, 1940-2024]({{ site.baseurl }}{% link obituaries/roy-davies.md %})
