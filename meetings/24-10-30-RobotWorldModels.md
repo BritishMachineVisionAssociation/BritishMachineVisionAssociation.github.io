@@ -41,7 +41,16 @@ organisers: Rudra Poudel (Toshiba Europe Ltd), Dimitrios Kanoulas (University Co
 
 ## Call for Presentations
 
-We invite academic and industry presentations, bringing together researchers interested in all aspects of learning world models and foundational models for robotics, including but not limited to, world models, robotic foundation models, efficient foundation models, planning, manipulation, navigation, multimodal representation learning, vision-and-language for robotics, etc.
+We invite academic and industry presentations, bringing together researchers interested in all aspects of learning world models and foundational models for robotics, including but not limited to, 
+* World models, 
+* Robotic foundation models, 
+* Efficient foundation models, 
+* Planning, 
+* Manipulation, 
+* Navigation, 
+* Multimodal representation learning, 
+* Vision-and-language for robotics, 
+* etc.
 	
 
 If you are unsure about the suitable of your topic, please contact the chairs.
