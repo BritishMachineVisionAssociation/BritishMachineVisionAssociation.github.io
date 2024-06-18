@@ -10,13 +10,13 @@ organisers: Rudra Poudel (Toshiba Europe Ltd), Dimitrios Kanoulas (University Co
 ---
 
 <div class="alert mt-3 alert-info" style="text-align:center;">
-<span><strong>Submit interest through : &nbsp;&nbsp;
+<span><strong>Interested in Presenting work at this Meeting? : &nbsp;&nbsp;
 <a class="btn btn-warning" role="button" href="https://docs.google.com/forms/d/1cU4F-PvaJR3tox4hRTix9SH9OPPFkBPNZNYaOv6JHx0">Submit Interest here</a></strong></span>
 </div>
 
 
 <div class="alert mt-3 alert-info" style="text-align:center;">
-<span><strong>Please register for the event via charitysuite on this link: &nbsp;&nbsp;
+<span><strong>PSign up for the event via this link: &nbsp;&nbsp;
 <a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/events/dw2mpco8">Register Here</a></strong></span>
 </div>
 
@@ -79,6 +79,10 @@ Both include lunch and refreshments for the day
 <span><strong>Please register via charitysuite on this link: &nbsp;&nbsp;
 <a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/events/dw2mpco8">Register Here</a></strong></span>
 </div>
+
+
+<p style="text-align: center;">
+<a class="btn btn-info" role="button" href="mailto:a.gilbert@surrey.ac.uk">Queries contact the Meeting's Organiser Andrew Gilbert here</a></p>
 
 
 
