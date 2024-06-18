@@ -10,24 +10,32 @@ organisers: Rudra Poudel (Toshiba Europe Ltd), Dimitrios Kanoulas (University Co
 ---
 
 <div class="alert mt-3 alert-info" style="text-align:center;">
-<span><strong>Please register via charitysuite on this link: &nbsp;&nbsp;
+<span><strong>Submit interest through : &nbsp;&nbsp;
+<a class="btn btn-warning" role="button" href="https://docs.google.com/forms/d/1cU4F-PvaJR3tox4hRTix9SH9OPPFkBPNZNYaOv6JHx0">Submit Interest here</a></strong></span>
+</div>
+
+
+<div class="alert mt-3 alert-info" style="text-align:center;">
+<span><strong>Please register for the event via charitysuite on this link: &nbsp;&nbsp;
 <a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/events/dw2mpco8">Register Here</a></strong></span>
 </div>
 
 ## Invited Speakers
 
-* [Subramanian Ramamoorthy](https://rad.inf.ed.ac.uk/) University of Edinburgh, 
-* More Coming Soon
+* [ Andrew Davison](https://www.doc.ic.ac.uk/~ajd/), Imperial College London  
+* [Subramanian Ramamoorthy](https://rad.inf.ed.ac.uk/),  University of Edinburgh
+* [Gerhard Neumann](https://alr.iar.kit.edu/),  Karlsruhe Institute of Technology  
+* [Francesco Nori](https://iron76.github.io/), Google DeepMind  
 
 ## To contact the chairs
 
-[Rudra P.K. Poudel](https://rudrapoudel.com/) Toshiba Europe Ltd, [rudra.poudel@gmail.com](udra.poudel@gmail.com)
+[Rudra P.K. Poudel](https://rudrapoudel.com/), Toshiba Europe Ltd, [rudra.poudel@gmail.com](udra.poudel@gmail.com)
 
-[Dimitrios Kanoulas](https://dkanou.github.io/) University College London, [d.kanoulas@ucl.ac.uk](d.kanoulas@ucl.ac.uk)
+[Dimitrios Kanoulas](https://dkanou.github.io/), University College London, [d.kanoulas@ucl.ac.uk](d.kanoulas@ucl.ac.uk)
 
-[Maria Koskinopoulou](https://sites.google.com/view/mariakoskinopoulou/) Heriot-Watt University, [M.Koskinopoulou@hw.ac.uk](M.Koskinopoulou@hw.ac.uk)
+[Maria Koskinopoulou](https://sites.google.com/view/mariakoskinopoulou/), Heriot-Watt University, [M.Koskinopoulou@hw.ac.uk](M.Koskinopoulou@hw.ac.uk)
 
-[Thomas George Thuruthel](https://tthuruthel.com/) University College London, [t.thuruthel@ucl.ac.uk](t.thuruthel@ucl.ac.uk)
+[Thomas George Thuruthel](https://tthuruthel.com/), University College London, [t.thuruthel@ucl.ac.uk](t.thuruthel@ucl.ac.uk)
 
 [Edward Johns](https://www.robot-learning.uk/), Imperial College London, [e.johns@imperial.ac.uk](e.johns@imperial.ac.uk), 
 
@@ -45,7 +53,7 @@ Presentations will take the form of one of two types: poster, talk. When applyin
 
 <div class="alert mt-3 alert-info" style="text-align:center;">
 <span><strong>Submit interest through : &nbsp;&nbsp;
-<a class="btn btn-warning" role="button" href="http://tinyurl.com/bmvatrustworthyddg">Submit Interest here (Coming Soon)</a></strong></span>
+<a class="btn btn-warning" role="button" href="https://docs.google.com/forms/d/1cU4F-PvaJR3tox4hRTix9SH9OPPFkBPNZNYaOv6JHx0">Submit Interest here</a></strong></span>
 </div>
 
 ## Meeting Location
