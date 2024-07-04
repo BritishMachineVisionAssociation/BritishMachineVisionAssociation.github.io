@@ -16,7 +16,7 @@ organisers: Rudra Poudel (Toshiba Europe Ltd), Dimitrios Kanoulas (University Co
 
 
 <div class="alert mt-3 alert-info" style="text-align:center;">
-<span><strong>PSign up for the event via this link: &nbsp;&nbsp;
+<span><strong>Sign up for the event via this link: &nbsp;&nbsp;
 <a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/events/dw2mpco8">Register Here</a></strong></span>
 </div>
 
@@ -25,7 +25,9 @@ organisers: Rudra Poudel (Toshiba Europe Ltd), Dimitrios Kanoulas (University Co
 * [ Andrew Davison](https://www.doc.ic.ac.uk/~ajd/), Imperial College London  
 * [Subramanian Ramamoorthy](https://rad.inf.ed.ac.uk/),  University of Edinburgh
 * [Gerhard Neumann](https://alr.iar.kit.edu/),  Karlsruhe Institute of Technology  
-* [Francesco Nori](https://iron76.github.io/), Google DeepMind  
+* [Francesco Nori](https://iron76.github.io/), Google DeepMind 
+* [Ingmar Posner](https://ori.ox.ac.uk/labs/a2i/), University of Oxford
+* [Jack Parker-Holder](https://jparkerholder.github.io/), Google DeepMind 
 
 ## To contact the chairs
 
