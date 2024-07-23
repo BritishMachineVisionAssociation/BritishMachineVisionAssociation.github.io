@@ -23,11 +23,13 @@ organisers: Rudra Poudel (Toshiba Europe Ltd), Dimitrios Kanoulas (University Co
 ## Invited Speakers
 
 * [ Andrew Davison](https://www.doc.ic.ac.uk/~ajd/), Imperial College London  
+* [Elahe Aran]( https://www.linkedin.com/in/elahe-arani-630870b2), Wayve
 * [Subramanian Ramamoorthy](https://rad.inf.ed.ac.uk/),  University of Edinburgh
 * [Gerhard Neumann](https://alr.iar.kit.edu/),  Karlsruhe Institute of Technology  
 * [Francesco Nori](https://iron76.github.io/), Google DeepMind 
 * [Ingmar Posner](https://ori.ox.ac.uk/labs/a2i/), University of Oxford
 * [Jack Parker-Holder](https://jparkerholder.github.io/), Google DeepMind 
+
 
 ## To contact the chairs
 
