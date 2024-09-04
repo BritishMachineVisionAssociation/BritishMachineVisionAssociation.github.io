@@ -1,10 +1,10 @@
 ---
 layout: meeting
 type: One Day Meeting
-title: "BMVA Symposium: Robotics Foundation World Models (30th October 2024) "
+title: "BMVA Symposium: Robotics Foundation & World Models (30th October 2024) "
 index: 1
 date: 2024-10-30
-meeting-title: "BMVA Symposium: Robotics Foundation World Models"
+meeting-title: "BMVA Symposium: Robotics Foundation & World Models"
 image: 24-09-15_RobotWorldModels.jpeg
 organisers: Rudra Poudel (Toshiba Europe Ltd), Dimitrios Kanoulas (University College London), Maria Koskinopoulou (Heriot-Watt University), Thomas George Thuruthel (University College London), Edward Johns (Imperial College London)
 ---
@@ -81,11 +81,8 @@ British Computer Society (BCS), 25 Copthall Avenue, London EC2R 7BP
 
 We keep the cost of attending these events as low as possible to ensure no barriers from the whole computer vision community attending. 
 The registration costs are as follows 
-- **BMVA Members**:  £20
-
-- **Non BMVA Members**   £40 (Includes membership to the BMVA for 2025)
-
-Both include lunch and refreshments for the day
+- **All Attendees**:  £30
+Including lunch and refreshments for the day
 
 
 <div class="alert mt-3 alert-info" style="text-align:center;">
