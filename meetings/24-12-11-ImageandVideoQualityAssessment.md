@@ -54,8 +54,8 @@ Presentations will take the form of one of two types: poster, talk. When applyin
 
 
 <div class="alert mt-3 alert-info" style="text-align:center;">
-<span><strong>Submit interest through : &nbsp;&nbsp;
-<a class="btn btn-warning" role="button" href="https://forms.office.com/e/aPvEFLQaJH">Submit Interest here</a></strong></span>
+<span><strong>Submit interest to present through : &nbsp;&nbsp;
+<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/forms/iz75gudc">Submit Interest here</a></strong></span>
 </div>
 
 ## Meeting Location
@@ -75,7 +75,7 @@ Including lunch and refreshments for the day
 
 
 <div class="alert mt-3 alert-info" style="text-align:center;">
-<span><strong>Please register via charitysuite on this link: &nbsp;&nbsp;
+<span><strong>Please register for this event via charitysuite on this link: &nbsp;&nbsp;
 <a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/events/ismhd4ut">Register Here</a></strong></span>
 </div>
 
