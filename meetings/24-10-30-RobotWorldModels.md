@@ -9,26 +9,54 @@ image: 24-09-15_RobotWorldModels.jpeg
 organisers: Rudra Poudel (Toshiba Europe Ltd), Dimitrios Kanoulas (University College London), Maria Koskinopoulou (Heriot-Watt University), Thomas George Thuruthel (University College London), Edward Johns (Imperial College London)
 ---
 
-<div class="alert mt-3 alert-info" style="text-align:center;">
-<span><strong>Interested in Presenting work at this Meeting? : &nbsp;&nbsp;
-<a class="btn btn-warning" role="button" href="https://docs.google.com/forms/d/1cU4F-PvaJR3tox4hRTix9SH9OPPFkBPNZNYaOv6JHx0">Submit Interest here</a></strong></span>
-</div>
-
 
 <div class="alert mt-3 alert-info" style="text-align:center;">
 <span><strong>Sign up for the event via this link: &nbsp;&nbsp;
 <a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/events/dw2mpco8">Register Here</a></strong></span>
 </div>
 
-## Invited Speakers
+## Programme
 
-* [ Andrew Davison](https://www.doc.ic.ac.uk/~ajd/), Imperial College London  
-* [Elahe Aran]( https://www.linkedin.com/in/elahe-arani-630870b2), Wayve
-* [Subramanian Ramamoorthy](https://rad.inf.ed.ac.uk/),  University of Edinburgh
-* [Gerhard Neumann](https://alr.iar.kit.edu/),  Karlsruhe Institute of Technology  
-* [Francesco Nori](https://iron76.github.io/), Google DeepMind 
-* [Ingmar Posner](https://ori.ox.ac.uk/labs/a2i/), University of Oxford
-* [Jack Parker-Holder](https://jparkerholder.github.io/), Google DeepMind 
+| Start 	|   	| End    	|   	| Title                                        	|
+|-------	|---	|--------	|---	|----------------------------------------------	|
+| 09:30 	|   	| 09:40  	|   	| Registration/Poster Set-up                   	|
+| 09:40 	|   	| 09:45  	|   	| Opening Remarks                              	|
+| 09:45 	|   	| 10:20  	|   	| [Andrew Davison](https://www.doc.ic.ac.uk/~ajd/), Imperial College London                	|
+| 10:20 	|   	| 10:55  	|   	| [Francesco Nori](https://iron76.github.io/), Google DeepMind            	|
+| 10:55 	|   	| 11:30  	|   	| Coffee Break + Posters                       	|
+| 11:30 	|   	| 12:00  	|   	| Lightning Talks I (2x12mins)                   	|
+| 12:00 	|   	| 12:35  	|   	| [Ingmar Posner](https://ori.ox.ac.uk/labs/a2i/), University of Oxford                            	|
+| 12:35 	|   	| 13:30  	|   	| Lunch + Posters                     	|
+| 13:30 	|   	| 14:05  	|   	| [Subramanian Ramamoorthy](https://rad.inf.ed.ac.uk/),  University of Edinburgh                   	|
+| 14:05 	|   	| 14:40  	|   	| [Elahe Aran]( https://www.linkedin.com/in/elahe-arani-630870b2), Wayve                   	|
+| 14:40 	|   	| 15:15  	|   	| [Gerhard Neumann](https://alr.iar.kit.edu/),  Karlsruhe Institute of Technology             	|
+| 15.15     |       | 15.40     |       | Coffee Break + Posters                        |
+| 15:40 	|   	| 16:25  	|   	| Lightning Talks II (3x12mins)           	|
+| 16:25 	|   	| 17.00  	|   	| Invited Speaker - [Jack Parker-Holder](https://jparkerholder.github.io/), Google DeepMind 	|
+
+
+### Lightning Talks I (12 mins each)
+* Xiaofeng Mao et al. DexSkills: Skill Segmentation Using Haptic Data for Learning Autonomous Long-Horizon Robotic Manipulation Tasks
+* Xintong Yanga et al. GAM: General Affordance-based Manipulation for Contact-rich Object Disentangling Tasks
+
+### Lightning Talks II (12 mins each)
+* Michael Mangan. Opteran: reverse engineering insect brains to provide the software mind that delivers intelligent machines
+* Ivan Kapelyukh et al. Foundation Models as Imagination Engines for Robotics
+* Vitalis Vosylius et al. Instant Policy: In-Context Imitation Learning via Graph Diffusion
+
+### Posters
+* Naoki Kiyohara et al. Learning SDE Solutions with Neural Stochastic Flows
+* Nikolaos Tsagkas et al. Click to Grasp: Zero-Shot Precise Manipulation via Visual Diffusion Descriptors
+* Kaiwen Cai et al. Self-Adapting Large Visual-Language Models to Edge Devices across Visual Modalities
+* Andreas Sochopoulos et al. Learning Deep Dynamical Systems using Stable Neural ODEs
+* Miles Hansard. Polycube objects for robotic grasping research
+* Edgar Sucar et al. Simple4D: A Simple Model 4 Dynamic Scene Reconstruction
+* B. K. Dhillon1 et al. Enhancing Accessibility for the Visually Impaired: A Review of Machine Learning Approaches for Vacant Seat Identification in Public Spaces
+* Imene Tarakli et al. Sleep-Inspired Consolidation with Human Feedback Learning
+* Georgios Papagiannis et al. R+X: Retrieval and Execution from Everyday Human Videos
+* Jianhao Jiao et al. LiteVLoc: Map-Lite Visual Localization for Image Goal Navigation
+* Markus Buchholz et al. Motion Control for Tethered Multi-Robot Systems in Marine Environments with Disturbances
+
 
 
 ## To contact the chairs
@@ -43,9 +71,9 @@ organisers: Rudra Poudel (Toshiba Europe Ltd), Dimitrios Kanoulas (University Co
 
 [Edward Johns](https://www.robot-learning.uk/), Imperial College London, [e.johns@imperial.ac.uk](e.johns@imperial.ac.uk), 
 
-## Call for Presentations
+## Overview of Technical Meeting
 
-We invite academic and industry presentations, bringing together researchers interested in all aspects of learning world models and foundational models for robotics, including but not limited to, 
+This meeting will bring together academic and industry presentations, researchers interested in all aspects of learning world models and foundational models for robotics, including but not limited to, 
 * World models, 
 * Robotic foundation models, 
 * Efficient foundation models, 
@@ -56,19 +84,6 @@ We invite academic and industry presentations, bringing together researchers int
 * Vision-and-language for robotics, 
 * etc.
 	
-
-If you are unsure about the suitable of your topic, please contact the chairs.
-
-Presentations will take the form of one of two types: poster, talk. When applying for a presentation, you are welcome to choose any combination of the options. You can apply to give a presentation using the form below.  Note that this will NOT be a hybrid event, therefore we expect **presenters to attend the event in person**.
-
-**The deadline for submitting a presentation is the Sunday 15th September 2024 **
-
-
-<div class="alert mt-3 alert-info" style="text-align:center;">
-<span><strong>Submit interest through : &nbsp;&nbsp;
-<a class="btn btn-warning" role="button" href="https://docs.google.com/forms/d/1cU4F-PvaJR3tox4hRTix9SH9OPPFkBPNZNYaOv6JHx0">Submit Interest here</a></strong></span>
-</div>
-
 ## Meeting Location
 
 The meeting will take place at:
