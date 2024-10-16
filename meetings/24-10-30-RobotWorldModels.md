@@ -15,6 +15,9 @@ organisers: Rudra Poudel (Toshiba Europe Ltd), Dimitrios Kanoulas (University Co
 <a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/events/dw2mpco8?tickets=FrZC">Register Here</a></strong></span>
 </div>
 
+<p style="text-align: center;">
+<a class="btn btn-info" role="button" href="mailto:a.gilbert@surrey.ac.uk">Queries? contact the Meeting's Organiser Andrew Gilbert here</a></p>
+
 ## Programme
 
 | Start 	|   	| End    	|   	| Title                                        	|
@@ -107,7 +110,7 @@ Including lunch and refreshments for the day
 
 
 <p style="text-align: center;">
-<a class="btn btn-info" role="button" href="mailto:a.gilbert@surrey.ac.uk">Queries contact the Meeting's Organiser Andrew Gilbert here</a></p>
+<a class="btn btn-info" role="button" href="mailto:a.gilbert@surrey.ac.uk">Queries? contact the Meeting's Organiser Andrew Gilbert here</a></p>
 
 
 
