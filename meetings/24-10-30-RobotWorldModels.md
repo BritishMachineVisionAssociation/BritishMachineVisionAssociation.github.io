@@ -12,7 +12,7 @@ organisers: Rudra Poudel (Toshiba Europe Ltd), Dimitrios Kanoulas (University Co
 
 <div class="alert mt-3 alert-info" style="text-align:center;">
 <span><strong>Sign up for the event via this link: SOLD OUT! &nbsp;&nbsp;
-<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/events/dw2mpco8?tickets=FrZCJ4cc">Register Here</a></strong></span>
+<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/events/dw2mpco8?tickets=Ytgz">Register Here</a></strong></span>
 </div>
 
 <p style="text-align: center;">
@@ -105,7 +105,7 @@ Including lunch and refreshments for the day
 
 <div class="alert mt-3 alert-info" style="text-align:center;">
 <span><strong>Please register via charitysuite on this link: SOLD OUT! &nbsp;&nbsp;
-<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/events/dw2mpco8?tickets=FrZCJ4cc">Register Here</a></strong></span>
+<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/events/dw2mpco8?tickets=Ytgz">Register Here</a></strong></span>
 </div>
 
 
