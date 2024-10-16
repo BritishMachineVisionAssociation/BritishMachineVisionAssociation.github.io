@@ -40,7 +40,7 @@ organisers: Rudra Poudel (Toshiba Europe Ltd), Dimitrios Kanoulas (University Co
 
 ### Lightning Talks I (12 mins each)
 * Xiaofeng Mao et al. DexSkills: Skill Segmentation Using Haptic Data for Learning Autonomous Long-Horizon Robotic Manipulation Tasks
-* Xintong Yanga et al. GAM: General Affordance-based Manipulation for Contact-rich Object Disentangling Tasks
+* Xintong Yang et al. GAM: General Affordance-based Manipulation for Contact-rich Object Disentangling Tasks
 
 ### Lightning Talks II (12 mins each)
 * Michael Mangan. Opteran: reverse engineering insect brains to provide the software mind that delivers intelligent machines
