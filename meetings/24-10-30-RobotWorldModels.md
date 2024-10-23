@@ -31,7 +31,7 @@ organisers: Rudra Poudel (Toshiba Europe Ltd), Dimitrios Kanoulas (University Co
 | 12:00 	|   	| 12:35  	|   	| [Ingmar Posner](https://ori.ox.ac.uk/labs/a2i/), University of Oxford                            	|
 | 12:35 	|   	| 13:30  	|   	| Lunch + Posters                     	|
 | 13:30 	|   	| 14:05  	|   	| [Subramanian Ramamoorthy](https://rad.inf.ed.ac.uk/),  University of Edinburgh                   	|
-| 14:05 	|   	| 14:40  	|   	| [Elahe Aran]( https://www.linkedin.com/in/elahe-arani-630870b2), Wayve                   	|
+| 14:05 	|   	| 14:40  	|   	| [Elahe Arani]( https://www.linkedin.com/in/elahe-arani-630870b2), Wayve                   	|
 | 14:40 	|   	| 15:15  	|   	| [Gerhard Neumann](https://alr.iar.kit.edu/),  Karlsruhe Institute of Technology             	|
 | 15.15     |       | 15.40     |       | Coffee Break + Posters                        |
 | 15:40 	|   	| 16:25  	|   	| Lightning Talks II (3x12mins)           	|
