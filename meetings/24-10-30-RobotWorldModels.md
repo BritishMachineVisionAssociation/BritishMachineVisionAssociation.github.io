@@ -40,12 +40,12 @@ organisers: Rudra Poudel (Toshiba Europe Ltd), Dimitrios Kanoulas (University Co
 
 ### Lightning Talks I (12 mins each)
 * Xiaofeng Mao et al. DexSkills: Skill Segmentation Using Haptic Data for Learning Autonomous Long-Horizon Robotic Manipulation Tasks
-* Xintong Yang et al. GAM: General Affordance-based Manipulation for Contact-rich Object Disentangling Tasks
+* Vitalis Vosylius et al. Instant Policy: In-Context Imitation Learning via Graph Diffusion
 
 ### Lightning Talks II (12 mins each)
 * Michael Mangan. Opteran: reverse engineering insect brains to provide the software mind that delivers intelligent machines
 * Ivan Kapelyukh et al. Foundation Models as Imagination Engines for Robotics
-* Vitalis Vosylius et al. Instant Policy: In-Context Imitation Learning via Graph Diffusion
+* Xintong Yang et al. GAM: General Affordance-based Manipulation for Contact-rich Object Disentangling Tasks
 
 ### Posters
 * Naoki Kiyohara et al. Learning SDE Solutions with Neural Stochastic Flows
