@@ -1,4 +1,24 @@
 # Theses
+# - title: "Sign Language Understanding using Multimodal Learning"
+#   author: "Liliane Momeni"
+#   institution: "University of Oxford"
+#   date: 2024-01-14
+#   pdf-link: "theses/2024/2024_Liliane_Momeni.pdf"
+- title: "Affect Recognition & Generation in-the-wild"
+  author: "Dimitrios Kollias"
+  institution: "Imperial College London"
+  date: 2020-12-01
+  pdf-link: "theses/2020/2020-Dimitrios-Kollias.pdf"
+- title: "Learning Generic Deep Feature Representations"
+  author: "Jaime Spencer Martin"
+  institution: "University of Surrey"
+  date: 2021-10-01
+  pdf-link: "theses/2021/2021_Jaime_Spencer_Martin.pdf"
+- title: "Unsupervised Learning of 3D Objects in the Wild"
+  author: "Shangzhe Wu"
+  institution: "University of Oxford"
+  date: 2022-09-29
+  pdf-link: "theses/2022/2022_Shangzhe_Wu.pdf"
 - title: "Interpreting the Structure of Single Images by Learning from Examples"
   author: "Osian Haines"
   institution: "University of Bristol"
@@ -340,7 +360,7 @@
   date: 2009-08-01
   pdf-link: "theses/2009/2009-woodford.pdf"
 - title: "Activity Analysis: Finding Explanations for Sets of Events"
-  author: "Dima Aldamen"
+  author: "Dima Damen"
   institution: "University of Leeds"
   date: 2009-09-01
   pdf-link: "theses/2009/2009-aldamen.pdf"
@@ -360,7 +380,7 @@
   date: 2009-11-01
   pdf-link: "theses/2009/2009-daubney.pdf"
 - title: "Machine Learning of Projected 3D Shape"
-  author: "S N Coupe"
+  author: "Simon Coupe"
   institution: "University of Manchester"
   date: 2010-02-01
   pdf-link: "theses/2010/2010-coupe.pdf"
@@ -390,7 +410,7 @@
   date: 2010-07-01
   pdf-link: "theses/2010/2010-lampert.pdf"
 - title: "Automatic 3D Model Acquisition from Uncalibrated Images"
-  author: "Neill Campbell"
+  author: "Neill DF Campbell"
   institution: "University of Cambridge"
   date: 2010-09-01
   pdf-link: "theses/2010/2010-campbell.pdf"
