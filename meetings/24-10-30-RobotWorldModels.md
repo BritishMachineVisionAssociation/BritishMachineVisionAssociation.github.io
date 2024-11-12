@@ -25,7 +25,7 @@ On our BMVA YouTube channel there are recorded talks of the slides and speaker f
 <div class="container">
 	<div class="row"><div class="col-xs-12 col-lg-10 mx-auto">
 		<div class="video-container">
-			<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLW8VWHVjepIvYueL7BiYvpTIHpXW6uQh1 " frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLW8VWHVjepIuN334nO4lspg1QUfp13TCI " frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 		</div>
 	</div></div>
 </div>
