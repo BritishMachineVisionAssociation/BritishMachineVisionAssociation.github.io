@@ -1,11 +1,11 @@
 ---
 layout: meeting
 type: One Day Meeting
-title: "BMVA Symposium on Digital Humans (28th May 2025) "
+title: "BMVA Symposium on  (28th May 2025) "
 index: 1
-date: 2025-05-28
+date: 2025-07-16
 meeting-title: "BMVA Symposium on Digital Humans"
-image: 25-05-28_DigitalHumans.png
+image: BMVAForYoutube.png
 organisers: Jack Saunders (University of Bath),  Avirup Dey (University of Bath), Vinay Namboodiri (University of Bath), Soubhik Sanyal (Meta). 
 ---
 
