@@ -4,20 +4,23 @@ type: One Day Meeting
 title: "BMVA Symposium on  (16th July 2025) "
 index: 1
 date: 2025-07-16
-meeting-title: "BMVA Symposium on "
+meeting-title: "BMVA Symposium on AI Security"
 image: BMVAForYoutube.png
-organisers: Ja. 
+organisers: Chen Feng (University College London)
 ---
 
 <div class="alert mt-3 alert-info" style="text-align:center;">
 <span><strong>Please register to attend on this link: &nbsp;&nbsp;
-<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/events/tz4td20i">Register Here</a></strong></span>
+<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/events/lzx91vmf">Register Here to Attend</a></strong></span>
 </div>
 
 <div class="alert mt-3 alert-info" style="text-align:center;">
 <span><strong>Sign up to present at this meeting via this link: &nbsp;&nbsp;
-<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/forms/fgbdvjbp">Register Here</a></strong></span>
+<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/forms/cy4vsbuf">Register Here to present</a></strong></span>
 </div>
+
+<p style="text-align: center;">
+<a class="btn btn-info" role="button" href="mailto:a.gilbert@surrey.ac.uk">Queries? contact the Meeting's Organiser Andrew Gilbert here</a></p>
 
 ## Invited Speakers
 
@@ -41,11 +44,11 @@ presenters to join us at the British Computer Society on the day.
 
 **Presentations can be either published work, or ongoing research**. 
 
-**The deadline for submitting a presentation is the 28th March**
+**The deadline for submitting a presentation is the 14th May**
 
 <div class="alert mt-3 alert-info" style="text-align:center;">
 <span><strong>Sign up to present at this meeting via this link: &nbsp;&nbsp;
-<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/forms/fgbdvjbp">Register Here</a></strong></span>
+<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/forms/cy4vsbuf">Register Here</a></strong></span>
 </div>
 
 ## Meeting Location
@@ -66,7 +69,7 @@ Including lunch and refreshments for the day
 
 <div class="alert mt-3 alert-info" style="text-align:center;">
 <span><strong>Please register via charitysuite on this link: &nbsp;&nbsp;
-<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/events/tz4td20i">Register Here</a></strong></span>
+<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/events/lzx91vmf">Register Here</a></strong></span>
 </div>
 
 
