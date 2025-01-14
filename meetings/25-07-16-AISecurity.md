@@ -5,7 +5,7 @@ title: "BMVA Symposium on  (16th July 2025) "
 index: 1
 date: 2025-07-16
 meeting-title: "BMVA Symposium on AI Security"
-image: BMVAForYoutube.png
+image: 25-07-16_AISecurity.jpeg
 organisers: Chen Feng (University College London)
 ---
 
@@ -31,6 +31,8 @@ organisers: Chen Feng (University College London)
 ## Call for Presentations
 
 Coming Soon
+
+expected to cover topics such as as the fairness, hallucination, bias concerns of Large-scale models, as well as the robustness and certification related topics in classical supervised machine learning.
 
 Not sure if your topic fits? Please contact the chairs for guidance.
 
