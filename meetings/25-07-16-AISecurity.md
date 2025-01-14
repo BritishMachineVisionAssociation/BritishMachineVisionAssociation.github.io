@@ -5,7 +5,7 @@ title: "BMVA Symposium on AI Security (16th July 2025) "
 index: 1
 date: 2025-07-16
 meeting-title: "BMVA Symposium on AI Security"
-image: 25-07-16_AISecurity.jpeg
+image: 25-07-16_AISecurity.jpg
 organisers: Chen Feng (University College London)
 ---
 
