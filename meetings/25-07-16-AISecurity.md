@@ -1,7 +1,7 @@
 ---
 layout: meeting
 type: One Day Meeting
-title: "BMVA Symposium on  (16th July 2025) "
+title: "BMVA Symposium on AI Security (16th July 2025) "
 index: 1
 date: 2025-07-16
 meeting-title: "BMVA Symposium on AI Security"
