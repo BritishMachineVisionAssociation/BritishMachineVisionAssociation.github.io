@@ -24,7 +24,7 @@ organisers: Jack Saunders (University of Bath),  Avirup Dey (University of Bath)
 *    [Tadas Baltrušaitis](https://www.microsoft.com/en-us/research/people/tabaltru/?msockid=0f662a7197af6620239a3e4e96ba674e), Principal Scientist, Microsoft Mixed Reality and AI lab
 *    [Abhijeet Ghosh](https://www.doc.ic.ac.uk/~ghosh/), Professor of Graphics & Imaging, Imperial College London.
 *    [Thu Nguyen-Phuoc](https://www.monkeyoverflow.com/), Research Scientist at Reality Lab Research, Meta.
-
+*    [Dimitris Tzionas](https://dtzionas.com/), Assistant Professor for 3D Computer Vision at University of Amsterdam.
 
 ## Call for Presentations
 
