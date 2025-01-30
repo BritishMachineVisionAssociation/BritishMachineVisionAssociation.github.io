@@ -11,7 +11,7 @@ The 28th BMVA Computer Vision Summer School (CVSS 2024) will take place between 
 The event will consist of an intensive week of lectures and lab sessions covering a wide range of topics in Computer Vision. Lecturers are researchers in the field from some of the most active research groups in the UK and abroad. The summer school also fulfills an important social function in that it gives attendees a chance to meet other vision students and researchers from around the UK and beyond. 
 
 Please see the [Computer Vision Summer School 2025 Website](https://cvss.bmva.org/) for more details.
-If you have any queries while we are updating the website, please reach out to us at bmva-cvss2025@abdn.ac.uk.
+If you have any queries while we are updating the website, please reach out to us at [bmva-cvss2025@abdn.ac.uk](mailto:bmva-cvss2025@abdn.ac.uk).
 
 <p style="pb-2">
 <a href="https://cvss.bmva.org/"><img src="{{ site.baseurl }}/assets/images/events/2025-aberdeen-summer-school.png" class="img-fluid rounded mx-auto d-block" style="max-width: 600px;" alt="CVSS 2024 Logo"></a>
