@@ -13,6 +13,9 @@ The event will consist of an intensive week of lectures and lab sessions coverin
 Please see the [Computer Vision Summer School 2025 Website](https://cvss.bmva.org/) for more details.
 If you have any queries while we are updating the website, please reach out to us at bmva-cvss2025@abdn.ac.uk.
 
+<p style="pb-2">
+<a href="https://cvss.bmva.org/"><img src="{{ site.baseurl }}/assets/images/events/2025-aberdeen-summer-school.png" class="img-fluid rounded mx-auto d-block" style="max-width: 600px;" alt="CVSS 2024 Logo"></a>
+</p>
 <!---
 ### Call for Proposals to Host the 2024 Summer School!
 
