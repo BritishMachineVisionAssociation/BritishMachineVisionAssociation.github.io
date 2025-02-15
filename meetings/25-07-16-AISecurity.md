@@ -6,7 +6,7 @@ index: 1
 date: 2025-07-16
 meeting-title: "BMVA Symposium on AI Security"
 image: 25-07-16_AISecurity.jpg
-organisers: Chen Feng (University College London)
+organisers: Dr Chen Feng (University College London), Dr Faxian Cao (University of Strathclyde), Dr Jingjing Liu (University of Bristol), Dr Niki Foteinopoulou (University of Luxembourg) and Dr Zhonglin Sun (Queen Mary University of London).
 ---
 
 <div class="alert mt-3 alert-info" style="text-align:center;">

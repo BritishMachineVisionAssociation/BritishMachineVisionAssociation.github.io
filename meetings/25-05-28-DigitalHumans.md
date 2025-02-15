@@ -25,6 +25,7 @@ organisers: Jack Saunders (University of Bath),  Avirup Dey (University of Bath)
 *    [Abhijeet Ghosh](https://www.doc.ic.ac.uk/~ghosh/), Professor of Graphics & Imaging, Imperial College London.
 *    [Thu Nguyen-Phuoc](https://www.monkeyoverflow.com/), Research Scientist at Reality Lab Research, Meta.
 *    [Gerard Pons-Moll](https://virtualhumans.mpi-inf.mpg.de/people/pons-moll.html), Professor at University of Tübingen.
+*    [Dimitris Tzionas](https://dtzionas.com/), Assistant Professor for 3D Computer Vision at University of Amsterdam.
 
 ## Call for Presentations
 
