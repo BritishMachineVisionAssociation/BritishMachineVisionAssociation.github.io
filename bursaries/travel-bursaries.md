@@ -9,8 +9,8 @@ In order to encourage UK postgraduate students to present work at
 international conferences, the BMVA issues bursaries to help cover the travel
 and conference costs. A number of such bursaries, of up to £1000 each, are
 issued annually. In return, the recipient is expected to write a report on the
-conference for inclusion in [BMVA News]({{ site.baseurl }}/information/bmva-news/), or equivalent work
-for the BMVA website as agreed with the bursaries officer, and to present
+conference for inclusion on the BMVA website, or equivalent work
+for the BMVA as agreed with the bursaries officer, and to present
 their paper at a BMVA-organised meeting in the autumn.
 
 To be eligible, you must be:
@@ -35,11 +35,11 @@ Students receiving bursaries are expected to acknowledge their receipt of a
 BMVA bursary in their oral presentation or poster.
 
 Successful applicants will be sent the agreed funds upon receipt by the
-secretary of:
+[bursaries officer](mailto:bursaries@bmva.org) of:
 
 + proof that the conference was attended;
 + original receipts;
-+ a review for [BMVA News]({{ site.baseurl }}/information/bmva-news/) or alternative contribution, to be decided in
++ a conference review or alternative contribution, to be decided in
   discussion with the bursaries officer;
 + a completed
   [claim form](http://breckon.eu/toby/bmva/expenses-claim.pdf). Fill out the
