@@ -177,7 +177,7 @@ Statistics and the proceedings from previous conferences can be found in the tab
 </tr>
 <tr class="even">
 <td align="left">2014</td>
-<td align="left"><a href="http://www.city.ac.uk/medical-image-understanding-and-analysis-2014">City University, London</a></td>
+<td align="left"><a href="http://www.citystgeorges.ac.uk/medical-image-understanding-and-analysis-2014">City University, London</a></td>
 <td align="right">58</td>
 <td align="right">45 (77%)</td>
 <td align="right">21</td>
