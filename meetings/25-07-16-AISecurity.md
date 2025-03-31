@@ -6,7 +6,7 @@ index: 1
 date: 2025-07-16
 meeting-title: "BMVA Symposium on AI Security"
 image: 25-07-16_AISecurity.jpg
-organisers: Dr Chen Feng (University College London), Dr Jingjing Liu (University of Bristol), Dr Niki Foteinopoulou (University of Luxembourg) and Dr Zhonglin Sun (Queen Mary University of London).
+organisers: Dr Chen Feng (University College London), Dr Jingjing Liu (University of Bristol), Dr Niki Foteinopoulou (Cambridge Research Laboratory, Toshiba Europe) and Dr Zhonglin Sun (Southwest Jiaotong University, China).
 ---
 
 <div class="alert mt-3 alert-info" style="text-align:center;">
@@ -24,15 +24,27 @@ organisers: Dr Chen Feng (University College London), Dr Jingjing Liu (Universit
 
 ## Invited Speakers
 
-* Coming Soon
-
-
+* [Prof Ioannis Patras](https://www.eecs.qmul.ac.uk/~ioannisp), Queen Mary University of London
+* [Prof. Jun Liu](https://www.lancaster.ac.uk/scc/about-us/people/jun-liu2), University of Lancaster 
+* [Dr. Jiankang Deng](https://jiankangdeng.github.io), Huawei London
+* [Prof. Alessio Lomuscio](https://www.doc.ic.ac.uk/~alessio), Imperial College London
 
 ## Call for Presentations
 
-Coming Soon
+We are thrilled to invite researchers, engineers, and practitioners from academia and industry to a one-day symposium dedicated to the fast-evolving field of AI Security. This event will delve into the critical challenges and latest advancements in ensuring the safety, robustness, and trustworthiness of AI systems. We encourage submissions of your work—ranging from early-stage research and ongoing projects to previously published results—that align with the symposium’s theme.
 
-expected to cover topics such as as the fairness, hallucination, bias concerns of Large-scale models, as well as the robustness and certification related topics in classical supervised machine learning.
+Topics of interest include, but are not limited to:
+* Fairness, bias, and ethical considerations in large-scale AI models
+* Hallucination and interpretability challenges in generative and predictive systems
+* Robustness of machine learning models against adversarial attacks
+* Certification and verification methods for AI systems
+* Security and privacy implications of large-scale models
+* Trustworthy AI in classical supervised machine learning
+* Weakly supervised learning approaches, including self-supervised, semi-supervised, and noisy supervision techniques
+* Adversarial examples and defenses in deep learning
+* Explainability and accountability in AI decision-making
+* Secure deployment of models in real-world applications
+* Statistical and theoretical underpinnings of AI robustness
 
 Not sure if your topic fits? Please contact the chairs for guidance.
 
