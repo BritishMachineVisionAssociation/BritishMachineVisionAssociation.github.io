@@ -26,8 +26,8 @@ organisers: Dr Chen Feng (University College London), Dr Jingjing Liu (Universit
 
 * [Prof Ioannis Patras](https://www.eecs.qmul.ac.uk/~ioannisp), Queen Mary University of London
 * [Prof. Jun Liu](https://www.lancaster.ac.uk/scc/about-us/people/jun-liu2), University of Lancaster 
-* [Dr. Jiankang Deng](https://jiankangdeng.github.io), Huawei London
-* [Prof. Alessio Lomuscio](https://www.doc.ic.ac.uk/~alessio), Imperial College London
+* [Dr. Jiankang Deng](https://jiankangdeng.github.io),  Imperial College London
+* [Prof. Alessio Lomuscio](https://www.doc.ic.ac.uk/~alessio), Safe Intelligence, Imperial College London
 
 ## Call for Presentations
 
