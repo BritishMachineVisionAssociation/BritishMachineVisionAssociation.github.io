@@ -1,9 +1,9 @@
 # Theses
-# - title: "Sign Language Understanding using Multimodal Learning"
-#   author: "Liliane Momeni"
-#   institution: "University of Oxford"
-#   date: 2024-01-14
-#   pdf-link: "theses/2024/2024_Liliane_Momeni.pdf"
+- title: "Sign Language Understanding using Multimodal Learning"
+  author: "Liliane Momeni"
+  institution: "University of Oxford"
+  date: 2024-01-14
+  pdf-link: "theses/2024/2024_Liliane_Momeni.pdf"
 - title: "Affect Recognition & Generation in-the-wild"
   author: "Dimitrios Kollias"
   institution: "Imperial College London"
