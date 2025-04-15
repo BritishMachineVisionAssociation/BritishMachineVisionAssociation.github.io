@@ -65,14 +65,20 @@ We’re looking to bring together researchers and engineers across academia and 
 
 #### Oral 1: Motion, Perception and Data:
 **Muscle-Aware Motion Prediction with Digital Humans,** Yu-Hui Huang
+
 **EIFER: Electromyography-Informed Facial Expression Reconstruction,** Tim Bochner 
+
 **AI Hyperrealism: Why AI Faces Are Perceived as More Real Than Human Ones,** Eva Krumhuber
+
 **Infinite-Realities Datasets,** Henry Pearce
 
 #### Oral 2: Modelling:
 **3D-Consistent Generative Head Model Using Gaussian Splatting,** Neeraj Veerla
+
 **ARC-Flow: Articulated, Resolution-Agnostic, Correspondence-Free Matching & Interpolation of 3D Shapes,** Adam Hartshorne
+
 **HandSplat: High-Fidelity and Real-Time Animatable 3D Hand with Gaussian Splatting,** Yilan Dong
+
 **4D Modelling from Monocular Video,** Armin Mustafa
 
 
