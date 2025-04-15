@@ -47,12 +47,12 @@ We’re looking to bring together researchers and engineers across academia and 
 
 | Start 	|   	| End    	|   	| Title                                        	|
 |-------	|---	|--------	|---	|----------------------------------------------	|
-| 09:30 	|   	| 09:45  	|   	| Registration/Poster Set-up + Coffee                  	|
+| 09:30 	|   	| 09:45  	|   	| Registration/Poster Set-up + Coffee           |
 | 09:45 	|   	| 09:50  	|   	| Opening Remarks                              	|
-| 09:50 	|   	| 10:35  	|   	| Invited Keynote Speaker - **Tadas Baltrusaitis**              	|
-| 10:35 	|   	| 11:15  	|   	| Accepted Talks Pt. 1 - **Motion and Perception**           	|
+| 09:50 	|   	| 10:35  	|   	| Invited Keynote Speaker - **Tadas Baltrusaitis**  |
+| 10:35 	|   	| 11:15  	|   	| Accepted Talks Pt. 1 - **Motion and Perception**  |
 | 11:15 	|   	| 11:45  	|   	| Coffee Break + Posters                       	|
-| 11:45 	|   	| 12:25  	|   	| Accepted Talks Pt. 1 - **Modelling**           	|              	 	
+| 11:45 	|   	| 12:25  	|   	| Accepted Talks Pt. 1 - **Modelling**          |              	 	
 | 12:25 	|   	| 13:25  	|   	| Lunch + Posters      	|
 | 13:25 	|   	| 14:10  	|   	| Invited Keynote Speaker - **Thu Nguyen-Phuoc**  	|     
 | 14:10 	|   	| 14:55  	|   	| Invited Keynote Speaker - **Dimitris Tzionas**  	| 
@@ -64,22 +64,22 @@ We’re looking to bring together researchers and engineers across academia and 
 ### Accepted Talks
 
 #### Oral 1: Motion, Perception and Data:
-**Muscle-Aware Motion Prediction with Digital Humans,** Yu-Hui Huang
+Muscle-Aware Motion Prediction with Digital Humans, **Yu-Hui Huang**
 
-**EIFER: Electromyography-Informed Facial Expression Reconstruction,** Tim Bochner 
+EIFER: Electromyography-Informed Facial Expression Reconstruction, **Tim Bochner** 
 
-**AI Hyperrealism: Why AI Faces Are Perceived as More Real Than Human Ones,** Eva Krumhuber
+AI Hyperrealism: Why AI Faces Are Perceived as More Real Than Human Ones, **Eva Krumhuber**
 
-**Infinite-Realities Datasets,** Henry Pearce
+Infinite-Realities Datasets, **Henry Pearce**
 
 #### Oral 2: Modelling:
-**3D-Consistent Generative Head Model Using Gaussian Splatting,** Neeraj Veerla
+3D-Consistent Generative Head Model Using Gaussian Splatting, **Neeraj Veerla**
 
-**ARC-Flow: Articulated, Resolution-Agnostic, Correspondence-Free Matching & Interpolation of 3D Shapes,** Adam Hartshorne
+ARC-Flow: Articulated, Resolution-Agnostic, Correspondence-Free Matching & Interpolation of 3D Shapes, **Adam Hartshorne**
 
-**HandSplat: High-Fidelity and Real-Time Animatable 3D Hand with Gaussian Splatting,** Yilan Dong
+HandSplat: High-Fidelity and Real-Time Animatable 3D Hand with Gaussian Splatting, **Yilan Dong**
 
-**4D Modelling from Monocular Video,** Armin Mustafa
+4D Modelling from Monocular Video, **Armin Mustafa**
 
 
 ## Meeting Location
