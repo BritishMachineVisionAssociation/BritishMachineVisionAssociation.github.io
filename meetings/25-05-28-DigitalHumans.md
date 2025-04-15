@@ -43,7 +43,7 @@ We’re looking to bring together researchers and engineers across academia and 
 *   Talking Head Generation
 *   Virtual Try-on
 
-
+## Programme
 
 | Start 	|   	| End    	|   	| Title                                        	|
 |-------	|---	|--------	|---	|----------------------------------------------	|
