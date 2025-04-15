@@ -1,22 +1,22 @@
 ---
 layout: meeting
 type: One Day Meeting
-title: "BMVA Symposium on Image Quality (4th Feburary 2026) "
+title: "BMVA Symposium on Image Quality (5th Novemberary 2025) "
 index: 1
-date: 2026-02-04
-meeting-title: "BMVA Symposium on Image Quality"
+date: 2025-11-05
+meeting-title: "BMVA Symposium on Multimodal Large Models: Bridging Vision, Language, and Beyond"
 image: placeholder.png
-organisers: Alex Mackin (Prime Video),.
+organisers: Jian Hu (Queen Mary, University of London), Prof Jun Liu (Lancaster University), Dr Ziquan Liu (Queen Mary, University of London) , Dr Wei Zhou (Cardiff University)
 ---
 
 <div class="alert mt-3 alert-info" style="text-align:center;">
 <span><strong>Please register to attend on this link: &nbsp;&nbsp;
-<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/events/c4jvohoi">Register Here to Attend</a></strong></span>
+<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/events/7imrxxfk">Register Here to Attend</a></strong></span>
 </div>
 
 <div class="alert mt-3 alert-info" style="text-align:center;">
 <span><strong>Sign up to present at this meeting via this link: &nbsp;&nbsp;
-<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/forms/aduy4xg3">Register Here to present</a></strong></span>
+<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/forms/dowa1eiq">Register Here to present</a></strong></span>
 </div>
 
 <p style="text-align: center;">
@@ -35,11 +35,11 @@ presenters to join us at the British Computer Society on the day.
 
 **Presentations can be either published work, or ongoing research**. 
 
-**The deadline for submitting a presentation is the 27th November**
+**The deadline for submitting a presentation is the 17th September 2025**
 
 <div class="alert mt-3 alert-info" style="text-align:center;">
 <span><strong>Sign up to present at this meeting via this link: &nbsp;&nbsp;
-<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/forms/aduy4xg3">Register Here</a></strong></span>
+<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/forms/dowa1eiq">Register Here</a></strong></span>
 </div>
 
 ## Meeting Location
@@ -60,7 +60,7 @@ Including lunch and refreshments for the day
 
 <div class="alert mt-3 alert-info" style="text-align:center;">
 <span><strong>Please register via charitysuite on this link: &nbsp;&nbsp;
-<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/events/c4jvohoi">Register Here</a></strong></span>
+<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/events/7imrxxfk">Register Here</a></strong></span>
 </div>
 
 
