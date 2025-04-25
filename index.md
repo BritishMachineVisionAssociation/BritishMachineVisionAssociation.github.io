@@ -18,18 +18,15 @@ title: Home
 <p style="text-align: center;">
 <a class="btn btn-info" role="button" href="https://forms.gle/8b2WJWLPYsMHrjEe8">BMVA/BMVC Volunteering</a></p>
 
-**BMVC 2025**: We are pleased to announce that BMVC 2025 will be held in Sheffield! Further details to follow soon!
-
-**BMVC 2024**: We are pleased to announce that BMVC will be held from 25th - 28th November 2024 in Glasgow. The timeline for the conference is [now available](https://bmvc2024.org/dates/) and the paper submission deadline will be **23:59 GMT Friday, 10 May 2024**. 
-Please note, **there will be no extension on the paper submission deadline.**
+**BMVC 2025**: We are pleased to announce that BMVC will be held from 24th - 27th November 2025 in Sheffield. The timeline for the conference is [now available](https://bmvc2025.bmva.org/dates/).**
 
 <p style="text-align: center;">
-<a class="btn btn-info" role="button" href="https://bmvc2024.org/">BMVC 2024 Website</a></p>
+<a class="btn btn-info" role="button" href="https://bmvc2025.bmva.org">BMVC 2025 Website</a></p>
 
-**MIUA 2024**: We are pleased to announce that MIUA will be held from 24th - 26th July 2024 in Manchester. The timeline for the conference is [now available](https://miua2024.github.io/) and the paper submission deadline will be **23:59 GMT, 31st March 2024**. 
+**MIUA 2025**: We are pleased to announce that MIUA will be held from 15th - 17th July 2025 in Leeds. The timeline for the conference is [now available](https://conferences.leeds.ac.uk/miua/). 
 
 <p style="text-align: center;">
-<a class="btn btn-info" role="button" href="https://miua2024.github.io/">MIUA 2024 Website</a></p>
+<a class="btn btn-info" role="button" href="https://conferences.leeds.ac.uk/miua/">MIUA 2025 Website</a></p>
 
 **Sullivan Thesis Prize Nominations**: We are pleased to announce that we are now accepting nominations for the Sullivan Thesis Prize again. Please see the [Sullivan thesis prize page]({{ site.baseurl }}/bursaries/sullivan-prize) for further details.
 

@@ -2,6 +2,24 @@
 
 - type: Summer School
   title: BMVA Summer School
+  date: 2025-07-07
+  image: 07-08-bmva-summer-school.png
+  link: https://cvss.bmva.org
+
+- type: BMVC Conference
+  title: BMVC 2025 in Sheffield
+  date: 2025-11-24
+  image: bmvc-2023-logo.png
+  link: https://bmvc2025.bmva.org
+
+- type: MIUA Conference
+  title: MIUA 2025 in Leeds
+  date: 2025-07-15
+  image: miua2024.png
+  link: https://conferences.leeds.ac.uk/miua/
+
+- type: Summer School
+  title: BMVA Summer School
   date: 2024-07-15
   image: 07-08-bmva-summer-school.png
   link: https://cvss.bmva.org

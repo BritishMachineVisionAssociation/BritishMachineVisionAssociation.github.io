@@ -10,19 +10,18 @@ permalink: /bmvc
 
 <div class="row justify-content-md-center pb-2 ml-3 mr-3">
     <div class="col-12 col-md-8 col-lg-6">
-        <a href="https://www.bmvc2024.org/">
+        <a href="https://bmvc2025.bmva.org/">
             <picture>
-                <img src="{{ site.baseurl }}/assets/images/events/bmvc-2024-logo-small.png" class="img-fluid rounded mx-auto d-block"  alt="BMVC 2024 Logo">
+                <img src="{{ site.baseurl }}/assets/images/events/bmvc-2025-logo-small.png" class="img-fluid rounded mx-auto d-block"  alt="BMVC 2025 Logo">
             </picture>
         </a>
     </div>
 </div>
 
-**BMVC 2024**: We are pleased to announce that BMVC will be held from 25th - 28th November 2024 in Glasgow. The timeline for the conference is [now available](https://bmvc2024.org/dates/) and the paper submission deadline will be **23:59 GMT Friday, 10 May 2024**. 
-Please note, **there will be no extension on the paper submission deadline.**
+**BMVC 2025**: We are pleased to announce that BMVC will be held from 24th - 27th November 2025 in Sheffield. The timeline for the conference is [now available](https://bmvc2025.bmva.org/dates/).**
 
 <p style="text-align: center;">
-<a class="btn btn-info" role="button" href="https://bmvc2024.org/">BMVC 2024 Website</a></p>
+<a class="btn btn-info" role="button" href="https://bmvc2025.bmva.org/">BMVC 2025 Website</a></p>
 
 ### Call for Volunteers for hosting and organsing BMVC!
 
