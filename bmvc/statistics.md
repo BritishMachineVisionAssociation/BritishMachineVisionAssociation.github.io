@@ -46,6 +46,150 @@ permalink: /bmvc/statistics/
 </tr>
 </thead>
 <tbody>
+
+<!-- <tr class="odd">
+<td align="right">2025</td>
+<td align="left">Sheffield</td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+</tr> -->
+<tr class="even">
+<td align="right">2024</td>
+<td align="left">Glasgow</td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+</tr>
+<tr class="odd">
+<td align="right">2023</td>
+<td align="left">Aberdeen</td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+</tr>
+<tr class="even">
+<td align="right">2022</td>
+<td align="left">London (Oval)</td>
+Submissions: 967
+Valid Submissions: 770 (discarding the desk rejected ones)
+Accepted: 365
+Poster: 300
+Spotlight: 30
+Oral: 35
+<td align="right">967</td>
+<td align="right">365</td>
+<td align="right">300</td>
+<td align="right">35 (65)<sup></sup></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right">38%</td>
+<td align="right">4% (7%)</td>
+</tr>
+<tr class="odd">
+<td align="right">2021</td>
+<td align="left">Online</td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+</tr>
+<tr class="even">
+<td align="right">2020</td>
+<td align="left">Online</td>
+<td align="right">669</td>
+<td align="right">196</td>
+<td align="right">34</td>
+<td align="right">162</td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right">29%</td>
+<td align="right">5%</td>
+</tr>
+<tr class="odd">
+<td align="right">2019</td>
+<td align="left">Cardiff</td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+</tr>
+<tr class="even">
+<td align="right">2018</td>
+<td align="left">Newcastle</td>
+<td align="right">862</td>
+<td align="right">255</td>
+<td align="right">37</td>
+<td align="right">218</td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right">600</td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right">30%</td>
+<td align="right">4%</td>
+</tr>
+
 <tr class="odd">
 <td align="right">2017</td>
 <td align="left">Imperial, London</td>
@@ -599,6 +743,7 @@ permalink: /bmvc/statistics/
 <sup>†</sup> Papers with any non-UK author<br/>
 Note that the above two may sum to more than 100%.  "~" entries are computed as 100-the other.<br/>
 <sup>!</sup> Non-residential
+<sup>!</sup> Including Spotlights
 
 ## BMVC Invited Speakers and Tutorials
 
