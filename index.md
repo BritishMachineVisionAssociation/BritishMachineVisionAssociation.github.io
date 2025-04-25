@@ -18,7 +18,7 @@ title: Home
 <p style="text-align: center;">
 <a class="btn btn-info" role="button" href="https://forms.gle/8b2WJWLPYsMHrjEe8">BMVA/BMVC Volunteering</a></p>
 
-**BMVC 2025**: We are pleased to announce that BMVC will be held from 24th - 27th November 2025 in Sheffield. The timeline for the conference is [now available](https://bmvc2025.bmva.org/dates/).**
+**BMVC 2025**: We are pleased to announce that BMVC will be held from 24th - 27th November 2025 in Sheffield. The timeline for the conference is [now available](https://bmvc2025.bmva.org/dates/).
 
 <p style="text-align: center;">
 <a class="btn btn-info" role="button" href="https://bmvc2025.bmva.org">BMVC 2025 Website</a></p>
