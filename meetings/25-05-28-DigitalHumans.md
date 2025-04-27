@@ -66,7 +66,7 @@ We’re looking to bring together researchers and engineers across academia and 
 #### Oral 1: Motion, Perception and Data:
 Muscle-Aware Motion Prediction with Digital Humans, **Yu-Hui Huang**
 
-EIFER: Electromyography-Informed Facial Expression Reconstruction, **Tim Bochner** 
+EIFER: Electromyography-Informed Facial Expression Reconstruction, **Tim Büchner** 
 
 AI Hyperrealism: Why AI Faces Are Perceived as More Real Than Human Ones, **Eva Krumhuber**
 
