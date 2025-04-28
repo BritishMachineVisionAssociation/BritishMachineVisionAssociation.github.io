@@ -18,4 +18,5 @@ Over the years he has also dedicated much of his time to service to the research
 Throughout his career, Rich has promoted and furthered UK vision research, both nationally and internationally, and long may he continue so to do. Our BMVA Distinguished Fellow for 2021 is Richard Bowden!
 
 Neill Campbell (BMVA Chair)
+
 Roy Davies (DF Committee Chair)
