@@ -20,4 +20,5 @@ Again we are late to the party, Professor Davison was elected a Fellow of the Ro
 We are privileged to have him here this evening and I won’t keep you from hearing from him any longer; I give you the 2023 BMVA Distinguished Fellow, Andrew Davison!
 
 Neill Campbell (BMVA Chair)
+
 Majid Mirmehdi (DF Committee Chair)
