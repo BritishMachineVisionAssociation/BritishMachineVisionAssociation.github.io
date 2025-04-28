@@ -23,4 +23,5 @@ In 2019 she was awarded the RS Gabor Medal, “distinction of interdisciplinary 
 We are very grateful that Professor Noble is able to receive this award in person and we all look forward to hearing from her; I give you the 2022 BMVA Distinguished Fellow, Alison Noble!
 
 Neill Campbell (BMVA Chair)
+
 Majid Mirmehdi (DF Committee Chair)
