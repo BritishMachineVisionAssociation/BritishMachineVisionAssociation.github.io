@@ -36,6 +36,8 @@ the British machine vision community, both nationally and internationally.
 + [2019: Philip Torr]({{ site.baseurl }}{% link fellowship/2019-torr.md %})
 + [2020: Emanuele Trucco]({{ site.baseurl }}{% link fellowship/2020-trucco.md %})
 + [2021: Richard Bowden]({{ site.baseurl }}{% link fellowship/2021-bowden.md %})
++ [2022: Alison Noble]({{ site.baseurl }}{% link fellowship/2022-noble.md %})
++ [2023: Andrew Davison]({{ site.baseurl }}{% link fellowship/2023-davison.md %})
 
 ### Nominations
 
