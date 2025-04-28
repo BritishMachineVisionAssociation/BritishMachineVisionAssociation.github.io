@@ -104,7 +104,7 @@ permalink: /bmvc/statistics/
 <td align="right">967</td>
 <td align="right">365</td>
 <td align="right">300</td>
-<td align="right">35 (65)<sup></sup></td>
+<td align="right">35 (65)<sup>△</sup></td>
 <td align="right"></td>
 <td align="right"></td>
 <td align="right"></td>
@@ -113,7 +113,7 @@ permalink: /bmvc/statistics/
 <td align="right"></td>
 <td align="right"></td>
 <td align="right">38%</td>
-<td align="right">4% (7%)</td>
+<td align="right">4% (7%)<sup>△</sup></td>
 </tr>
 <tr class="odd">
 <td align="right">2021</td>
@@ -736,8 +736,8 @@ permalink: /bmvc/statistics/
 <sup>+</sup> Papers with any UK author<br/>
 <sup>†</sup> Papers with any non-UK author<br/>
 Note that the above two may sum to more than 100%.  "~" entries are computed as 100-the other.<br/>
-<sup>!</sup> Non-residential
-<sup>!</sup> Including Spotlights
+<sup>!</sup> Non-residential<br/>
+<sup>△</sup> Including Spotlights
 
 ## BMVC Invited Speakers and Tutorials
 
