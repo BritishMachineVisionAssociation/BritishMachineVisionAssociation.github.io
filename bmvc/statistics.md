@@ -175,9 +175,9 @@ permalink: /bmvc/statistics/
 <td align="right">218</td>
 <td align="right"></td>
 <td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
 <td align="right">600</td>
+<td align="right"></td>
+<td align="right"></td>
 <td align="right"></td>
 <td align="right"></td>
 <td align="right">30%</td>
