@@ -17,25 +17,33 @@ The current ExCo is as follows:
 
 | Office | Person |
 |:-------|:-------|
-| Chairman | Prof Neill Campbell (E19) |
-| Treasurer and Company Secretary&nbsp;&nbsp;&nbsp;| Prof Toby Breckon (E18) |
-| Membership secretary | Dr Helen Cooper |
-| ExCo Meetings secretary | Dr Helen Cooper |
-| IAPR representatives | Prof Majid Mirmehdi (E19) |
-| | Prof Robert Fisher (co-opt) |
-| Meetings coordinator | Dr Andrew Gilbert (E18) |
-| Newsletter editor | Prof Roy Davies (E19) |
-| Social media | |
-| Website | Prof Neill Campbell (E19) |
-| Industrial liaison | Dr Stephen Pollard (co-opt) |
-| Bursaries |  |
-| Thesis archive | Dr Adrian Clark |
-| BMVC 2022 | Dr Guang Yang (co-opt), <br>Dr Constantino-Carlos Reyes-Aldasoro (co-opt) |
-| BMVC 2023 |  |
-| MIUA conference coordinator| Dr Xianghua Xie (E18) |
-| Summer School | Dr Tryphon Lambrou, <br>Dr Michal Mickiewicz (co-opt) |
-| Other members | Prof Marina Bloj (E18) |
-| Ex-officio members | Dr Andrew Fitzgibbon (co-opt) |
+| Chairman | Prof Neill Campbell |
+| Treasurer and Company Secretary | Prof Toby Breckon |
+| ExCo Meetings & Membership | Dr Helen Cooper |
+| Meetings coordinator | Dr Andrew Gilbert |
+| Industrial liaison | Dr Oscar Mendez Maldonado |
+|                    | Dr Yulia Hicks |
+| Bursaries Chair | Dr Michal Mackiewicz |
+| Sullivan Thesis Chair | Dr Alex Mackin |
+|                       | Dr Xianghua Xie  |
+| Distinguished Fellow Chair |  Prof Majid Mirmehdi |
+| Website | Prof Neill Campbell|
+| Thesis archive |  |
+| Social media | Dr Guang Yang |
+| Newsletter editor |  |
+| BMVA Mailing List | Prof. Richard Bowden| 
+| BMVC 2024 | Dr Gerado Aragon Camarasa |
+|           | Dr Edmond Ho  |
+| BMVC 2025 | Dr Steve Maddock |
+|           | Prof. Jungong Han |
+| MIUA conference coordinator | Dr Tryphon Lambrou |
+| Summer School | Dr Tryphon Lambrou |
+|               | Dr Carlos Moreno-Garcia |
+|               | Dr Amir Atapour Abarghouei |
+|               | Dr Azade Farshad |
+| IAPR representatives | Prof Majid Mirmehdi |
+|                     | Prof Robert Fisher |
+| Ex-officio members | Dr Andrew Fitzgibbon|
 
 <br />
 
