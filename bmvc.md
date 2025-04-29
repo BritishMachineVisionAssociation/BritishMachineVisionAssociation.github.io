@@ -381,7 +381,8 @@ The online proceedings for past conferences are available:
 <ul>
 <li><a href="https://www.bmvc2023.org/">BMVC 2023</a>, Aberdeen</li>
 <li><a href="https://www.bmvc2022.org/">BMVC 2022</a>, London</li>  
-<li><a href="https://www.bmvc2021-virtualconference.com/">BMVC 2021</a>, (Virtual)</li>  
+<!--<li><a href="https://www.bmvc2021-virtualconference.com/">BMVC 2021</a>, (Virtual)</li>  -->
+<li><a href="{{ site.archive_url }}/bmvc/2021/">BMVC 2021</a>, (Virtual)</li>
 <!-- <li><a href="https://www.bmvc2020-conference.com/">BMVC 2020</a>, (Virtual)</li>    -->
 <li><a href="{{ site.archive_url }}/bmvc/2020/">BMVC 2020</a>, (Virtual)</li>
 <li><a href="https://bmvc2019.org/">BMVC 2019</a>, Cardiff</li>
