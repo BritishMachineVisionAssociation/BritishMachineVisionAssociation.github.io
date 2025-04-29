@@ -24,8 +24,9 @@ The current ExCo is as follows:
 | Industrial liaison | Dr Oscar Mendez Maldonado |
 |                    | Dr Yulia Hicks |
 | Bursaries Chair | Dr Michal Mackiewicz |
-| Sullivan Thesis Chair | Dr Alex Mackin |
-|                       | Dr Xianghua Xie  |
+| Sullivan Thesis Committee | Dr Alex Mackin |
+|                           | Dr Xianghua Xie |
+|                           | Dr Anh Nguyen |
 | Distinguished Fellow Chair |  Prof Majid Mirmehdi |
 | Website | Prof Neill Campbell|
 | Thesis archive |  |
@@ -36,6 +37,7 @@ The current ExCo is as follows:
 |           | Dr Edmond Ho  |
 | BMVC 2025 | Dr Steve Maddock |
 |           | Prof. Jungong Han |
+|           | Dr. Jefersson Alex dos Santos |
 | MIUA conference coordinator | Dr Tryphon Lambrou |
 | Summer School | Dr Tryphon Lambrou |
 |               | Dr Carlos Moreno-Garcia |
