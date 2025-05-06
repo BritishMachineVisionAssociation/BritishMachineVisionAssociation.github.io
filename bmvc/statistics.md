@@ -69,8 +69,8 @@ permalink: /bmvc/statistics/
 <td align="left">Glasgow</td>
 <td align="right">1020</td>
 <td align="right">263</td>
-<td align="right">233</td>
 <td align="right">30</td>
+  <td align="right">233</td>
 <td align="right"></td>
 <td align="right"></td>
 <td align="right">552</td>
@@ -86,8 +86,8 @@ permalink: /bmvc/statistics/
 <td align="left">Aberdeen</td>
 <td align="right">815</td>
 <td align="right">267</td>
+  <td align="right">67</td>
 <td align="right">200</td>
-<td align="right">67</td>
 <td align="right"></td>
 <td align="right"></td>
 <td align="right">441</td>
@@ -103,8 +103,8 @@ permalink: /bmvc/statistics/
 <td align="left">London (Oval)</td>
 <td align="right">967</td>
 <td align="right">365</td>
-<td align="right">300</td>
 <td align="right">35 (65)<sup>△</sup></td>
+<td align="right">300</td>
 <td align="right"></td>
 <td align="right"></td>
 <td align="right"></td>
@@ -120,8 +120,8 @@ permalink: /bmvc/statistics/
 <td align="left">Online</td>
 <td align="right">1206</td>
 <td align="right">435</td>
-<td align="right">395</td>
 <td align="right">40</td>
+<td align="right">395</td>
 <td align="right"></td>
 <td align="right"></td>
 <td align="right"></td>
