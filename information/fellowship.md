@@ -12,6 +12,19 @@ community. The awardees are distinguished researchers, normally based in the UK,
 have contributed significantly to research in the field and service to
 the British machine vision community, both nationally and internationally.
 
+### Nomination Form
+ 
+The BMVA welcome nominations for the annual award of the Distinguished Fellow of the BMVA.
+ 
+This prestigious award has been awarded since 2000 to one person each year in recognition of their services to the British machine vision community. The awardees are distinguished researchers, normally based in the UK, who have contributed significantly to research in the field and service to the British machine vision community, both nationally and internationally. For a list of the current Fellows, please see [below]({{ site.baseurl }}{% link information/fellowship.md %}).
+ 
+The nomination requires:
+- A clear, factual, and brief summary of the nominee's technical achievements and impact
+- A clear, factual, and brief summary of the nominee's service to the BMVA
+- The nominee’s past awards and professional recognition 
+ 
+Please submit this [Google Form](https://forms.gle/3Cb62btZVrH1G7F3A) to make a nomination.
+
 ### Distinguished Fellows
 
 + [2000: Michael Duff]({{ site.baseurl }}{% link fellowship/2000-duff.md %})
@@ -39,9 +52,11 @@ the British machine vision community, both nationally and internationally.
 + [2022: Alison Noble]({{ site.baseurl }}{% link fellowship/2022-noble.md %})
 + [2023: Andrew Davison]({{ site.baseurl }}{% link fellowship/2023-davison.md %})
 
-### Nominations
+<!-- ### Nominations
 
 Nominations for the award, with a few lines of rationale, may be sent by email
 to the BMVA Chair ([chair@bmva.org](mailto:chair@bmva.org)) at any
 time. The fellowship committee typically deliberates in October, and all
-outstanding nominations are considered at that time.
+outstanding nominations are considered at that time. -->
+
+
