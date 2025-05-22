@@ -30,11 +30,13 @@ title: Home
 
 **Sullivan Thesis Prize Nominations**: We are pleased to announce that we are now accepting nominations for the Sullivan Thesis Prize again. Please see the [Sullivan thesis prize page]({{ site.baseurl }}/bursaries/sullivan-prize) for further details.
 
-
 <p style="text-align: center;">
 <a class="btn btn-info" role="button" href="{{ site.baseurl }}/bursaries/sullivan-prize">Thesis Prize Nominations</a></p>
 
+**Distinguished Fellowship Nominations**: We are pleased to announce that we are now accepting nominations for the Distinguished Fellowship of the BMVA. Please see the [Distinguished Fellowship page]({{ site.baseurl }}/information/fellowship) for further details.
 
+<p style="text-align: center;">
+<a class="btn btn-info" role="button" href="{{ site.baseurl }}/information/fellowship">Fellowship Nominations</a></p>
 
 
 
