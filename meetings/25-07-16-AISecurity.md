@@ -58,7 +58,7 @@ presenters to join us at the British Computer Society on the day.
 
 **Presentations can be either published work, or ongoing research**. 
 
-**The deadline for submitting a presentation is the 14th May**
+**The deadline for submitting a presentation is the 6th June**
 
 <div class="alert mt-3 alert-info" style="text-align:center;">
 <span><strong>Sign up to present at this meeting via this link: &nbsp;&nbsp;
