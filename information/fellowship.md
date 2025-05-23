@@ -6,18 +6,18 @@ permalink: /information/fellowship
 
 ## BMVA Distinguished Fellowship
 
-The BMVA Distinguished Fellowship is awarded to one person each year in
+<!-- The BMVA Distinguished Fellowship is awarded to one person each year in
 recognition of their services to the British machine vision
 community. The awardees are distinguished researchers, normally based in the UK, who
 have contributed significantly to research in the field and service to
-the British machine vision community, both nationally and internationally.
+the British machine vision community, both nationally and internationally. -->
+
+This prestigious title has been awarded since 2000 to one person each year in recognition of their services to the British machine vision community. The awardees are distinguished researchers, normally based in the UK, who have contributed significantly to research in the field and service to the British machine vision community, both nationally and internationally. For a list of the current Fellows, please see [below]({{ site.baseurl }}{% link information/fellowship.md %}).
 
 ### Nomination Form
  
 The BMVA welcome nominations for the annual award of the Distinguished Fellow of the BMVA.
- 
-This prestigious award has been awarded since 2000 to one person each year in recognition of their services to the British machine vision community. The awardees are distinguished researchers, normally based in the UK, who have contributed significantly to research in the field and service to the British machine vision community, both nationally and internationally. For a list of the current Fellows, please see [below]({{ site.baseurl }}{% link information/fellowship.md %}).
- 
+  
 The nomination requires:
 - A clear, factual, and brief summary of the nominee's technical achievements and impact
 - A clear, factual, and brief summary of the nominee's service to the BMVA
