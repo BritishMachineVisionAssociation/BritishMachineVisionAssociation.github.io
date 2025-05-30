@@ -14,6 +14,18 @@ organisers: Jack Saunders (University of Bath),  Avirup Dey (University of Bath)
 <a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/events/tz4td20i">Register Here</a></strong></span>
 </div>
 
+## Videos of Talks
+
+On our BMVA YouTube channel there are recorded talks of the slides and speaker from the day [here](https://www.youtube.com/playlist?list=PLW8VWHVjepIt1DrtzuLqW0aPYSMsVXFET)
+
+<div class="container">
+	<div class="row"><div class="col-xs-12 col-lg-10 mx-auto">
+		<div class="video-container">
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLW8VWHVjepIt1DrtzuLqW0aPYSMsVXFET " frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+		</div>
+	</div></div>
+</div>
+
 ## Invited Speakers
 
 *    [Tadas Baltrušaitis](https://www.microsoft.com/en-us/research/people/tabaltru/?msockid=0f662a7197af6620239a3e4e96ba674e), Principal Scientist, Microsoft Mixed Reality and AI lab

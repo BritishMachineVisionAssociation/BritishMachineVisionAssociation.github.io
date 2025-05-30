@@ -1,7 +1,7 @@
 ---
 layout: meeting
 type: One Day Meeting
-title: "BMVA Symposium on Image Quality (5th Novemberary 2025) "
+title: "BMVA Symposium on Multimodal Large Models: Bridging Vision, Language, and Beyond (5th Novemberary 2025) "
 index: 1
 date: 2025-11-05
 meeting-title: "BMVA Symposium on Multimodal Large Models: Bridging Vision, Language, and Beyond"
