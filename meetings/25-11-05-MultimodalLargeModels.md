@@ -5,7 +5,7 @@ title: "BMVA Symposium on Multimodal Large Models: Bridging Vision, Language, an
 index: 1
 date: 2025-11-05
 meeting-title: "BMVA Symposium on Multimodal Large Models: Bridging Vision, Language, and Beyond"
-image: placeholder.png
+image: 25-11-05-Multimodal_LLMs.png
 organisers: Jian Hu (Queen Mary, University of London), Prof Jun Liu (Lancaster University), Dr Ziquan Liu (Queen Mary, University of London) , Dr Wei Zhou (Cardiff University)
 ---
 
