@@ -29,12 +29,6 @@ organisers: Jian Hu (Queen Mary, University of London), Prof Jun Liu (Lancaster 
 * [Prof. Niloy Mitra](http://www0.cs.ucl.ac.uk/staff/n.mitra/), University College London
 
 
-Prof. Niloy Mitra, UCL, http://www0.cs.ucl.ac.uk/staff/n.mitra/
-
-Prof. Dima Damen, University of Bristol and Google DeepMind, https://dimadamen.github.io/
-
-Dr. Xiatian Zhu, University of Surrey, https://x-up-lab.github.io/
-
 ## Call for Presentations
 
 Coming Soon...
