@@ -11,6 +11,7 @@ from pyrsistent import b
 import xmlschema
 from pprint import pprint
 import os
+import yaml
 
 
 def prettify_xml(elem):
@@ -29,10 +30,13 @@ def create_crossref_xml(
     url_from_year_and_paper_id_func,
     location,
     chairs=None,
+    yaml_output_file=None,
 ):
     # This is the correct format for the base DOI
     publication_doi = f"10.5244/C.{year - 2020 + 34}"
     base_doi = f"10.5244/C.{year - 2020 + 34}.%d"
+
+    id_to_doi_map = {}
 
     # Namespaces
     ns = {
@@ -167,9 +171,23 @@ def create_crossref_xml(
             year, pub["paper_id"]
         )
 
+        # Add the DOI to the dictionary for the YAML file on the website
+        id_to_doi_map[str(pub["paper_id"])] = str(base_doi % pub["paper_number"])
+
     # Write to file
     with open(output_file, "w", encoding="utf-8") as f:
         f.write(prettify_xml(doi_batch))
+
+    # Write YAML file of data for website
+    if yaml_output_file is not None:
+        with open(yaml_output_file, "w", encoding="utf-8") as yaml_file:
+            yaml.dump(
+                data=id_to_doi_map,
+                stream=yaml_file,
+                allow_unicode=True,
+                default_flow_style=False,
+                sort_keys=True,
+            )
 
 
 def generate_crossref_xml_file_and_forwarding_links(
@@ -178,6 +196,7 @@ def generate_crossref_xml_file_and_forwarding_links(
     input_json_file,
     isbn,
     email_address,
+    yaml_output_file=None,
 ):
     MAKE_PAPER_PAGE_LINKS = True
     PAPER_PAGE_LINKS_LOCAL_FOLDER = f"./bmvc/{year}"
@@ -244,6 +263,7 @@ def generate_crossref_xml_file_and_forwarding_links(
         location="Online",
         chairs=chairs,
         url_from_year_and_paper_id_func=url_from_year_and_paper_id_func,
+        yaml_output_file=yaml_output_file,
     )
 
     # Validation!
@@ -265,6 +285,7 @@ if __name__ == "__main__":
     INPUT_JSON_FILE = "papers_2020.json"
     ISBN = "978-1-901725-67-4"
     EMAIL_ADDRESS = "neill.campbell@ucl.ac.uk"
+    YAML_OUTPUT_FILE = "bmvc_2020_paper_dois.yaml"
 
     generate_crossref_xml_file_and_forwarding_links(
         year=YEAR,
@@ -272,6 +293,7 @@ if __name__ == "__main__":
         input_json_file=INPUT_JSON_FILE,
         isbn=ISBN,
         email_address=EMAIL_ADDRESS,
+        yaml_output_file=YAML_OUTPUT_FILE,
     )
 
     YEAR = 2021
@@ -287,6 +309,7 @@ if __name__ == "__main__":
     INPUT_JSON_FILE = "papers_2021.json"
     ISBN = "978-1-901725-68-1"
     EMAIL_ADDRESS = "neill.campbell@ucl.ac.uk"
+    YAML_OUTPUT_FILE = "bmvc_2021_paper_dois.yaml"
 
     generate_crossref_xml_file_and_forwarding_links(
         year=YEAR,
@@ -294,4 +317,5 @@ if __name__ == "__main__":
         input_json_file=INPUT_JSON_FILE,
         isbn=ISBN,
         email_address=EMAIL_ADDRESS,
+        yaml_output_file=YAML_OUTPUT_FILE,
     )
