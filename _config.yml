@@ -66,6 +66,8 @@ exclude:
   - assets/thumbnail_script.sh
   - old_news.md
   - bmvc/scripts/
+  - bmvc/scripts/doi/
+
 
 main_sponsors:
   - name: IAPR
