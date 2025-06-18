@@ -65,6 +65,30 @@ presenters to join us at the British Computer Society on the day.
 <a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/forms/cy4vsbuf">Register Here</a></strong></span>
 </div>
 
+## Programme
+
+| Start 	|   	| End    	|   	| Title                                        	|
+|-------	|---	|--------	|---	|----------------------------------------------	|
+| 09:30 	|   	| 09:45  	|   	| Registration/Poster Set-up + Coffee           |
+| 09:45 	|   	| 09:50  	|   	| Opening Remarks                              	|
+| 09:50 	|   	| 10:35  	|   	| Invited Keynote Speaker - **Tadas Baltrusaitis** - Digital Humans for Computer Vision |
+| 10:35 	|   	| 11:15  	|   	| Accepted Talks Pt. 1 - **Motion and Perception**  |
+| 11:15 	|   	| 11:45  	|   	| Coffee Break + Posters                       	|
+| 11:45 	|   	| 12:25  	|   	| Accepted Talks Pt. 1 - **Modelling**          |              	 	
+| 12:25 	|   	| 13:25  	|   	| Lunch + Posters      	|
+| 13:25 	|   	| 14:10  	|   	| Invited Keynote Speaker - **Gerard Pons-Moll** - How to train large scale 3D human and object foundation models|     
+| 14:10 	|   	| 14:55  	|   	| Invited Keynote Speaker - **Dimitris Tzionas**  	| 
+| 14:55     |       | 15.25     |       | Coffee Break + Posters                        |
+| 15:25 	|   	| 16:10  	|   	| Invited Keynote Speaker - **Abhijeet Ghosh**  - Computational imaging for realistic facial appearance capture	|     
+| 16:10 	|   	| 16:55  	|   	| Invited Keynote Speaker -  **Thu Nguyen-Phuoc** -  The Uncanny Valley: Have we Crossed it yet? 	| 	 
+| 16:55 	|   	| 17:00  	|   	| Closing Remarks                              	|
+
+### Accepted Talks
+
+#### Oral 1: Motion, Perception and Data:
+Muscle-Aware Motion Prediction with Digital Humans, **Yu-Hui Huang**
+
+
 ## Meeting Location
 
 The meeting will take place at:

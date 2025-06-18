@@ -29,7 +29,7 @@ organisers: Dr Chen Feng (University College London), Dr Jingjing Liu (Universit
 * [Dr. Jiankang Deng](https://jiankangdeng.github.io),  Imperial College London
 * [Prof. Alessio Lomuscio](https://www.doc.ic.ac.uk/~alessio), Safe Intelligence, Imperial College London
 
-## Call for Presentations
+## Overview of Meeting
 
 We are thrilled to invite researchers, engineers, and practitioners from academia and industry to a one-day symposium dedicated to the fast-evolving field of AI Security. This event will delve into the critical challenges and latest advancements in ensuring the safety, robustness, and trustworthiness of AI systems. We encourage submissions of your work—ranging from early-stage research and ongoing projects to previously published results—that align with the symposium’s theme.
 
@@ -46,24 +46,38 @@ Topics of interest include, but are not limited to:
 * Secure deployment of models in real-world applications
 * Statistical and theoretical underpinnings of AI robustness
 
-Not sure if your topic fits? Please contact the chairs for guidance.
+## Programme
 
-Presentation formats include posters, demos, and talks. Please note that all oral
-presentations require an accompanying poster or demo. Demos will be displayed alongside
-posters during the day and can take the form of interactive experiences or visualisations. You can submit
-your presentation proposal using the form below.
+| Start 	|   	| End    	|   	| Title                                        	|
+|-------	|---	|--------	|---	|----------------------------------------------	|
+| 09:30 	|   	| 09:45  	|   	| Registration/Poster Set-up + Coffee           |
+| 09:45 	|   	| 09:50  	|   	| Opening Remarks                              	|
+| 09:50 	|   	| 10:35  	|   	| Invited Keynote Speaker – **Jiankang Deng** – Rethinking the Face Recognition Paradigm with a Focus on Accuracy, Efficiency, and Security |
+| 10:35 	|   	| 11:35  	|   	| Accepted Talks Pt. 1 - **Robustness, Privacy, and Attribution**  |
+| 11:35 	|   	| 11:50  	|   	| Coffee Break + Posters                       	|
+| 11:50 	|   	| 12:35  	|   	| Invited Keynote Speaker – **Ioannis Patras** – Towards Trustworthy, Controllable and Fair AI          |              	 	
+| 12:35 	|   	| 13:30  	|   	| Lunch + Posters      	|
+| 13:30 	|   	| 14:15  	|   	| Invited Keynote Speaker – **Alessio Lomuscio** – Verification of AI systems|     
+| 14:15 	|   	| 15:15  	|   	| Accepted Talks Pt. 2 – **Bias, Fairness, and Security in Assistive AI**  	| 
+| 15:15     |       | 15.30     |       | Coffee Break + Posters                        |
+| 15:25 	|   	| 16:10  	|   	| Invited Keynote Speaker – **Jun Liu** – Jailbreak of large foundational models	|     
+| 16:10 	|   	| 16:55  	|   	| **Panel Discussion** + Q&A 	| 	 
+| 16:55 	|   	| 17:00  	|   	| Closing Remarks                              	|
 
-Important: This is an in-person event, with no virtual attendance option. We kindly ask all
-presenters to join us at the British Computer Society on the day.
+### Accepted Talks
 
-**Presentations can be either published work, or ongoing research**. 
 
-**The deadline for submitting a presentation is the 6th June**
+### Oral 1: Robustness, Privacy, and Attribution
 
-<div class="alert mt-3 alert-info" style="text-align:center;">
-<span><strong>Sign up to present at this meeting via this link: &nbsp;&nbsp;
-<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/forms/cy4vsbuf">Register Here</a></strong></span>
-</div>
+Multiple Watermark Embedding for Neural Radiance Fields (NeRFs), **Yash Kulthe**, University of Surrey
+Protecting pedestrian privacy through face swapping, **Xingchen Zhang**, University of Exeter
+Access Control Mechanism in Socially Assistive Robot, **Kavyan Zoughalian**, Sheffield Hallam University
+
+### Oral 2: Bias, Fairness, and Security in Assistive AI
+
+Fair Domain Generalization: An Information-Theoretic View, **Tangzheng Lian**, Kings College London
+Classification bias measures derived from sample size analysis, **Ioannis Ivrissimtzis**, Durham University
+Data will bring us together: Mapping the Data Life Cycle to Co-Design AI with Multiple Stakeholders, **Elaine Czech**, University of Bristol
 
 ## Meeting Location
 
