@@ -70,13 +70,17 @@ Topics of interest include, but are not limited to:
 ### Oral 1: Robustness, Privacy, and Attribution
 
 Multiple Watermark Embedding for Neural Radiance Fields (NeRFs), **Yash Kulthe**, University of Surrey
+
 Protecting pedestrian privacy through face swapping, **Xingchen Zhang**, University of Exeter
+
 Access Control Mechanism in Socially Assistive Robot, **Kavyan Zoughalian**, Sheffield Hallam University
 
 ### Oral 2: Bias, Fairness, and Security in Assistive AI
 
 Fair Domain Generalization: An Information-Theoretic View, **Tangzheng Lian**, Kings College London
+
 Classification bias measures derived from sample size analysis, **Ioannis Ivrissimtzis**, Durham University
+
 Data will bring us together: Mapping the Data Life Cycle to Co-Design AI with Multiple Stakeholders, **Elaine Czech**, University of Bristol
 
 ## Meeting Location
