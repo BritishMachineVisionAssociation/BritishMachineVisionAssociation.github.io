@@ -33,19 +33,6 @@ organisers: Dr Chen Feng (University College London), Dr Jingjing Liu (Universit
 
 We are thrilled to invite researchers, engineers, and practitioners from academia and industry to a one-day symposium dedicated to the fast-evolving field of AI Security. This event will delve into the critical challenges and latest advancements in ensuring the safety, robustness, and trustworthiness of AI systems. We encourage submissions of your work—ranging from early-stage research and ongoing projects to previously published results—that align with the symposium’s theme.
 
-Topics of interest include, but are not limited to:
-* Fairness, bias, and ethical considerations in large-scale AI models
-* Hallucination and interpretability challenges in generative and predictive systems
-* Robustness of machine learning models against adversarial attacks
-* Certification and verification methods for AI systems
-* Security and privacy implications of large-scale models
-* Trustworthy AI in classical supervised machine learning
-* Weakly supervised learning approaches, including self-supervised, semi-supervised, and noisy supervision techniques
-* Adversarial examples and defenses in deep learning
-* Explainability and accountability in AI decision-making
-* Secure deployment of models in real-world applications
-* Statistical and theoretical underpinnings of AI robustness
-
 ## Programme
 
 | Start 	|   	| End    	|   	| Title                                        	|
