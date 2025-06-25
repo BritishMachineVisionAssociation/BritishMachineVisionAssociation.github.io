@@ -31,10 +31,41 @@ organisers: Jian Hu (Queen Mary, University of London), Prof Jun Liu (Lancaster 
 
 ## Call for Presentations
 
-Coming Soon...
+We are excited to invite researchers, engineers, and practitioners from academia and industry to participate in a one-day symposium focused on Multimodal Learning. This event aims to bring together diverse voices working on the next generation of intelligent systems that integrate vision, language, audio, and other modalities. We welcome submissions spanning early-stage ideas, in-progress studies, and previously published work that align with the symposium's theme.
 
-Important: This is an in-person event, with no virtual attendance option. We kindly ask all
-presenters to join us at the British Computer Society on the day.
+This workshop will explore how models can learn from and reason across different modalities to achieve richer semantic understanding, robust generalisation, and responsible deployment. We especially encourage contributions that push the boundaries of current multimodal systems, both in theoretical foundations and real-world applications.
+
+Topics of interest include, but are not limited to:
+
+* Multimodal representation learning and fusion
+* Reasoning in vision-language and video-language models
+* Multimodal generation and synthesis (e.g. captioning, text-to-image, visual storytelling)
+* Reasoning-aware generation (e.g. chain-of-thought guided generation across modalities)
+* Temporal and spatial grounding in multimodal data
+* Prompting strategies and instruction tuning for multimodal LLMs
+* Generalisation and robustness in multimodal understanding
+* Dataset design and evaluation protocols for multimodal learning
+* Self-supervised, semi-supervised, and weakly supervised multimodal learning
+* Efficient alignment across modalities (e.g. vision-text, audio-text)
+* Applications of multimodal learning in robotics, education, healthcare, and creative industries
+* Multimodal agents and embodied interaction
+* Interpretability and failure analysis in complex multimodal systems
+* Ethical considerations in multimodal learning and generation
+* Robustness, safety, and trustworthiness of multimodal systems
+* Mitigating bias and harmful outputs in multimodal foundation models
+
+Not sure if your topic fits? Feel free to reach out to the organisers—we’re happy to advise.
+
+Presentation Formats:
+
+* Posters
+* Demos
+* Talks
+Demos will be displayed alongside posters during the day and can take the form of interactive experiences or visualisations. You can submit your presentation proposal using the form below.
+
+Important: This is an in-person event held at the British Computer Society, with no virtual presentation option. We kindly ask all presenters to join us on-site.
+
+We look forward to seeing your work!
 
 **Presentations can be either published work, or ongoing research**. 
 
