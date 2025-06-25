@@ -61,6 +61,7 @@ Presentation Formats:
 * Posters
 * Demos
 * Talks
+
 Demos will be displayed alongside posters during the day and can take the form of interactive experiences or visualisations. You can submit your presentation proposal using the form below.
 
 Important: This is an in-person event held at the British Computer Society, with no virtual presentation option. We kindly ask all presenters to join us on-site.
