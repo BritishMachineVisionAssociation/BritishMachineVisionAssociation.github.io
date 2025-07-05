@@ -27,7 +27,7 @@ organisers: Dr Chen Feng (University College London), Dr Jingjing Liu (Universit
 * [Prof Ioannis Patras](https://www.eecs.qmul.ac.uk/~ioannisp), Queen Mary University of London
 * [Prof. Jun Liu](https://www.lancaster.ac.uk/scc/about-us/people/jun-liu2), University of Lancaster 
 * [Dr. Jiankang Deng](https://jiankangdeng.github.io),  Imperial College London
-* [Prof. Alessio Lomuscio](https://www.doc.ic.ac.uk/~alessio), Safe Intelligence, Imperial College London
+* [Dr Panagiotis Kouvaros](https://pkouvaros.github.io/), University of Limassol
 
 ## Overview of Meeting
 
@@ -44,7 +44,7 @@ We are thrilled to invite researchers, engineers, and practitioners from academi
 | 11:35 	|   	| 11:50  	|   	| Coffee Break + Posters                       	|
 | 11:50 	|   	| 12:35  	|   	| Invited Keynote Speaker – **Ioannis Patras** – Towards Trustworthy, Controllable and Fair AI          |              	 	
 | 12:35 	|   	| 13:30  	|   	| Lunch + Posters      	|
-| 13:30 	|   	| 14:15  	|   	| Invited Keynote Speaker – **Alessio Lomuscio** – Verification of AI systems|     
+| 13:30 	|   	| 14:15  	|   	| Invited Keynote Speaker – **Panagiotis Kouvaros** – Verification of AI systems|     
 | 14:15 	|   	| 15:15  	|   	| Accepted Talks Pt. 2 – **Bias, Fairness, and Security in Assistive AI**  	| 
 | 15:15     |       | 15.30     |       | Coffee Break + Posters                        |
 | 15:25 	|   	| 16:10  	|   	| Invited Keynote Speaker – **Jun Liu** – Jailbreak of large foundational models	|     
