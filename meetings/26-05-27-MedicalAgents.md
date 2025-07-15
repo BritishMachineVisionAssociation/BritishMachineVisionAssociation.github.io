@@ -26,7 +26,6 @@ organisers: Vivek Singh (Queen Mary University of London), Mostafa Kamal Sarker 
 ## Invited Speakers
 
 Coming Soon
-
 * 
 
 
