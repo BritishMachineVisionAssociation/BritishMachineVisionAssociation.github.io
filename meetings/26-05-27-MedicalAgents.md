@@ -7,7 +7,6 @@ date: 2026-05-27
 meeting-title: "BMVA Symposium on Advancing Medical Care with AI Agents"
 image: BMVAForYoutube.png
 organisers: Vivek Singh (Queen Mary University of London), Mostafa Kamal Sarker (Technovative Solutions Ltd)
-,
 ---
 
 <div class="alert mt-3 alert-info" style="text-align:center;">
