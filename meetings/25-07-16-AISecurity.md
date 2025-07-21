@@ -9,15 +9,6 @@ image: 25-07-16_AISecurity.jpg
 organisers: Dr Chen Feng (University College London), Dr Jingjing Liu (University of Bristol), Dr Niki Foteinopoulou (Cambridge Research Laboratory, Toshiba Europe) and Dr Zhonglin Sun (Southwest Jiaotong University, China).
 ---
 
-<div class="alert mt-3 alert-info" style="text-align:center;">
-<span><strong>Please register to attend on this link: &nbsp;&nbsp;
-<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/events/lzx91vmf">Register Here to Attend</a></strong></span>
-</div>
-
-<div class="alert mt-3 alert-info" style="text-align:center;">
-<span><strong>Sign up to present at this meeting via this link: &nbsp;&nbsp;
-<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/forms/cy4vsbuf">Register Here to present</a></strong></span>
-</div>
 
 <p style="text-align: center;">
 <a class="btn btn-info" role="button" href="mailto:a.gilbert@surrey.ac.uk">Queries? contact the Meeting's Organiser Andrew Gilbert here</a></p>
