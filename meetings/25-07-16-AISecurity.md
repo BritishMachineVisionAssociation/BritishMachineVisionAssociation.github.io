@@ -22,6 +22,18 @@ organisers: Dr Chen Feng (University College London), Dr Jingjing Liu (Universit
 <p style="text-align: center;">
 <a class="btn btn-info" role="button" href="mailto:a.gilbert@surrey.ac.uk">Queries? contact the Meeting's Organiser Andrew Gilbert here</a></p>
 
+## Videos of Talks
+
+On our BMVA YouTube channel there are recorded talks of the slides and speaker from the day [here](https://www.youtube.com/playlist?list=PLW8VWHVjepIszQtfq1N0UPfwVYwSxAgYL)
+
+<div class="container">
+	<div class="row"><div class="col-xs-12 col-lg-10 mx-auto">
+		<div class="video-container">
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLW8VWHVjepIszQtfq1N0UPfwVYwSxAgYL " frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+		</div>
+	</div></div>
+</div>
+
 ## Invited Speakers
 
 * [Prof Ioannis Patras](https://www.eecs.qmul.ac.uk/~ioannisp), Queen Mary University of London
