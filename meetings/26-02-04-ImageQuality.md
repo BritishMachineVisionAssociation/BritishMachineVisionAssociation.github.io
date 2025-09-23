@@ -1,10 +1,10 @@
 ---
 layout: meeting
 type: One Day Meeting
-title: "BMVA Symposium on Image Quality (4th Feburary 2026) "
+title: "BMVA Symposium on Media Quality (4th Feburary 2026) "
 index: 1
 date: 2026-02-04
-meeting-title: "BMVA Symposium on Image Quality"
+meeting-title: "BMVA Symposium on Media Quality"
 image: 26-02-04-ImageQuality.PNG
 organisers: Alex Mackin (Prime Video), Angeliki Katsenou (Sony Interactive Entertainment), Fan Zhang (University of Bristol), Nabajeet Barman (Sony Interactive Entertainment)
 ---
@@ -65,7 +65,6 @@ Important: This is an in-person event held at the British Computer Society, with
 
 **Presentations can be either published work, or ongoing research**. 
 
-**The deadline for submitting a presentation is the 27th November**
 
 <div class="alert mt-3 alert-info" style="text-align:center;">
 <span><strong>Sign up to present at this meeting via this link (deadline 27th Nov): &nbsp;&nbsp;
