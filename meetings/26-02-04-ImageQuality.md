@@ -5,7 +5,7 @@ title: "BMVA Symposium on Image Quality (4th Feburary 2026) "
 index: 1
 date: 2026-02-04
 meeting-title: "BMVA Symposium on Image Quality"
-image: 26-02-04-ImageQuality.png
+image: 26-02-04-ImageQuality.PNG
 organisers: Alex Mackin (Prime Video), Angeliki Katsenou (Sony Interactive Entertainment), Fan Zhang (University of Bristol), Nabajeet Barman (Sony Interactive Entertainment)
 ---
 
