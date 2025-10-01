@@ -14,11 +14,6 @@ organisers: Jian Hu (Queen Mary, University of London), Prof Jun Liu (Lancaster 
 <a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/events/7imrxxfk">Register Here to Attend</a></strong></span>
 </div>
 
-<div class="alert mt-3 alert-info" style="text-align:center;">
-<span><strong>Sign up to present at this meeting via this link: &nbsp;&nbsp;
-<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/forms/dowa1eiq">Register Here to present</a></strong></span>
-</div>
-
 <p style="text-align: center;">
 <a class="btn btn-info" role="button" href="mailto:a.gilbert@surrey.ac.uk">Queries? contact the Meeting's Organiser Andrew Gilbert here</a></p>
 
@@ -97,14 +92,6 @@ Important: This is an in-person event held at the British Computer Society, with
 
 We look forward to seeing your work!
 
-**Presentations can be either published work, or ongoing research**. 
-
-**The deadline for submitting a presentation is the 17th September 2025**
-
-<div class="alert mt-3 alert-info" style="text-align:center;">
-<span><strong>Sign up to present at this meeting via this link: &nbsp;&nbsp;
-<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/forms/dowa1eiq">Register Here</a></strong></span>
-</div>
 
 ## Meeting Location
 
@@ -118,7 +105,9 @@ British Computer Society (BCS), 25 Copthall Avenue, London EC2R 7BP
 
 We keep the cost of attending these events as low as possible to ensure no barriers from the whole computer vision community attending. 
 The registration costs are as follows 
+
 **All Attendees**:  £30
+
 Including lunch and refreshments for the day
 
 
