@@ -29,40 +29,69 @@ organisers: Jian Hu (Queen Mary, University of London), Prof Jun Liu (Lancaster 
 * [Prof. Niloy Mitra](http://www0.cs.ucl.ac.uk/staff/n.mitra/), University College London
 
 
-## Call for Presentations
+## Overview of Meeting
 
 We are excited to invite researchers, engineers, and practitioners from academia and industry to participate in a one-day symposium focused on Multimodal Learning. This event aims to bring together diverse voices working on the next generation of intelligent systems that integrate vision, language, audio, and other modalities. We welcome submissions spanning early-stage ideas, in-progress studies, and previously published work that align with the symposium's theme.
 
 This workshop will explore how models can learn from and reason across different modalities to achieve richer semantic understanding, robust generalisation, and responsible deployment. We especially encourage contributions that push the boundaries of current multimodal systems, both in theoretical foundations and real-world applications.
 
-Topics of interest include, but are not limited to:
+## Programme
 
-* Multimodal representation learning and fusion
-* Reasoning in vision-language and video-language models
-* Multimodal generation and synthesis (e.g. captioning, text-to-image, visual storytelling)
-* Reasoning-aware generation (e.g. chain-of-thought guided generation across modalities)
-* Temporal and spatial grounding in multimodal data
-* Prompting strategies and instruction tuning for multimodal LLMs
-* Generalisation and robustness in multimodal understanding
-* Dataset design and evaluation protocols for multimodal learning
-* Self-supervised, semi-supervised, and weakly supervised multimodal learning
-* Efficient alignment across modalities (e.g. vision-text, audio-text)
-* Applications of multimodal learning in robotics, education, healthcare, and creative industries
-* Multimodal agents and embodied interaction
-* Interpretability and failure analysis in complex multimodal systems
-* Ethical considerations in multimodal learning and generation
-* Robustness, safety, and trustworthiness of multimodal systems
-* Mitigating bias and harmful outputs in multimodal foundation models
+| Start 	|   	| End    	|   	| Title                                        	|
+|-------	|---	|--------	|---	|----------------------------------------------	|
+| 09:30 	|   	| 09:45  	|   	| Registration/Poster Set-up + Coffee           |
+| 09:45 	|   	| 09:50  	|   	| Opening Remarks                              	|
+| 09:50 	|   	| 10:30 	|   	| Invited Keynote Speaker – **Dima Damen**  |
+| 10:30 	|   	| 11:10  	|   	| Invited Keynote Speaker – **Niloy Mitra**  |
+| 11:10 	|   	| 11:30  	|   	| Coffee Break + Posters                       	|
+| 11:30 	|   	| 12:30  	|   	| Accepted Talks Pt. 1 - **Advancing 3D, Video, and Multimodal Understanding**  |         	 	
+| 12:30 	|   	| 13:30  	|   	| Lunch + Posters      	|
+| 13:30 	|   	| 14:10  	|   	| Invited Keynote Speaker – **Xiatian Zhu** |     
+| 14:10 	|   	| 15:10  	|   	| Accepted Talks Pt. 2 – **Bias, Fairness, and Security in Assistive AI**  	| 
+| 15:10     |       | 15.30     |       | Coffee Break + Posters                        |
+| 15:30 	|   	| 16:30  	|   	| Accepted Talks Pt. 3 – **Domain Applications and Human-Centric Modalities**  	|     
+| 16:30 	|   	| 16:55  	|   	| **Panel Discussion** + Q&A 	| 	 
+| 16:55 	|   	| 17:00  	|   	| Closing Remarks                              	|
 
-Not sure if your topic fits? Feel free to reach out to the organisers—we’re happy to advise.
+### Accepted Talks
 
-Presentation Formats:
+10 min each + 2 mins questions
 
-* Posters
-* Demos
-* Talks
+### Oral 1: Advancing 3D, Video, and Multimodal Understanding
 
-Demos will be displayed alongside posters during the day and can take the form of interactive experiences or visualisations. You can submit your presentation proposal using the form below.
+Hunar Batra – SpatialThinker: Reinforcing 3D Reasoning in Multimodal LLMs via Spatial Rewards
+
+Ye Mao – Hypo3D: Exploring Hypothetical Reasoning in 3D
+
+Zengqun Zhao – LatSearch: Latent Reward-Guided Inference Time Search for Scaling Video Generation
+
+Kevin Qinghong Lin – Beyond Video Understanding: How Video can advance research and education
+
+Sam Pollard – A Video Is Not Worth a Thousand Words
+
+### Oral 2: Reliability, Learning Frameworks, and Model Adaptation
+
+Pramit Saha – Federated Finetuning of Vision-Language Foundation Models
+
+Jiankang Deng – RICE: Region-Aware Cluster Embedding for Vision Representation Learning
+
+Zhaohan Zhang – GrACE: A Generative Approach to Better Confidence Elicitation in Large Language Models
+
+TBC
+
+TBC
+
+### Oral 3: Domain Applications and Human-Centric Modalities
+
+Edward Fish – Hyperbolic Contrastive Regularisation for Geometrically Aware Sign Language Translation
+
+Yinghao Ma – MMAR: A Challenging Benchmark for Deep Reasoning in Speech, Audio, Music, and Their Mix
+
+TBC
+
+TBC
+
+TBC
 
 Important: This is an in-person event held at the British Computer Society, with no virtual presentation option. We kindly ask all presenters to join us on-site.
 
@@ -89,7 +118,7 @@ British Computer Society (BCS), 25 Copthall Avenue, London EC2R 7BP
 
 We keep the cost of attending these events as low as possible to ensure no barriers from the whole computer vision community attending. 
 The registration costs are as follows 
-- **All Attendees**:  £30
+**All Attendees**:  £30
 Including lunch and refreshments for the day
 
 
