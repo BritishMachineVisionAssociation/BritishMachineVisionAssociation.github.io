@@ -140,7 +140,7 @@ and works with the following organizations:
 <A HREF="http://www.ukiva.org">![](/assets/images/layout/affiliates/logo-ukiva.jpg)</A>&nbsp;&nbsp;
 <A HREF="http://www.theava.net">![](/assets/images/layout/affiliates/logo-ava.jpg)</A>
 
-The BMVA is a silver sponsor of the Open Computer Vision Library (OpenCV):
+The BMVA is a silver sponsor of the Open Computer Vision Library (OpenCV): &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.opencv.org">![](/assets/images/layout/affiliates/logo-opencv.png)</A>
 
 <br>
