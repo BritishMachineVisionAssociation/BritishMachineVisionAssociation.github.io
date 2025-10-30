@@ -72,7 +72,7 @@ Jiankang Deng – RICE: Region-Aware Cluster Embedding for Vision Representation
 
 Zhaohan Zhang – GrACE: A Generative Approach to Better Confidence Elicitation in Large Language Models
 
-TBC
+Qifan Fu – Photo-Realistic Hand Gesture Generation Based on Multi-View and Multi-Modal Priors
 
 TBC
 
@@ -82,11 +82,11 @@ Edward Fish – Hyperbolic Contrastive Regularisation for Geometrically Aware Si
 
 Yinghao Ma – MMAR: A Challenging Benchmark for Deep Reasoning in Speech, Audio, Music, and Their Mix
 
-TBC
+Javier Vazquez-Corral  – The art of deception: Color visual illusions and diffusion models
 
-TBC
+Awais Rauf – Efficient 3D-Aware Facial Image Editing via Attribute-Specific Prompt Learning
 
-TBC
+Chen Feng – Rethinking Noise Transition Modelling in Learning with Imperfect Information
 
 Important: This is an in-person event held at the British Computer Society, with no virtual presentation option. We kindly ask all presenters to join us on-site.
 
