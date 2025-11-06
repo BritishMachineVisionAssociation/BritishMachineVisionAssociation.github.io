@@ -9,13 +9,19 @@ image: 25-11-05-Multimodal_LLMs.png
 organisers: Jian Hu (Queen Mary, University of London), Prof Jun Liu (Lancaster University), Dr Ziquan Liu (Queen Mary, University of London) , Dr Wei Zhou (Cardiff University)
 ---
 
-<div class="alert mt-3 alert-info" style="text-align:center;">
-<span><strong>Please register to attend on this link: &nbsp;&nbsp;
-<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/events/7imrxxfk">Register Here to Attend</a></strong></span>
+
+## Videos of Talks
+
+On our BMVA YouTube channel there are recorded talks of the slides and speaker from the day [here](https://www.youtube.com/playlist?list=PLW8VWHVjepIv3w8BR5sz0VEjtrn98wMKU)
+
+<div class="container">
+	<div class="row"><div class="col-xs-12 col-lg-10 mx-auto">
+		<div class="video-container">
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLW8VWHVjepIv3w8BR5sz0VEjtrn98wMKU " frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+		</div>
+	</div></div>
 </div>
 
-<p style="text-align: center;">
-<a class="btn btn-info" role="button" href="mailto:a.gilbert@surrey.ac.uk">Queries? contact the Meeting's Organiser Andrew Gilbert here</a></p>
 
 ## Invited Speakers
 
