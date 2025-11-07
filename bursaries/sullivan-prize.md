@@ -11,13 +11,13 @@ The Sullivan Thesis Prize celebrates early stage researchers working in the fiel
 
 ### Acceptance Criteria
 
-We welcome submissions from anyone who has submitted their PhD thesis at a university in the United Kingdom between September 1, 2024, and August 31, 2025. Any topic that is applicable under the current BMVC call for papers is valid.
+We welcome submissions from anyone who has submitted their PhD thesis at a university in the United Kingdom between September 1, 2025, and August 31, 2026. Any topic that is applicable under the current BMVC call for papers is valid.
 
 ### Submission
 
 Candidates must submit:
 
--	A structured summary (max 500 words) that specifically addresses:
+-	A structured summary (max 2 pages) that specifically addresses:
     - The key theoretical contributions of the thesis
     - The main technical achievements
     - The impact and significance of the work
@@ -25,22 +25,11 @@ Candidates must submit:
 -	Digital copy of their completed PhD Thesis
 -	Either a recommendation letter from the external examiner OR both pre-viva and post-viva reports
 
-[Optional] Candidates may also provide additional supporting evidence, which may include but is not limited to:
-
-- Up to 3 accepted paper(s) as first author (or equal contributor)
-- Blog post(s)
-- Conference poster(s)
-- Details of External talks (e.g. conferences)
-- Profile page(s) on Google Scholar, ResearchGate etc.
-- Report from an industrial placement
-- Endorsement from either an academic or industrial supervisor
-- Demos
-
 Please submit evidence in PDF format, or provide an accessible link. If any of the evidence is confidential please get permission before submitting.
 
-Submissions should be made using CMT: [https://cmt3.research.microsoft.com/SullivanThesisPrize2025](https://cmt3.research.microsoft.com/SullivanThesisPrize2025).
+Submissions should be made using CMT: [https://cmt3.research.microsoft.com/SullivanThesisPrize2026](https://cmt3.research.microsoft.com/SullivanThesisPrize2026).
 
-**Submission deadline: 19 September 2025**
+**Submission deadline: 18 September 2025**
 
 ### Award process
 
@@ -88,6 +77,7 @@ Please email Sullivan Thesis Prize Chairs at [Dr Alex Mackin](mailto:acmackin@am
 </thead>
 <tbody>
 
+<tr><td align="left">2025</td><td align="left">Alberto Pepe</td><td align="left">University of Cambridge</td><td align="left"><a href="https://bmva-archive.org.uk/theses/2025/2025_Alberto_Pepe.pdf">Machine Learning with Geometric Algebra: Multivectors for Modelling, Understanding and Computing</a></td></tr>
 <tr><td align="left">2024</td><td align="left">Liliane Momeni</td><td align="left">University of Oxford</td><td align="left"><a href="https://bmva-archive.org.uk/theses/2024/2024_Liliane_Momeni.pdf">Sign Language Understanding using Multimodal Learning</a></td></tr>
 <tr><td align="left">2022</td><td align="left">Shangzhe Wu</td><td align="left">University of Oxford</td><td align="left"><a href="https://bmva-archive.org.uk/theses/2022/2022_Shangzhe_Wu.pdf">Unsupervised Learning of 3D Objects in the Wild</a></td></tr>
 <tr><td align="left">2021</td><td align="left">Jaime Spencer Martin</td><td align="left">University of Surrey</td><td align="left"><a href="https://bmva-archive.org.uk/theses/2021/2021_Jaime_Spencer_Martin.pdf">Learning Generic Deep Feature Representations</a></td></tr>
