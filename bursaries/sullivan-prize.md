@@ -77,7 +77,7 @@ Please email Sullivan Thesis Prize Chairs at [Dr Alex Mackin](mailto:acmackin@am
 </thead>
 <tbody>
 
-<tr><td align="left">2024</td><td align="left">Alberto Pepe</td><td align="left">University of Cambridge</td><td align="left"><a href="">Machine Learning with Geometric Algebra: Multivectors for Modelling, Understanding and Computing</a></td></tr>
+<tr><td align="left">2025</td><td align="left">Alberto Pepe</td><td align="left">University of Cambridge</td><td align="left"><a href="https://bmva-archive.org.uk/theses/2025/2025_Alberto_Pepe.pdf">Machine Learning with Geometric Algebra: Multivectors for Modelling, Understanding and Computing</a></td></tr>
 <tr><td align="left">2024</td><td align="left">Liliane Momeni</td><td align="left">University of Oxford</td><td align="left"><a href="https://bmva-archive.org.uk/theses/2024/2024_Liliane_Momeni.pdf">Sign Language Understanding using Multimodal Learning</a></td></tr>
 <tr><td align="left">2022</td><td align="left">Shangzhe Wu</td><td align="left">University of Oxford</td><td align="left"><a href="https://bmva-archive.org.uk/theses/2022/2022_Shangzhe_Wu.pdf">Unsupervised Learning of 3D Objects in the Wild</a></td></tr>
 <tr><td align="left">2021</td><td align="left">Jaime Spencer Martin</td><td align="left">University of Surrey</td><td align="left"><a href="https://bmva-archive.org.uk/theses/2021/2021_Jaime_Spencer_Martin.pdf">Learning Generic Deep Feature Representations</a></td></tr>
