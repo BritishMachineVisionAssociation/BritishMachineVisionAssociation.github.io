@@ -3,7 +3,7 @@ layout: meeting
 type: One Day Meeting
 title: "BMVA Symposium on Continual AI: Learning to Adapt in a Continuous World. (24th June 2026) "
 index: 1
-date: 2026-05-27
+date: 2026-06-24
 meeting-title: "BMVA Symposium on Continual AI: Learning to Adapt in a Continuous World."
 image: BMVAForYoutube.png
 organisers: Paris Giampouras (University of Warwick), Haoran Ni (University of Warwick),  Julio Hurtado (University of Warwick)
