@@ -6,18 +6,18 @@ permalink: /summer-school
 
 ## The Summer School in Computer Vision
 
-The 28th BMVA Computer Vision Summer School (CVSS 2024) will take place between 7th - 11th July 2025 at [University of Aberdeen](https://www.abdn.ac.uk/). 
+The 29th BMVA Computer Vision Summer School (CVSS 2026) will take place between 13th - 17th July 2026 at [Durham University](https://www.durham.ac.uk/). 
 
 The event will consist of an intensive week of lectures and lab sessions covering a wide range of topics in Computer Vision. Lecturers are researchers in the field from some of the most active research groups in the UK and abroad. The summer school also fulfills an important social function in that it gives attendees a chance to meet other vision students and researchers from around the UK and beyond. 
 
-Please see the [Computer Vision Summer School 2025 Website](https://cvss.bmva.org/) for more details.
-If you have any queries while we are updating the website, please reach out to us at [bmva-cvss2025@abdn.ac.uk](mailto:bmva-cvss2025@abdn.ac.uk).
+Please see the [Computer Vision Summer School 2026 Website](https://cvss.bmva.org/) for more details.
+If you have any queries while we are updating the website, please reach out to us at [bmva-cvss@durham.ac.uk](mailto:bmva-cvss@durham.ac.uk).
 
 <p style="pb-2">
-<a href="https://cvss.bmva.org/"><img src="{{ site.baseurl }}/assets/images/events/2025-aberdeen-summer-school.png" class="img-fluid rounded mx-auto d-block" style="max-width: 600px;" alt="CVSS 2024 Logo"></a>
+<a href="https://cvss.bmva.org/"><img src="{{ site.baseurl }}/assets/images/events/2024-durham-summer-school.jpg" class="img-fluid rounded mx-auto d-block" style="max-width: 600px;" alt="CVSS 2026 Logo"></a>
 </p>
 <!---
-### Call for Proposals to Host the 2024 Summer School!
+### Call for Proposals to Host the 202? Summer School!
 
 The summer school is an excellent opportunity for computer vision researchers at the start of their careers and is a priority for the BMVA. This is only possible through the kind work of volunteers from the academic and industry communities who host and support the organisation of the school.
 
@@ -38,6 +38,7 @@ The BMVA has been running this annual summer school on computer vision since the
 
 | &nbsp;&nbsp;&nbsp;Year&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;Venue&nbsp;&nbsp;&nbsp; |
 |:-:|:-:|
+| 2024 | [Aberdeen](https://cvss.bmva.org/previous/2025/) |
 | 2024 | [Durham](https://cvss.bmva.org/previous/2024/) |
 | 2023 | [UEA](https://cvss-uea.uk/) |
 | 2022 | [UEA](https://cvss2022-uea.uk/) |
