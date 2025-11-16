@@ -38,7 +38,7 @@ The BMVA has been running this annual summer school on computer vision since the
 
 | &nbsp;&nbsp;&nbsp;Year&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;Venue&nbsp;&nbsp;&nbsp; |
 |:-:|:-:|
-| 2024 | [Aberdeen](https://cvss.bmva.org/previous/2025/) |
+| 2025 | [Aberdeen](https://cvss.bmva.org/previous/2025/) |
 | 2024 | [Durham](https://cvss.bmva.org/previous/2024/) |
 | 2023 | [UEA](https://cvss-uea.uk/) |
 | 2022 | [UEA](https://cvss2022-uea.uk/) |
