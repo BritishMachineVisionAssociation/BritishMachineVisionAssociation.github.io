@@ -29,7 +29,7 @@ Please submit evidence in PDF format, or provide an accessible link. If any of t
 
 Submissions should be made using CMT: [https://cmt3.research.microsoft.com/SullivanThesisPrize2026](https://cmt3.research.microsoft.com/SullivanThesisPrize2026).
 
-**Submission deadline: 18 September 2025**
+**Submission deadline: 18 September 2026**
 
 ### Award process
 
