@@ -42,7 +42,7 @@ Successful applicants will be sent the agreed funds upon receipt by the
 + a conference review or alternative contribution, to be decided in
   discussion with the bursaries officer;
 + a completed
-  [claim form](http://breckon.eu/toby/bmva/expenses-claim.pdf). Fill out the
+  [claim form](BMVA-bursary-expenses-claim.pdf). Fill out the
   form (leaving the "BMVA Committee Member" blank)
 
 This must be done within two calendar months of the end of the conference.
