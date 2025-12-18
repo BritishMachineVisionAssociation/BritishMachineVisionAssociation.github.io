@@ -14,10 +14,6 @@ organisers: Alex Mackin (Prime Video), Angeliki Katsenou (Sony Interactive Enter
 <a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/events/c4jvohoi">Register Here to Attend</a></strong></span>
 </div>
 
-<div class="alert mt-3 alert-info" style="text-align:center;">
-<span><strong>Sign up to present at this meeting via this link: &nbsp;&nbsp;
-<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/forms/aduy4xg3">Register Here to present</a></strong></span>
-</div>
 
 <p style="text-align: center;">
 <a class="btn btn-info" role="button" href="mailto:a.gilbert@surrey.ac.uk">Queries? contact the Meeting's Organiser Andrew Gilbert here</a></p>
@@ -34,42 +30,27 @@ organisers: Alex Mackin (Prime Video), Angeliki Katsenou (Sony Interactive Enter
 
 The British Machine Vision Association (BMVA) is pleased to announce its upcoming one-day symposium on Media Quality. This event aims to bring together researchers, engineers, and practitioners from academia and industry to explore recent advances in image and video quality assessment, perception, and optimization.
 
-Topics of Interest include (but are not limited to):
+## Programme
 
-* Classical & Deep Learning Quality Models
-* Perceptual Quality & Psychophysics
-* Quality of Experience
-* Immersive Technologies
-* Medical Image Quality
-* Computer Graphics Quality Assessment
-* Compression Artifacts and Solutions
-* Robustness in Quality Assessment
-* Novel Datasets and Benchmarks
-* Quality in Computational Imaging
-* Quality Assessment for Novel Imaging Systems
-* Generative AI Quality Metrics
-* Non-Visible Band Imaging Quality
-* Human Visual Perception
-* Quality in Mixed/Virtual Reality
+| Start | End   | Duration | Event |
+|-------|-------|----------|-------|
+| 09.30 | 10.00 | 30 mins  | Registration and Coffee |
+| 10:00 | 11:00 | 60 mins  | Prof. Danae Stanton Fraser & Prof. Iain Gilchrist (University of Bath & Bristol) – MyWorld |
+| 11:00 | 11:30 | 30 mins  | Coffee Break |
+| 11:30 | 12:00 | 30 mins  | Maciej Pedzisz (Nokia) - DVIFM: Distortion Visibility Image Fidelity Measure |
+| 12:00 | 12:30 | 30 mins  | Pui Anantrasirichai (University of Bristol) - Low-light and underwater video enhancement |
+| 12:30 | 13:30 | 60 mins  | Lunch Break |
+| 13:30 | 14:00 | 30 mins  | Dr. Lucas Theis (Mabyduck) - Realism-distortion trade-offs with people |
+| 14:00 | 14:30 | 30 mins  | Yiannis Andreopoulos (Sony Interactive Entertainment) - Quality Aspects of Interactive Game Streaming |
+| 14:30 | 15:00 | 30 mins  | Dounia Hammou (University of Cambridge) - ColorVideoVDP-ML: Visual Difference Predictor with a neural regressor for quality prediction |
+| 15:00 | 15:30 | 30 mins  | Coffee Break |
+| 15:30 | 16:00 | 30 mins  | Yixuan Li (City University of Hong Kong) - AI-generated Image Quality Assessment in Visual Communication |
+| 16:00 | 16:30 | 30 mins  | Hanhe Lin (University of Dundee) - MMP-2K: A Benchmark Multi-Labeled Macro Photography Image Quality Assessment Database |
+| 16:30 | 17:00 | 30 mins  | Xinyi Wang (University of Bristol) - Caption-Embedded Multimodal Perception for No-Reference Quality Assessment of Compressed Video |
 
-Presentation Formats:
-
-* Talks
-* Posters
-* Demos
- 
-Important Dates: 
-**Presentation Submission Deadline: 27th November 2025 Symposium Date: 4th February 2026**
 
 Important: This is an in-person event held at the British Computer Society, with no virtual attendance option. We kindly ask all presenters to join us on-site.
 
-**Presentations can be either published work, or ongoing research**. 
-
-
-<div class="alert mt-3 alert-info" style="text-align:center;">
-<span><strong>Sign up to present at this meeting via this link (deadline 27th Nov): &nbsp;&nbsp;
-<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/forms/aduy4xg3">Register Here</a></strong></span>
-</div>
 
 ## Meeting Location
 
@@ -91,7 +72,3 @@ Including lunch and refreshments for the day
 <span><strong>Please register via charitysuite on this link: &nbsp;&nbsp;
 <a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/events/c4jvohoi">Register Here</a></strong></span>
 </div>
-
-
-
-
