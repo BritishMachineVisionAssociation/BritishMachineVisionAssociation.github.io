@@ -32,21 +32,21 @@ The British Machine Vision Association (BMVA) is pleased to announce its upcomin
 
 ## Programme
 
-| Start | End   | Duration | Event |
-|-------|-------|----------|-------|
-| 09.30 | 10.00 | 30 mins  | Registration and Coffee |
-| 10:00 | 11:00 | 60 mins  | Prof. Danae Stanton Fraser & Prof. Iain Gilchrist (University of Bath & Bristol) – MyWorld |
-| 11:00 | 11:30 | 30 mins  | Coffee Break |
-| 11:30 | 12:00 | 30 mins  | Maciej Pedzisz (Nokia) - DVIFM: Distortion Visibility Image Fidelity Measure |
-| 12:00 | 12:30 | 30 mins  | Pui Anantrasirichai (University of Bristol) - Low-light and underwater video enhancement |
-| 12:30 | 13:30 | 60 mins  | Lunch Break |
-| 13:30 | 14:00 | 30 mins  | Dr. Lucas Theis (Mabyduck) - Realism-distortion trade-offs with people |
-| 14:00 | 14:30 | 30 mins  | Yiannis Andreopoulos (Sony Interactive Entertainment) - Quality Aspects of Interactive Game Streaming |
-| 14:30 | 15:00 | 30 mins  | Dounia Hammou (University of Cambridge) - ColorVideoVDP-ML: Visual Difference Predictor with a neural regressor for quality prediction |
-| 15:00 | 15:30 | 30 mins  | Coffee Break |
-| 15:30 | 16:00 | 30 mins  | Yixuan Li (City University of Hong Kong) - AI-generated Image Quality Assessment in Visual Communication |
-| 16:00 | 16:30 | 30 mins  | Hanhe Lin (University of Dundee) - MMP-2K: A Benchmark Multi-Labeled Macro Photography Image Quality Assessment Database |
-| 16:30 | 17:00 | 30 mins  | Xinyi Wang (University of Bristol) - Caption-Embedded Multimodal Perception for No-Reference Quality Assessment of Compressed Video |
+| Start | End   | Event |
+|-------|-------|-------|
+| 09.30 | 10.00 | Registration and Coffee |
+| 10:00 | 11:00 | Prof. Danae Stanton Fraser & Prof. Iain Gilchrist (University of Bath & Bristol) – MyWorld |
+| 11:00 | 11:30 | Coffee Break |
+| 11:30 | 12:00 | Maciej Pedzisz (Nokia) - DVIFM: Distortion Visibility Image Fidelity Measure |
+| 12:00 | 12:30 | Pui Anantrasirichai (University of Bristol) - Low-light and underwater video enhancement |
+| 12:30 | 13:30 | Lunch Break |
+| 13:30 | 14:00 | Dr. Lucas Theis (Mabyduck) - Realism-distortion trade-offs with people |
+| 14:00 | 14:30 | Yiannis Andreopoulos (Sony Interactive Entertainment) - Quality Aspects of Interactive Game Streaming |
+| 14:30 | 15:00 | Dounia Hammou (University of Cambridge) - ColorVideoVDP-ML: Visual Difference Predictor with a neural regressor for quality prediction |
+| 15:00 | 15:30 | Coffee Break |
+| 15:30 | 16:00 | Yixuan Li (City University of Hong Kong) - AI-generated Image Quality Assessment in Visual Communication |
+| 16:00 | 16:30 | Hanhe Lin (University of Dundee) - MMP-2K: A Benchmark Multi-Labeled Macro Photography Image Quality Assessment Database |
+| 16:30 | 17:00 | Xinyi Wang (University of Bristol) - Caption-Embedded Multimodal Perception for No-Reference Quality Assessment of Compressed Video |
 
 
 Important: This is an in-person event held at the British Computer Society, with no virtual attendance option. We kindly ask all presenters to join us on-site.
