@@ -26,7 +26,7 @@ organisers: Alex Mackin (Prime Video), Angeliki Katsenou (Sony Interactive Enter
 
 * Dr. Lucas Theis (Mabyduck): Former Google DeepMind researcher and founder of Mabyduck, known for his groundbreaking work in neural network-based compression and information theory.
 
-## Call for Presentations
+## Meeting Overview
 
 The British Machine Vision Association (BMVA) is pleased to announce its upcoming one-day symposium on Media Quality. This event aims to bring together researchers, engineers, and practitioners from academia and industry to explore recent advances in image and video quality assessment, perception, and optimization.
 
