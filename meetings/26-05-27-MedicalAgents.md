@@ -5,7 +5,7 @@ title: "BMVA Symposium on Advancing Medical Care with AI Agents (27th May 2026) 
 index: 1
 date: 2026-05-27
 meeting-title: "BMVA Symposium on Advancing Medical Care with AI Agents"
-image: BMVAForYoutube.png
+image: BMVAMeetingPlaceholderImg.png
 organisers: Dr Vivek Singh - (Barts Cancer Institute, Queen Mary University of London), Dr Md Mostafa Kamal Sarker, (Department of Oncology, University of Cambridge), Dr Pramit Saha, (Department of Engineering Science, University of Oxford), Dr Concetta Piazzese, (Barts Health NHS Trust), Venu Tammabatula - (Pulse AI Care Ltd)
 ---
 

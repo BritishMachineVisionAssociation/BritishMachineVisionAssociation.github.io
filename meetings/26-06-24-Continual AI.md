@@ -5,7 +5,7 @@ title: "BMVA Symposium on Continual AI: Learning to Adapt in a Continuous World.
 index: 1
 date: 2026-06-24
 meeting-title: "BMVA Symposium on Continual AI: Learning to Adapt in a Continuous World."
-image: BMVAForYoutube.png
+image: BMVAMeetingPlaceholderImg.png
 organisers: Paris Giampouras (University of Warwick), Haoran Ni (University of Warwick),  Julio Hurtado (University of Warwick)
 ---
 
@@ -37,7 +37,7 @@ presenters to join us at the British Computer Society on the day.
 
 **Presentations can be either published work, or ongoing research**. 
 
-**The deadline for submitting a presentation is the 18th March 2026**
+**The deadline for submitting a presentation is the XX  May 2026**
 
 <div class="alert mt-3 alert-info" style="text-align:center;">
 <span><strong>Sign up to present at this meeting via this link: &nbsp;&nbsp;
