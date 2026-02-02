@@ -1,12 +1,12 @@
 ---
 layout: meeting
 type: One Day Meeting
-title: "BMVA Symposium on Interprebility (13th January 2027) "
+title: "BMVA Symposium on Interpretability (13th January 2027) "
 index: 1
 date: 2027-01-13
-meeting-title: "BMVA Symposium on Interpretbility"
+meeting-title: "BMVA Symposium on Interpretability"
 image: BMVAMeetingPlaceholderImg.png
-organisers: Davide Moltisanti (Unviersity of Bath)
+organisers: Davide Moltisanti (University of Bath), Michael Wray (University of Bath)
 ---
 
 <div class="alert mt-3 alert-info" style="text-align:center;">
