@@ -49,6 +49,7 @@ On our BMVA YouTube channel there are recorded talks of the slides and speaker f
 | 13:30 | 14:00 | Dounia Hammou (University of Cambridge) - ColorVideoVDP-ML: Visual Difference Predictor with a neural regressor for quality prediction |
 | 14:00 | 14:30 | Yixuan Li (City University of Hong Kong) - AI-generated Image Quality Assessment in Visual Communication |
 | 14:30 | 15:00 | Coffee Break |
+| 15:00 | 15:30 | Wei Zhou (Cardiff University) - Perceptual Quality Assessment of AI-Driven Content and Beyond
 | 15:30 | 16:00 | Hanhe Lin (University of Dundee) - MMP-2K: A Benchmark Multi-Labeled Macro Photography Image Quality Assessment Database |
 | 16:00 | 16:30 | Xinyi Wang (University of Bristol) - Caption-Embedded Multimodal Perception for No-Reference Quality Assessment of Compressed Video |
 
