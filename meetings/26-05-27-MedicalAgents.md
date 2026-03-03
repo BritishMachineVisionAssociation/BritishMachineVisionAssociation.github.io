@@ -15,7 +15,7 @@ organisers: Dr Vivek Singh - (Barts Cancer Institute, Queen Mary University of L
 </div>
 
 <div class="alert mt-3 alert-info" style="text-align:center;">
-<span><strong>Sign up to present at this meeting via this link: &nbsp;&nbsp;
+<span><strong>Sign up for an Expression of Interest to Present via this link:  &nbsp;&nbsp;
 <a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/forms/rktgurfc">Register Here to present</a></strong></span>
 </div>
 
@@ -94,7 +94,7 @@ presenters to join us at the British Computer Society on the day.
 **The deadline for submitting a presentation is the 18th March 2026**
 
 <div class="alert mt-3 alert-info" style="text-align:center;">
-<span><strong>Sign up to present at this meeting via this link: &nbsp;&nbsp;
+<span><strong>Sign up for an Expression of Interest to Present via this link:  &nbsp;&nbsp;
 <a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/forms/rktgurfc">Register Here</a></strong></span>
 </div>
 

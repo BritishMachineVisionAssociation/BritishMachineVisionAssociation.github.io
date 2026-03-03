@@ -1,22 +1,22 @@
 ---
 layout: meeting
 type: One Day Meeting
-title: "BMVA Symposium on Continual AI: Learning to Adapt in a Continuous World. (24th June 2026) "
+title: "BMVA Symposium on Human Behaviour Understanding (30th September 2026) "
 index: 1
-date: 2026-06-24
-meeting-title: "BMVA Symposium on Continual AI: Learning to Adapt in a Continuous World."
+date: 2026-09-30
+meeting-title: "BMVA Symposium on Human Behaviour Understanding"
 image: BMVAMeetingPlaceholderImg.png
-organisers: Paris Giampouras (University of Warwick), Haoran Ni (University of Warwick),  Julio Hurtado (University of Warwick)
+organisers: 
 ---
 
 <div class="alert mt-3 alert-info" style="text-align:center;">
 <span><strong>Please register to attend on this link: &nbsp;&nbsp;
-<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/events/eh0h2gkk">Register Here to Attend</a></strong></span>
+<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/6tpwk1th">Register Here to Attend</a></strong></span>
 </div>
 
 <div class="alert mt-3 alert-info" style="text-align:center;">
-<span><strong>Sign up for an Expression of Interest to Present via this link:  (Deadline 1st May) &nbsp;&nbsp;
-<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/forms/6wtwbvot">Register Here to present</a></strong></span>
+<span><strong>Sign up for an Expression of Interest to Present via this link: (Deadline 15th July) &nbsp;&nbsp;
+<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/forms/o2p0nqkk">Register Here to present</a></strong></span>
 </div>
 
 <p style="text-align: center;">
@@ -25,7 +25,8 @@ organisers: Paris Giampouras (University of Warwick), Haoran Ni (University of W
 ## Invited Speakers
 
 Coming Soon
-*
+* 
+
 
 ## Call for Presentations
 
@@ -36,11 +37,11 @@ presenters to join us at the British Computer Society on the day.
 
 **Presentations can be either published work, or ongoing research**. 
 
-**The deadline for submitting a Expression of Interest to Present is the 1st  May 2026**
+**The deadline for submitting a Expression of Interest to Present is the 25th July 2026**
 
 <div class="alert mt-3 alert-info" style="text-align:center;">
-<span><strong>Sign up for an Expression of Interest to Present via this link:  &nbsp;&nbsp;
-<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/forms/6wtwbvot">Register Here</a></strong></span>
+<span><strong>Sign up for an Expression of Interest to Present via this link: (Deadline 15th July): &nbsp;&nbsp;
+<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/forms/o2p0nqkk">Register Here</a></strong></span>
 </div>
 
 ## Meeting Location
@@ -61,7 +62,7 @@ Including lunch and refreshments for the day
 
 <div class="alert mt-3 alert-info" style="text-align:center;">
 <span><strong>Please register via charitysuite on this link: &nbsp;&nbsp;
-<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/events/eh0h2gkk">Register Here</a></strong></span>
+<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/events/6tpwk1th">Register Here</a></strong></span>
 </div>
 
 

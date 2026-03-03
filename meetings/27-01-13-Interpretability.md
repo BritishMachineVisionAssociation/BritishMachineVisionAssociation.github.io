@@ -15,7 +15,7 @@ organisers: Davide Moltisanti (University of Bath), Michael Wray (University of 
 </div>
 
 <div class="alert mt-3 alert-info" style="text-align:center;">
-<span><strong>Sign up to present at this meeting via this link: (Deadline 26th Nov) &nbsp;&nbsp;
+<span><strong>Sign up for an Expression of Interest to Present via this link:  (Deadline 26th Nov) &nbsp;&nbsp;
 <a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/forms/bolgmspa">Register Here to present</a></strong></span>
 </div>
 
@@ -37,10 +37,10 @@ presenters to join us at the British Computer Society on the day.
 
 **Presentations can be either published work, or ongoing research**. 
 
-**The deadline for submitting a presentation is the 26 November 2026**
+**The deadline for submitting a Expression of Interest to Present is the 26 November 2026**
 
 <div class="alert mt-3 alert-info" style="text-align:center;">
-<span><strong>Sign up to present at this meeting via this link: &nbsp;&nbsp;
+<span><strong>Sign up for an Expression of Interest to Present via this link: &nbsp;&nbsp;
 <a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/forms/bolgmspa">Register Here</a></strong></span>
 </div>
 
