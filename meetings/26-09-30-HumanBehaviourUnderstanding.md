@@ -6,7 +6,7 @@ index: 1
 date: 2026-09-30
 meeting-title: "BMVA Symposium on Human Behaviour Understanding"
 image: BMVAMeetingPlaceholderImg.png
-organisers: 
+organisers: Jingjing Liu (University of Bristol),
 ---
 
 <div class="alert mt-3 alert-info" style="text-align:center;">
