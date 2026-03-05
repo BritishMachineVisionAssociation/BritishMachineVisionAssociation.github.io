@@ -39,10 +39,10 @@ permalink: /bmvc/statistics/
 <th scope="col" align="right">Total</th>
 <th scope="col" align="right">Day</th>
 <th scope="col" align="right">Late</th>
-<th scope="col" align="right">Early</th>
-<th scope="col" align="right">Late</th>
-<th scope="col" align="right">Overall</th>
-<th scope="col" align="right">Oral</th>
+<th scope="col" align="right">Early (£)</th>
+<th scope="col" align="right">Late (£)</th>
+<th scope="col" align="right">Overall (% accept)</th>
+<th scope="col" align="right">Oral (%)</th>
 </tr>
 </thead>
 <tbody>
@@ -77,8 +77,8 @@ permalink: /bmvc/statistics/
 <td align="right">500 (inc. free)</td>
 <td align="right">40</td>
 <td align="right">-</td>
-<td align="right">402</td>
-<td align="right">9</td>
+<td align="right">500</td>
+<td align="right">550</td>
 <td align="right">31%</td>
 <td align="right">3%</td>
 </tr>
@@ -94,8 +94,8 @@ permalink: /bmvc/statistics/
 <td align="right">552</td>
 <td align="right"></td>
 <td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
+<td align="right">500</td>
+<td align="right">600</td>
 <td align="right">23%</td>
 <td align="right">3%</td>
 </tr>
@@ -111,8 +111,8 @@ permalink: /bmvc/statistics/
 <td align="right">441</td>
 <td align="right"></td>
 <td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
+<td align="right">500</td>
+<td align="right">550</td>
 <td align="right">26%</td>
 <td align="right">8%</td>
 </tr>
@@ -128,8 +128,8 @@ permalink: /bmvc/statistics/
 <td align="right"></td>
 <td align="right"></td>
 <td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
+<td align="right">650</td>
+<td align="right">675</td>
 <td align="right">38%</td>
 <td align="right">4% (7%)<sup>△</sup></td>
 </tr>
@@ -784,11 +784,42 @@ Note that the above two may sum to more than 100%.  "~" entries are computed as 
 <td align="left"></td>
 <td align="left"></td>
 </tr>-->
+
+<tr class="odd">
+<td align="right">2025</td>
+<td align="left">Sheffield</td>
+<td align="left">P Torr, A Dai, M Pollefeys</td>
+<td align="left">-</td>
+</tr>
+<tr class="even">
+<td align="right">2024</td>
+<td align="left">Glasgow</td>
+<td align="left">L Sevilla, M Shah, M Chli , F Tombari</td>
+<td align="left">-</td>
+</tr>
+<tr class="odd">
+<td align="right">2023</td>
+<td align="left">Aberdeen</td>
+<td align="left">M Pantic, G Gkioxari, M Pound</td>
+<td align="left"></td>
+</tr>
+<tr class="even">
+<td align="right">2022</td>
+<td align="left">London (Oval)</td>
+<td align="left">D Tao, D Damen, P Fua, S Tanga, P Isola</td>
+<td align="left"></td>
+</tr>
+<tr class="odd">
+<td align="right">2021</td>
+<td align="left">(Virtual)</td>
+<td align="left">A Zisserman, D Koller, K Fragkiadaki, D Scaramuzza</td>
+<td align="left">-</td>
+</tr>
 <tr class="even">
 <td align="right">2020</td>
 <td align="left">(Virtual)</td>
 <td align="left">S Fidler, A Davison, K Saenko, L Leal-Taixé</td>
-<td align="left"></td>
+<td align="left">-</td>
 </tr>
 <tr class="odd">
 <td align="right">2019</td>
@@ -843,13 +874,13 @@ Note that the above two may sum to more than 100%.  "~" entries are computed as 
 <td align="right">2011</td>
 <td align="left">Dundee</td>
 <td align="left">D Fleet, N Paragios</td>
-<td align="left"></td>
+<td align="left">-</td>
 </tr>
 <tr class="even">
 <td align="right">2010</td>
 <td align="left">Aberystwyth</td>
 <td align="left">M Hebert, J Ponce</td>
-<td align="left"></td>
+<td align="left">-</td>
 </tr>
 <tr class="odd">
 <td align="right">2009</td>
@@ -879,7 +910,7 @@ Note that the above two may sum to more than 100%.  "~" entries are computed as 
 <td align="right">2005</td>
 <td align="left">Oxford Brookes</td>
 <td align="left">W Freeman, M Irani</td>
-<td align="left"></td>
+<td align="left">-</td>
 </tr>
 <tr class="even">
 <td align="right">2004</td>
@@ -891,7 +922,7 @@ Note that the above two may sum to more than 100%.  "~" entries are computed as 
 <td align="right">2003</td>
 <td align="left">UEA</td>
 <td align="left">D Forsyth, U Grenander</td>
-<td align="left"></td>
+<td align="left">-</td>
 </tr>
 <tr class="even">
 <td align="right">2002</td>
@@ -920,7 +951,7 @@ Note that the above two may sum to more than 100%.  "~" entries are computed as 
 <tr class="even">
 <td align="right">1998</td>
 <td align="left">Southampton</td>
-<td align="left"></td>
+<td align="left">-</td>
 <td align="left">A Clark, J Illingworth</td>
 </tr>
 <tr class="odd">
@@ -932,8 +963,8 @@ Note that the above two may sum to more than 100%.  "~" entries are computed as 
 <tr class="even">
 <td align="right">1996</td>
 <td align="left">Edinburgh</td>
-<td align="left">J-O Eklundh A Bobick</td>
-<td align="left"></td>
+<td align="left">J-O Eklundh. A Bobick</td>
+<td align="left">-</td>
 </tr>
 <tr class="odd">
 <td align="right">1995</td>
@@ -945,7 +976,7 @@ Note that the above two may sum to more than 100%.  "~" entries are computed as 
 <td align="right">1994</td>
 <td align="left">York</td>
 <td align="left">J Koenderink</td>
-<td align="left"></td>
+<td align="left">-</td>
 </tr>
 <tr class="odd">
 <td align="right">1993</td>
@@ -963,13 +994,13 @@ Note that the above two may sum to more than 100%.  "~" entries are computed as 
 <td align="right">1991</td>
 <td align="left">Glasgow</td>
 <td align="left">D Terzopoulos</td>
-<td align="left"></td>
+<td align="left">-</td>
 </tr>
 <tr class="even">
 <td align="right">1990</td>
 <td align="left">Oxford</td>
 <td align="left">S White, S Zucker</td>
-<td align="left"></td>
+<td align="left">-</td>
 </tr>
 </tbody>
 </table>
