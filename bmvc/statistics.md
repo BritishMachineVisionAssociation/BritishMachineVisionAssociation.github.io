@@ -74,7 +74,7 @@ permalink: /bmvc/statistics/
 <td align="right">246</td>
 <td align="right"></td>
 <td align="right"></td>
-<td align="right">500</td>
+<td align="right">500 (inc. free)</td>
 <td align="right">40</td>
 <td align="right">-</td>
 <td align="right">402</td>
