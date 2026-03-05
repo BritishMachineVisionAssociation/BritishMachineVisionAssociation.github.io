@@ -10,18 +10,18 @@ permalink: /bmvc
 
 <div class="row justify-content-md-center pb-2 ml-3 mr-3">
     <div class="col-12 col-md-8 col-lg-6">
-        <a href="https://bmvc2025.bmva.org/">
+        <a href="https://bmvc2026.bmva.org/">
             <picture>
-                <img src="{{ site.baseurl }}/assets/images/events/bmvc-2025-logo-small.png" class="img-fluid rounded mx-auto d-block"  alt="BMVC 2025 Logo">
+                <img src="{{ site.baseurl }}/assets/images/events/bmvc-2026-logo-small.png" class="img-fluid rounded mx-auto d-block"  alt="BMVC 2026 Logo">
             </picture>
         </a>
     </div>
 </div>
 
-**BMVC 2025**: We are pleased to announce that BMVC will be held from 24th - 27th November 2025 in Sheffield. The timeline for the conference is [now available](https://bmvc2025.bmva.org/dates/).
+**BMVC 2026**: We are pleased to announce that BMVC will be held from 23rd - 26th November 2026 in Lancaster. The timeline for the conference is [now available](https://bmvc2026.bmva.org/dates/).
 
 <p style="text-align: center;">
-<a class="btn btn-info" role="button" href="https://bmvc2025.bmva.org/">BMVC 2025 Website</a></p>
+<a class="btn btn-info" role="button" href="https://bmvc2026.bmva.org/">BMVC 2026 Website</a></p>
 
 ### Call for Volunteers for hosting and organsing BMVC!
 
@@ -379,6 +379,8 @@ The BMVC proceedings style files are available on [GitHub](https://github.com/Br
 The online proceedings for past conferences are available:
 
 <ul>
+<li><a href="https://bmvc2025.bmva.org/proceedings/conference-proceedings/">BMVC 2025</a>, Sheffield</li>
+<li><a href="https://bmvc2024.org/proceedings/conference-proceedings/">BMVC 2024</a>, Glasgow</li>
 <li><a href="https://www.bmvc2023.org/">BMVC 2023</a>, Aberdeen</li>
 <li><a href="https://www.bmvc2022.org/">BMVC 2022</a>, London</li>  
 <!--<li><a href="https://www.bmvc2021-virtualconference.com/">BMVC 2021</a>, (Virtual)</li>  -->

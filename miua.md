@@ -6,12 +6,12 @@ permalink: /miua
 
 ## Medical Image Understanding and Analysis Conference (MIUA)
 
-[MIUA 2024](https://miua2024.github.io) will be held in Manchester on 24-26th July 2024.
+[MIUA 2026](https://www.ucd.ie/medicine/miua2026/) will be held in Dublin, Ireland on 20-22nd July 2026.
 
 <!--[MIUA 2023](https://email.abdn-online.ac.uk/7EPZ-1ASB-T7VZ5-JND1-1/c.aspx) will be held in Aberdeen on 19th — 21st July 2023.-->
 
 <p style="pb-2">
-<a href="https://miua2024.github.io"><img src="{{ site.baseurl }}/assets/images/events/miua2024.png" class="img-fluid rounded mx-auto d-block" style="max-width: 450px;" alt="MIUA 2024 Logo"></a>
+<a href="https://www.ucd.ie/medicine/miua2026/"><img src="{{ site.baseurl }}/assets/images/events/miua2026.png" class="img-fluid rounded mx-auto d-block" style="max-width: 450px;" alt="MIUA 2026 Logo"></a>
 </p>
 
 <!--
