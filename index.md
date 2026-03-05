@@ -28,6 +28,12 @@ title: Home
 <p style="text-align: center;">
 <a class="btn btn-info" role="button" href="https://www.ucd.ie/medicine/miua2026/">MIUA 2026 Website</a></p>
 
+**CVSS 2026**: We are pleased to announce that the BMVA Computer Vision Scummer School will be held from 13th - 17th July 2026 in Durham, UK. The programme for the summer school is [now available](https://cvss.bmva.org/programme/schedule/). 
+
+<p style="text-align: center;">
+<a class="btn btn-info" role="button" href="https://cvss.bmva.org">CVSS 2026 Website</a></p>
+
+
 **Sullivan Thesis Prize Nominations**: We are pleased to announce that we are now accepting nominations for the Sullivan Thesis Prize again. Please see the [Sullivan thesis prize page]({{ site.baseurl }}/bursaries/sullivan-prize) for further details.
 
 <p style="text-align: center;">
