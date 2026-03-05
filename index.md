@@ -18,15 +18,15 @@ title: Home
 <p style="text-align: center;">
 <a class="btn btn-info" role="button" href="https://forms.gle/8b2WJWLPYsMHrjEe8">BMVA/BMVC Volunteering</a></p>
 
-**BMVC 2025**: We are pleased to announce that BMVC will be held from 24th - 27th November 2025 in Sheffield. The timeline for the conference is [now available](https://bmvc2025.bmva.org/dates/).
+**BMVC 2026**: We are pleased to announce that BMVC will be held from 23rd - 26th November 2026 in Lancaster. The timeline for the conference is [now available](https://bmvc2026.bmva.org/dates/).
 
 <p style="text-align: center;">
-<a class="btn btn-info" role="button" href="https://bmvc2025.bmva.org">BMVC 2025 Website</a></p>
+<a class="btn btn-info" role="button" href="https://bmvc2026.bmva.org">BMVC 2026 Website</a></p>
 
-**MIUA 2025**: We are pleased to announce that MIUA will be held from 15th - 17th July 2025 in Leeds. The timeline for the conference is [now available](https://conferences.leeds.ac.uk/miua/). 
+**MIUA 2026**: We are pleased to announce that MIUA will be held from 20th - 22nd July 2026 in Dublin, Ireland. The timeline for the conference is [now available](https://www.ucd.ie/medicine/miua2026/). 
 
 <p style="text-align: center;">
-<a class="btn btn-info" role="button" href="https://conferences.leeds.ac.uk/miua/">MIUA 2025 Website</a></p>
+<a class="btn btn-info" role="button" href="https://www.ucd.ie/medicine/miua2026/">MIUA 2026 Website</a></p>
 
 **Sullivan Thesis Prize Nominations**: We are pleased to announce that we are now accepting nominations for the Sullivan Thesis Prize again. Please see the [Sullivan thesis prize page]({{ site.baseurl }}/bursaries/sullivan-prize) for further details.
 
