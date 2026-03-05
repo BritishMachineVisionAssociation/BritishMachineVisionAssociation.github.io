@@ -39,10 +39,10 @@ permalink: /bmvc/statistics/
 <th scope="col" align="right">Total</th>
 <th scope="col" align="right">Day</th>
 <th scope="col" align="right">Late</th>
-<th scope="col" align="right">Early</th>
-<th scope="col" align="right">Late</th>
-<th scope="col" align="right">Overall</th>
-<th scope="col" align="right">Oral</th>
+<th scope="col" align="right">Early (£)</th>
+<th scope="col" align="right">Late (£)</th>
+<th scope="col" align="right">Overall (% accept)</th>
+<th scope="col" align="right">Oral (%)</th>
 </tr>
 </thead>
 <tbody>
@@ -77,8 +77,8 @@ permalink: /bmvc/statistics/
 <td align="right">500 (inc. free)</td>
 <td align="right">40</td>
 <td align="right">-</td>
-<td align="right">402</td>
-<td align="right">9</td>
+<td align="right">500</td>
+<td align="right">550</td>
 <td align="right">31%</td>
 <td align="right">3%</td>
 </tr>
@@ -94,8 +94,8 @@ permalink: /bmvc/statistics/
 <td align="right">552</td>
 <td align="right"></td>
 <td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
+<td align="right">500</td>
+<td align="right">600</td>
 <td align="right">23%</td>
 <td align="right">3%</td>
 </tr>
@@ -111,8 +111,8 @@ permalink: /bmvc/statistics/
 <td align="right">441</td>
 <td align="right"></td>
 <td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
+<td align="right">500</td>
+<td align="right">550</td>
 <td align="right">26%</td>
 <td align="right">8%</td>
 </tr>
@@ -128,8 +128,8 @@ permalink: /bmvc/statistics/
 <td align="right"></td>
 <td align="right"></td>
 <td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
+<td align="right">650</td>
+<td align="right">675</td>
 <td align="right">38%</td>
 <td align="right">4% (7%)<sup>△</sup></td>
 </tr>
