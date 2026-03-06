@@ -74,9 +74,9 @@ permalink: /bmvc/statistics/
 <td align="right">246</td>
 <td align="right">-</td>
 <td align="right">-</td>
-<td align="right">500<sup>**</sup></td>
+<td align="right">500<sup>**/^^</sup></td>
 <td align="right">40</td>
-<td align="right">-</td>
+<td align="right">9</td>
 <td align="right">500</td>
 <td align="right">550</td>
 <td align="right">31%</td>
@@ -109,8 +109,8 @@ permalink: /bmvc/statistics/
 <td align="right">-</td>
 <td align="right">-</td>
 <td align="right">446<sup>**</sup></td>
-<td align="right">58</td>
 <td align="right">-</td>
+<td align="right">60</td>
 <td align="right">500</td>
 <td align="right">550</td>
 <td align="right">26%</td>
@@ -135,7 +135,7 @@ permalink: /bmvc/statistics/
 </tr>
 <tr class="odd">
 <td align="right">2021</td>
-<td align="left">Online</td>
+<td align="left">(Virtual)</td>
 <td align="right">1206</td>
 <td align="right">435</td>
 <td align="right">40</td>
@@ -152,7 +152,7 @@ permalink: /bmvc/statistics/
 </tr>
 <tr class="even">
 <td align="right">2020</td>
-<td align="left">Online</td>
+<td align="left">(Virtual)</td>
 <td align="right">669</td>
 <td align="right">196</td>
 <td align="right">34</td>
@@ -750,12 +750,13 @@ permalink: /bmvc/statistics/
 </table>
 
 ----
+<sup>^^</sup> Venue capacity reached - attendance ticket sales suspended pre-event.<br/>
 <sup>**</sup> Including organisiers + helpers (i.e. total venue + catering capacity needed).<br/>
 <sup>*</sup> Residential, non-student, including tutorial, all meals (inc banquet), and 3 nights B&B<br/>
 <sup>+</sup> Papers with any UK author<br/>
 <sup>†</sup> Papers with any non-UK author<br/>
 Note that the above two may sum to more than 100%.  "~" entries are computed as 100-the other.<br/>
-<sup>!</sup> Non-residential<br/> (i.e. all BMVC from 2018+ are based on non-residential costs)
+<sup>!</sup> Non-residential (i.e. all BMVC from 2018+ are based on non-residential costs)<br/>
 <sup>△</sup> Including Spotlights
 
 ## BMVC Invited Speakers and Tutorials
@@ -946,7 +947,7 @@ Note that the above two may sum to more than 100%.  "~" entries are computed as 
 <tr class="odd">
 <td align="right">1999</td>
 <td align="left">Nottingham</td>
-<td align="left">R Szeliski D Metaxas</td>
+<td align="left">R Szeliski, D Metaxas</td>
 <td align="left">M Petrou, J Kittler</td>
 </tr>
 <tr class="even">
@@ -964,7 +965,7 @@ Note that the above two may sum to more than 100%.  "~" entries are computed as 
 <tr class="even">
 <td align="right">1996</td>
 <td align="left">Edinburgh</td>
-<td align="left">J-O Eklundh. A Bobick</td>
+<td align="left">J-O Eklundh, A Bobick</td>
 <td align="left">-</td>
 </tr>
 <tr class="odd">
