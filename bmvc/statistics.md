@@ -36,12 +36,12 @@ permalink: /bmvc/statistics/
 <th scope="col" align="right">Posters</th>
 <th scope="col" align="right">%UK<sup>+</sup></th>
 <th scope="col" align="right">%Intl<sup>#</sup></th>
-<th scope="col" align="right">Total</th>
-<th scope="col" align="right">Day</th>
-<th scope="col" align="right">Late</th>
+<th scope="col" align="right">Total #</th>
+<th scope="col" align="right">Day #</th>
+<th scope="col" align="right">Late #</th>
 <th scope="col" align="right">Early (£)</th>
 <th scope="col" align="right">Late (£)</th>
-<th scope="col" align="right">Overall (% accept)</th>
+<th scope="col" align="right">Acceptance (%)</th>
 <th scope="col" align="right">Oral (%)</th>
 </tr>
 </thead>
@@ -50,19 +50,19 @@ permalink: /bmvc/statistics/
 <!-- <tr class="even">
 <td align="right">2026</td>
 <td align="left">Lancaster</td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
 </tr> -->
   
 <tr class="odd">
@@ -72,9 +72,9 @@ permalink: /bmvc/statistics/
 <td align="right">276</td>
 <td align="right">30</td>
 <td align="right">246</td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right">500 (inc. free)</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">500<sup>**</sup></td>
 <td align="right">40</td>
 <td align="right">-</td>
 <td align="right">500</td>
@@ -89,11 +89,11 @@ permalink: /bmvc/statistics/
 <td align="right">263</td>
 <td align="right">30</td>
 <td align="right">233</td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right">552</td>
-<td align="right"></td>
-<td align="right"></td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">552<sup>**</sup></td>
+<td align="right">60</td>
+<td align="right">31</td>
 <td align="right">500</td>
 <td align="right">600</td>
 <td align="right">23%</td>
@@ -106,11 +106,11 @@ permalink: /bmvc/statistics/
 <td align="right">267</td>
   <td align="right">67</td>
 <td align="right">200</td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right">441</td>
-<td align="right"></td>
-<td align="right"></td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">446<sup>**</sup></td>
+<td align="right">58</td>
+<td align="right">-</td>
 <td align="right">500</td>
 <td align="right">550</td>
 <td align="right">26%</td>
@@ -123,11 +123,11 @@ permalink: /bmvc/statistics/
 <td align="right">365</td>
 <td align="right">35 (65)<sup>△</sup></td>
 <td align="right">300</td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">529</td>
+<td align="right">-</td>
+<td align="right">-</td>
 <td align="right">650</td>
 <td align="right">675</td>
 <td align="right">38%</td>
@@ -140,13 +140,13 @@ permalink: /bmvc/statistics/
 <td align="right">435</td>
 <td align="right">40</td>
 <td align="right">395</td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
 <td align="right">33%</td>
 <td align="right">3%</td>
 </tr>
@@ -157,32 +157,32 @@ permalink: /bmvc/statistics/
 <td align="right">196</td>
 <td align="right">34</td>
 <td align="right">162</td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
 <td align="right">29%</td>
 <td align="right">5%</td>
 </tr>
 <tr class="odd">
 <td align="right">2019</td>
 <td align="left">Cardiff</td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
+<td align="right">1008</td>
+<td align="right">282</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">28%</td>
+<td align="right">-</td>
 </tr>
 <tr class="even">
 <td align="right">2018</td>
@@ -191,13 +191,13 @@ permalink: /bmvc/statistics/
 <td align="right">255</td>
 <td align="right">37</td>
 <td align="right">218</td>
-<td align="right"></td>
-<td align="right"></td>
+<td align="right">-</td>
+<td align="right">-</td>
 <td align="right">600</td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
 <td align="right">30%</td>
 <td align="right">4%</td>
 </tr>
@@ -212,8 +212,8 @@ permalink: /bmvc/statistics/
 <td align="right">15%</td>
 <td align="right">85%</td>
 <td align="right">495</td>
-<td align="right"></td>
-<td align="right"></td>
+<td align="right">-</td>
+<td align="right">-</td>
 <td align="right">385<sup>!</sup></td>
 <td align="right">445<sup>!</sup></td>
 <td align="right">29.6%</td>
@@ -263,8 +263,8 @@ permalink: /bmvc/statistics/
 <td align="right">29%</td>
 <td align="right">79%</td>
 <td align="right">185</td>
-<td align="right"></td>
-<td align="right"></td>
+<td align="right">-</td>
+<td align="right">-</td>
 <td align="right">524</td>
 <td align="right">587</td>
 <td align="right">30%</td>
@@ -314,8 +314,8 @@ permalink: /bmvc/statistics/
 <td align="right">27%</td>
 <td align="right">77%</td>
 <td align="right">194</td>
-<td align="right"></td>
-<td align="right"></td>
+<td align="right">-</td>
+<td align="right">-</td>
 <td align="right">520</td>
 <td align="right">580</td>
 <td align="right">32%</td>
@@ -330,9 +330,9 @@ permalink: /bmvc/statistics/
 <td align="right">86</td>
 <td align="right">33%</td>
 <td align="right">72%</td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
 <td align="right">395</td>
 <td align="right">445</td>
 <td align="right">34%</td>
@@ -348,7 +348,7 @@ permalink: /bmvc/statistics/
 <td align="right">36%</td>
 <td align="right">70%</td>
 <td align="right">210</td>
-<td align="right"></td>
+<td align="right">-</td>
 <td align="right">~60</td>
 <td align="right">475</td>
 <td align="right">550</td>
@@ -365,7 +365,7 @@ permalink: /bmvc/statistics/
 <td align="right">35%</td>
 <td align="right">~65%</td>
 <td align="right">182</td>
-<td align="right"></td>
+<td align="right">-</td>
 <td align="right">69</td>
 <td align="right">475</td>
 <td align="right">500</td>
@@ -382,7 +382,7 @@ permalink: /bmvc/statistics/
 <td align="right">47%</td>
 <td align="right">~53%</td>
 <td align="right">260</td>
-<td align="right"></td>
+<td align="right">-</td>
 <td align="right">~30</td>
 <td align="right">475</td>
 <td align="right">500</td>
@@ -399,7 +399,7 @@ permalink: /bmvc/statistics/
 <td align="right">31%</td>
 <td align="right">75%</td>
 <td align="right">227</td>
-<td align="right"></td>
+<td align="right">-</td>
 <td align="right">33</td>
 <td align="right">450</td>
 <td align="right">480</td>
@@ -432,9 +432,9 @@ permalink: /bmvc/statistics/
 <td align="right">56</td>
 <td align="right">44%</td>
 <td align="right">61%</td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
 <td align="right">460</td>
 <td align="right">480</td>
 <td align="right">36%</td>
@@ -450,8 +450,8 @@ permalink: /bmvc/statistics/
 <td align="right">57%</td>
 <td align="right">52%</td>
 <td align="right">112</td>
-<td align="right"></td>
-<td align="right"></td>
+<td align="right">-</td>
+<td align="right">-</td>
 <td align="right">435</td>
 <td align="right">460</td>
 <td align="right">48%</td>
@@ -467,8 +467,8 @@ permalink: /bmvc/statistics/
 <td align="right">71%</td>
 <td align="right">36%</td>
 <td align="right">122</td>
-<td align="right"></td>
-<td align="right"></td>
+<td align="right">-</td>
+<td align="right">-</td>
 <td align="right">465</td>
 <td align="right">490</td>
 <td align="right">43%</td>
@@ -484,8 +484,8 @@ permalink: /bmvc/statistics/
 <td align="right">78%</td>
 <td align="right">25%</td>
 <td align="right">130</td>
-<td align="right"></td>
-<td align="right"></td>
+<td align="right">-</td>
+<td align="right">-</td>
 <td align="right">360</td>
 <td align="right">400</td>
 <td align="right">63%</td>
@@ -494,19 +494,19 @@ permalink: /bmvc/statistics/
 <tr class="even">
 <td align="right">2000</td>
 <td align="left">Bristol</td>
-<td align="right"></td>
+<td align="right">-</td>
 <td align="right">82</td>
-<td align="right"></td>
-<td align="right"></td>
+<td align="right">-</td>
+<td align="right">-</td>
 <td align="right">66%</td>
 <td align="right">37%</td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
 </tr>
 <tr class="odd">
 <td align="right">1999</td>
@@ -518,10 +518,10 @@ permalink: /bmvc/statistics/
 <td align="right">88%</td>
 <td align="right">20%</td>
 <td align="right">110</td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
 <td align="right">62%</td>
 <td align="right">39%</td>
 </tr>
@@ -534,11 +534,11 @@ permalink: /bmvc/statistics/
 <td align="right">52</td>
 <td align="right">71%</td>
 <td align="right">37%</td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
 <td align="right">51%</td>
 <td align="right">21%</td>
 </tr>
@@ -551,30 +551,30 @@ permalink: /bmvc/statistics/
 <td align="right">31</td>
 <td align="right">83%</td>
 <td align="right">19%</td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
 <td align="right">62%</td>
 <td align="right">35%</td>
 </tr>
 <tr class="even">
 <td align="right">1996</td>
 <td align="left">Edinburgh</td>
-<td align="right"></td>
+<td align="right">-</td>
 <td align="right">77</td>
-<td align="right"></td>
-<td align="right"></td>
+<td align="right">-</td>
+<td align="right">-</td>
 <td align="right">82%</td>
 <td align="right">23%</td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
 </tr>
 <tr class="odd">
 <td align="right">1995</td>
@@ -585,11 +585,11 @@ permalink: /bmvc/statistics/
 <td align="right">29</td>
 <td align="right">81%</td>
 <td align="right">20%</td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
 <td align="right">68%</td>
 <td align="right">39%</td>
 </tr>
@@ -603,10 +603,10 @@ permalink: /bmvc/statistics/
 <td align="right">77%</td>
 <td align="right">24%</td>
 <td align="right">122</td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
 <td align="right">44%</td>
 <td align="right">26%</td>
 </tr>
@@ -621,7 +621,7 @@ permalink: /bmvc/statistics/
 <td align="right">27%</td>
 <td align="right">135</td>
 <td align="right">27</td>
-<td align="right"></td>
+<td align="right">-</td>
 <td align="right">250</td>
 <td align="right">270</td>
 <td align="right">51%</td>
@@ -637,8 +637,8 @@ permalink: /bmvc/statistics/
 <td align="right">89%</td>
 <td align="right">16%</td>
 <td align="right">140</td>
-<td align="right"></td>
-<td align="right"></td>
+<td align="right">-</td>
+<td align="right">-</td>
 <td align="right">220</td>
 <td align="right">240</td>
 <td align="right">49%</td>
@@ -647,114 +647,115 @@ permalink: /bmvc/statistics/
 <tr class="odd">
 <td align="right">1991</td>
 <td align="left">Glasgow</td>
-<td align="right"></td>
+<td align="right">-</td>
 <td align="right">62</td>
-<td align="right"></td>
-<td align="right"></td>
+<td align="right">-</td>
+<td align="right">-</td>
 <td align="right">94%</td>
 <td align="right">8%</td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
 </tr>
 <tr class="even">
 <td align="right">1990</td>
 <td align="left">Oxford</td>
-<td align="right"></td>
+<td align="right">-</td>
 <td align="right">73</td>
 <td align="right">42</td>
 <td align="right">30</td>
 <td align="right">86%</td>
 <td align="right">14%</td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
 </tr>
 <tr class="odd">
 <td align="right">1989 (AVC)</td>
 <td align="left">Reading</td>
-<td align="right"></td>
+<td align="right">-</td>
 <td align="right">56</td>
 <td align="right">45</td>
 <td align="right">11</td>
 <td align="right">95%</td>
 <td align="right">9%</td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
 </tr>
 <tr class="even">
 <td align="right">1988 (AVC)</td>
 <td align="left">Manchester</td>
-<td align="right"></td>
+<td align="right">-</td>
 <td align="right">45</td>
 <td align="right">45</td>
 <td align="right">0</td>
 <td align="right">98%</td>
 <td align="right">2%</td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
 </tr>
 <tr class="odd">
 <td align="right">1987 (AVC)</td>
 <td align="left">Cambridge</td>
-<td align="right"></td>
+<td align="right">-</td>
 <td align="right">46</td>
 <td align="right">46</td>
 <td align="right">0</td>
 <td align="right">100%</td>
 <td align="right">~0%</td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
 </tr>
 <tr class="even">
 <td align="right">1985 (AVC)</td>
 <td align="left">Sussex</td>
-<td align="right"></td>
+<td align="right">-</td>
 <td align="right">30</td>
 <td align="right">30</td>
 <td align="right">0</td>
 <td align="right">97%</td>
 <td align="right">3%</td>
 <td align="right">135</td>
-<td align="right"></td>
-<td align="right"></td>
+<td align="right">-</td>
+<td align="right">-</td>
 <td align="right">95</td>
 <td align="right">95</td>
-<td align="right"></td>
-<td align="right"></td>
+<td align="right">-</td>
+<td align="right">-</td>
 </tr>
 </tbody>
 </table>
 
 ----
+<sup>**</sup> Including organisiers + helpers (i.e. total venue + catering capacity needed).<br/>
 <sup>*</sup> Residential, non-student, including tutorial, all meals (inc banquet), and 3 nights B&B<br/>
 <sup>+</sup> Papers with any UK author<br/>
 <sup>†</sup> Papers with any non-UK author<br/>
 Note that the above two may sum to more than 100%.  "~" entries are computed as 100-the other.<br/>
-<sup>!</sup> Non-residential<br/>
+<sup>!</sup> Non-residential<br/> (i.e. all BMVC from 2018+ are based on non-residential costs)
 <sup>△</sup> Including Spotlights
 
 ## BMVC Invited Speakers and Tutorials
