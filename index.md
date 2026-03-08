@@ -18,7 +18,7 @@ title: Home
 <p style="text-align: center;">
 <a class="btn btn-info" role="button" href="https://forms.gle/8b2WJWLPYsMHrjEe8">BMVA/BMVC Volunteering</a></p>
 
-**BMVC 2026**: We are pleased to announce that BMVC will be held from 23rd - 26th November 2026 in Lancaster. The timeline for the conference is [now available](https://bmvc2026.bmva.org/dates/).
+**BMVC 2026**: We are pleased to announce that BMVC will be held from 23rd - 26th November 2026 in Lancaster. The timeline for the conference is [now available](https://bmvc2026.bmva.org/calls/call-for-papers/).
 
 <p style="text-align: center;">
 <a class="btn btn-info" role="button" href="https://bmvc2026.bmva.org">BMVC 2026 Website</a></p>
