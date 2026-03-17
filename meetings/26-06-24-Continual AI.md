@@ -5,7 +5,7 @@ title: "BMVA Symposium on Continual AI: Learning to Adapt in a Continuous World.
 index: 1
 date: 2026-06-24
 meeting-title: "BMVA Symposium on Continual AI: Learning to Adapt in a Continuous World."
-image: BMVAMeetingPlaceholderImg.png
+image: 25-06-24_Continual.png
 organisers: Paris Giampouras (University of Warwick), Haoran Ni (University of Warwick),  Julio Hurtado (University of Warwick)
 ---
 
@@ -24,12 +24,31 @@ organisers: Paris Giampouras (University of Warwick), Haoran Ni (University of W
 
 ## Invited Speakers
 
-Coming Soon
-*
+* Georgina Cosma is a Senior Lecturer at the Department of Computer Science, Loughborough University
+* Jun Wang is a Professor of Computer Science at the University College London
+* Amos Storkey is a Professor of Machine Learning and Artificial Intelligence at the University of Edinburgh
 
 ## Call for Presentations
 
-Coming Soon...
+The British Machine Vision Association (BMVA) is pleased to announce a one-day Technical Meeting entitled "Continual AI: Learning to Adapt in a Continuous World". This symposium brings together researchers and industry practitioners to explore how artificial intelligence, machine learning, and computer vision models must continually adapt to the constant changes in real-world scenarios.
+
+Most current AI research operates under the assumption that datasets are Independent and Identically Distributed (IID). This means that the distribution of the training set remains static and is always applicable to the test set. However, we live in a dynamic world where the environment is constantly changing, which can pose challenges to the generalisation capabilities of static models.
+
+We invite the community to attend the symposium and present their work that challenges the idea of static models by focusing on dynamic environments. Presentations may include both ongoing and published research that demonstrates model adaptation through modifications or adjustments to original weights. This can involve learning new concepts or tasks, effectively reusing previously learned weights, forgetting sensitive information or biases, and merging different sources of knowledge.
+
+Topics of Interest include (but are not limited to):
+* Continual Learning
+* Knowledge Transfer
+* Machine Unlearning
+* Federated Learning
+* Open-world learning
+* Neuroscience-inspired continual learning
+* Theory for continual learning
+
+The meeting aims to foster interdisciplinary dialogue and collaboration to support the responsible translation of AI technologies into real-world scenarios. Presentation Formats:
+* Invited Speakers
+* Talks
+* Demos
 
 Important: This is an in-person event, with no virtual attendance option. We kindly ask all
 presenters to join us at the British Computer Society on the day.
