@@ -4,9 +4,9 @@ type: One Day Meeting
 title: "BMVA Symposium on Human Behaviour Understanding (30th September 2026) "
 index: 1
 date: 2026-09-30
-meeting-title: "BMVA Symposium on Human Behaviour Understanding"
-image: BMVAMeetingPlaceholderImg.png
-organisers: Jingjing Liu (University of Bristol),
+meeting-title: "BMVA Symposium on Human Behaviour Understanding: From Models to Real-World Deployment."
+image: 26-09-30-HumanBehaviour.png
+organisers: Jingjing Liu (University of Bristol), Qianhui Men (University of Bristol), Guanxiong Sun (Queen’s University Belfast), Xudong Ma (University of Oxford), Hongbo Bo (University of Bristol)
 ---
 
 <div class="alert mt-3 alert-info" style="text-align:center;">
