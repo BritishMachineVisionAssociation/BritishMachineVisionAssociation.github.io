@@ -24,7 +24,7 @@ organisers: Paris Giampouras (University of Warwick), Haoran Ni (University of W
 
 ## Invited Speakers
 
-* Georgina Cosma is a Senior Lecturer at the Department of Computer Science, Loughborough University
+* Georgina Cosma is Professor of AI at the Department of Computer Science, Loughborough University
 * Jun Wang is a Professor of Computer Science at the University College London
 * Amos Storkey is a Professor of Machine Learning and Artificial Intelligence at the University of Edinburgh
 
