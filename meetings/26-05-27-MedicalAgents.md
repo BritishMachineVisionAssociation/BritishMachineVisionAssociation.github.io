@@ -48,136 +48,222 @@ Senior ML Researcher in the Biomedical Imaging team at Microsoft
 
 The British Machine Vision Association (BMVA) is pleased to announce a one-day Technical Meeting entitled **Advancing Medical Care with AI Agents.** This symposium brings together researchers, clinicians, and industry practitioners to explore how artificial intelligence, machine learning, and computer vision are transforming medical care, with a particular focus on oncology and surgery as clinically rich, challenging, and emerging application domains.
 
-## Programme
+<style>
+    /* Using a class to prevent conflicts with other tables */.schedule-table {
+        width: 100%;
+        border-collapse: collapse;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        background-color: #ffffff;
+        margin-top: 1.5em; /* Add some space above the table */
+        margin-bottom: 1.5em; /* Add some space below the table */
+    }.schedule-table th,.schedule-table td {
+        padding: 12px 15px;
+        text-align: left;
+        border-bottom: 1px solid #ddd;
+    }.schedule-table thead th {
+        /* Using the 'btn-info' blue to match site buttons */
+        background-color: #17a2b8; 
+        color: #ffffff;
+        font-weight: bold;
+    }.schedule-table tbody tr:nth-child(even) {
+        background-color: #f2f2f2;
+    }.schedule-table tbody tr:hover {
+        background-color: #e6f7ff;
+    }
 
-<table>
-  <thead>
-    <tr>
-      <th>  Start  </th>
-      <th>  End  </th>
-      <th>  Title  </th>
-    </tr>
-  </thead>
-  <tbody>
-    <!-- White rows -->
-    <tr style="background-color:#FFFFFF;">
-      <td>  09:30  </td>
-      <td>  09:45  </td>
-      <td>  Registration/Poster Set-up + Coffee  </td>
-    </tr>
-    <tr style="background-color:#FFFFFF;">
-      <td>  09:45  </td>
-      <td>  09:50  </td>
-      <td>  Opening Remarks  </td>
-    </tr>
+    /* Responsive adjustments */
+    @media (max-width: 600px) {.schedule-table thead {
+            display: none; /* Hide header on small screens */
+        }.schedule-table tr {
+            display: block;
+            margin-bottom: 10px;
+            border: 1px solid #ddd;
+        }.schedule-table td {
+            display: block;
+            text-align: right;
+            border-bottom: 1px dotted #ccc;
+        }.schedule-table td:before {
+            content: attr(data-label);
+            float: left;
+            font-weight: bold;
+            text-transform: uppercase;
+        }.schedule-table td:last-child {
+            border-bottom: 0;
+        }
+    }
 
-    <!-- Blue keynote rows -->
-    <tr style="background-color:#1F4E79; color:#FFFFFF;">
-      <td>  09:50  </td>
-      <td>  10:20  </td>
-      <td>  Invited Keynote Speaker – <strong>Mihaela van der Schaar</strong> (University of Cambridge)  </td>
-    </tr>
-    <tr style="background-color:#1F4E79; color:#FFFFFF;">
-      <td>  10:20  </td>
-      <td>  10:50  </td>
-      <td>  Invited Keynote Speaker – <strong>Kyle Lam</strong> (Imperial College London)  </td>
-    </tr>
-    <tr style="background-color:#1F4E79; color:#FFFFFF;">
-      <td>  10:50  </td>
-      <td>  11:20  </td>
-      <td>  Invited Keynote Speaker – <strong>Andrew Soltan</strong> (University of Oxford &amp; NHS)  </td>
-    </tr>
+    /* Styles for the session list */.session-list {
+        list-style-type: none;
+        padding-left: 0;
+    }.session-list li {
+        background: #f9f9f9;
+        border: 1px solid #eee;
+        padding: 12px 15px;
+        margin-bottom: 10px;
+    }.session-list li strong {
+        font-size: 1.05em;
+        display: block;
+        color: #333;
+    }
+</style>
 
-    <!-- Peach break row -->
-    <tr style="background-color:#F4B183;">
-      <td>  11:20  </td>
-      <td>  11:50  </td>
-      <td>  Coffee Break  </td>
-    </tr>
+## Event Schedule
 
-    <!-- Green accepted talks / lunch rows -->
-    <tr style="background-color:#A9D18E;">
-      <td>  11:50  </td>
-      <td>  12:20  </td>
-      <td>  Accepted Talks Pt. 1 – <strong>Agentic AI &amp; Clinical Decision Support</strong>  </td>
-    </tr>
-    <tr style="background-color:#A9D18E;">
-      <td>  12:20  </td>
-      <td>  13:20  </td>
-      <td>  Lunch  </td>
-    </tr>
-
-    <!-- Blue keynote rows -->
-    <tr style="background-color:#1F4E79; color:#FFFFFF;">
-      <td>  13:20  </td>
-      <td>  13:50  </td>
-      <td>  Invited Keynote Speaker – <strong>Tamara Suaris</strong> (Barts Health NHS Trust)  </td>
-    </tr>
-    <tr style="background-color:#1F4E79; color:#FFFFFF;">
-      <td>  13:50  </td>
-      <td>  14:20  </td>
-      <td>  Invited Keynote Speaker – <strong>Mobarak I Hoque</strong> (University of Manchester)  </td>
-    </tr>
-    <tr style="background-color:#1F4E79; color:#FFFFFF;">
-      <td>  14:20  </td>
-      <td>  14:50  </td>
-      <td>  Invited Keynote Speaker – <strong>Dr. Arijit Patra</strong> (UCB Biopharma UK)  </td>
-    </tr>
-
-    <!-- Peach break row -->
-    <tr style="background-color:#F4B183;">
-      <td>  14:50  </td>
-      <td>  15:20  </td>
-      <td>  Coffee Break  </td>
-    </tr>
-
-    <!-- Blue keynote row -->
-    <tr style="background-color:#1F4E79; color:#FFFFFF;">
-      <td>  15:20  </td>
-      <td>  15:50  </td>
-      <td>  Invited Keynote Speaker – <strong>Ricky Gondhia</strong> (Pulse AI Care Ltd)  </td>
-    </tr>
-
-    <!-- Green accepted talks rows -->
-    <tr style="background-color:#A9D18E;">
-      <td>  15:50  </td>
-      <td>  16:10  </td>
-      <td>  Accepted Talks Pt. 2 – <strong>Cancer Care, Monitoring &amp; Diagnostics</strong>  </td>
-    </tr>
-    <tr style="background-color:#A9D18E;">
-      <td>  16:10  </td>
-      <td>  16:30  </td>
-      <td>  Accepted Talks Pt. 3 – <strong>Imaging, Surgical &amp; Neonatal AI</strong>  </td>
-    </tr>
-
-    <!-- White panel / closing rows -->
-    <tr style="background-color:#FFFFFF;">
-      <td>  16:30  </td>
-      <td>  16:55  </td>
-      <td>  <strong>Panel Discussion + Q&amp;A</strong>  </td>
-    </tr>
-    <tr style="background-color:#FFFFFF;">
-      <td>  16:55  </td>
-      <td>  17:00  </td>
-      <td>  Closing Remarks  </td>
-    </tr>
-  </tbody>
+<table class="schedule-table">
+    <thead>
+        <tr>
+            <th>Start</th>
+            <th>End</th>
+            <th>Duration</th>
+            <th>Event</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td data-label="Start">09:30</td>
+            <td data-label="End">09:45</td>
+            <td data-label="Duration">15 mins</td>
+            <td data-label="Event">Registration/Poster Set-up + Coffee</td>
+        </tr>
+        <tr>
+            <td data-label="Start">09:45</td>
+            <td data-label="End">09:50</td>
+            <td data-label="Duration">5 mins</td>
+            <td data-label="Event">Opening Remarks</td>
+        </tr>
+        <tr>
+            <td data-label="Start">09:50</td>
+            <td data-label="End">10:20</td>
+            <td data-label="Duration">30 mins</td>
+            <td data-label="Event">Invited Keynote Speaker – Mihaela van der Schaar (University of Cambridge)</td>
+        </tr>
+        <tr>
+            <td data-label="Start">10:20</td>
+            <td data-label="End">10:50</td>
+            <td data-label="Duration">30 mins</td>
+            <td data-label="Event">Invited Keynote Speaker – Kyle Lam (Imperial College London)</td>
+        </tr>
+        <tr>
+            <td data-label="Start">10:50</td>
+            <td data-label="End">11:20</td>
+            <td data-label="Duration">30 mins</td>
+            <td data-label="Event">Invited Keynote Speaker – Andrew Soltan (University of Oxford &amp; NHS)</td>
+        </tr>
+        <tr>
+            <td data-label="Start">11:20</td>
+            <td data-label="End">11:50</td>
+            <td data-label="Duration">30 mins</td>
+            <td data-label="Event">Coffee Break</td>
+        </tr>
+        <tr>
+            <td data-label="Start">11:50</td>
+            <td data-label="End">12:20</td>
+            <td data-label="Duration">30 mins</td>
+            <td data-label="Event">Accepted Talks Pt. 1 – <strong>Agentic AI &amp; Clinical Decision Support</strong></td>
+        </tr>
+        <tr>
+            <td data-label="Start">12:20</td>
+            <td data-label="End">13:20</td>
+            <td data-label="Duration">60 mins</td>
+            <td data-label="Event">Lunch</td>
+        </tr>
+        <tr>
+            <td data-label="Start">13:20</td>
+            <td data-label="End">13:50</td>
+            <td data-label="Duration">30 mins</td>
+            <td data-label="Event">Invited Keynote Speaker – Tamara Suaris (Barts Health NHS Trust)</td>
+        </tr>
+        <tr>
+            <td data-label="Start">13:50</td>
+            <td data-label="End">14:20</td>
+            <td data-label="Duration">30 mins</td>
+            <td data-label="Event">Invited Keynote Speaker – Mobarak I Hoque (University of Manchester)</td>
+        </tr>
+        <tr>
+            <td data-label="Start">14:20</td>
+            <td data-label="End">14:50</td>
+            <td data-label="Duration">30 mins</td>
+            <td data-label="Event">Invited Keynote Speaker – Dr. Arijit Patra (UCB Biopharma UK)</td>
+        </tr>
+        <tr>
+            <td data-label="Start">14:50</td>
+            <td data-label="End">15:20</td>
+            <td data-label="Duration">30 mins</td>
+            <td data-label="Event">Coffee Break</td>
+        </tr>
+        <tr>
+            <td data-label="Start">15:20</td>
+            <td data-label="End">15:50</td>
+            <td data-label="Duration">30 mins</td>
+            <td data-label="Event">Invited Keynote Speaker – Ricky Gondhia (Pulse AI Care Ltd)</td>
+        </tr>
+        <tr>
+            <td data-label="Start">15:50</td>
+            <td data-label="End">16:10</td>
+            <td data-label="Duration">20 mins</td>
+            <td data-label="Event">Accepted Talks Pt. 2 – <strong>Cancer Care, Monitoring &amp; Diagnostics</strong></td>
+        </tr>
+        <tr>
+            <td data-label="Start">16:10</td>
+            <td data-label="End">16:30</td>
+            <td data-label="Duration">20 mins</td>
+            <td data-label="Event">Accepted Talks Pt. 3 – <strong>Imaging, Surgical &amp; Neonatal AI</strong></td>
+        </tr>
+        <tr>
+            <td data-label="Start">16:30</td>
+            <td data-label="End">16:55</td>
+            <td data-label="Duration">25 mins</td>
+            <td data-label="Event"><strong>Panel Discussion + Q&amp;A</strong></td>
+        </tr>
+        <tr>
+            <td data-label="Start">16:55</td>
+            <td data-label="End">17:00</td>
+            <td data-label="Duration">5 mins</td>
+            <td data-label="Event">Closing Remarks</td>
+        </tr>
+    </tbody>
 </table>
 
 
-## Accepted Talks
-### Pt. 1 — Agentic AI & Clinical Decision Support (3 × 10 mins)
-* Agentic AI for Healthcare: Collaborating with Humans, for Humans, and among Humans - Cheng Ouyang · University of Oxford
-* Human-Centered Decision Support for Sepsis Management - Manisha Dubey · University of Edinburgh
-* Checkup2Action: Prioritised Patient Action Cards from Clinical Check-up Reports -- Sike Xiang · Durham University
+<h3>Accepted Talks Pt. 1 — Agentic AI &amp; Clinical Decision Support (3 × 10 mins)</h3>
+<ul class="session-list">
+    <li>
+        <strong>Agentic AI for Healthcare: Collaborating with Humans, for Humans, and among Humans</strong><br>
+        Cheng Ouyang · University of Oxford
+    </li>
+    <li>
+        <strong>Human-Centered Decision Support for Sepsis Management</strong><br>
+        Manisha Dubey · University of Edinburgh
+    </li>
+    <li>
+        <strong>Checkup2Action: Prioritised Patient Action Cards from Clinical Check-up Reports</strong><br>
+        Sike Xiang · Durham University
+    </li>
+</ul>
 
-### Pt. 2 — Cancer Care, Monitoring & Diagnostics (2 × 10 mins)
-* MedIntel AI - Muhammad Samama Saleem
-* Experience-Guided Self-Adaptive Cascaded Agents for Breast Cancer Screening and Diagnosis - Joshua Strong · University of Oxford
+<h3>Accepted Talks Pt. 2 — Cancer Care, Monitoring &amp; Diagnostics (2 × 10 mins)</h3>
+<ul class="session-list">
+    <li>
+        <strong>MedIntel AI</strong><br>
+        Muhammad Samama Saleem
+    </li>
+    <li>
+        <strong>Experience-Guided Self-Adaptive Cascaded Agents for Breast Cancer Screening and Diagnosis</strong><br>
+        Joshua Strong · University of Oxford
+    </li>
+</ul>
 
-### Pt. 3 — Imaging, Surgical & Neonatal AI (2 × 10 mins)
-* OxSurGemma — A Surgical AI-Copilot for Laparoscopic Cholecystectomy - Felix Wagner · University of Oxford
-* Explainable Neonatal Pain Assessment: Computer Vision Challenges and Future Directions - Carlos Moreno-Garcia · Robert Gordon University
+<h3>Accepted Talks Pt. 3 — Imaging, Surgical &amp; Neonatal AI (2 × 10 mins)</h3>
+<ul class="session-list">
+    <li>
+        <strong>OxSurGemma — A Surgical AI-Copilot for Laparoscopic Cholecystectomy</strong><br>
+        Felix Wagner · University of Oxford
+    </li>
+    <li>
+        <strong>Explainable Neonatal Pain Assessment: Computer Vision Challenges and Future Directions</strong><br>
+        Carlos Moreno-Garcia · Robert Gordon University
+    </li>
+</ul>
 
 
 
