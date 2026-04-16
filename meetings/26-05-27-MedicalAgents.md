@@ -50,25 +50,120 @@ The British Machine Vision Association (BMVA) is pleased to announce a one-day T
 
 ## Programme
 
-| Start | End   | Title                                                                                                  |
-|-------|-------|--------------------------------------------------------------------------------------------------------|
-| 09:30 | 09:45 | Registration/Poster Set-up + Coffee                                                                    |
-| 09:45 | 09:50 | Opening Remarks                                                                                        |
-| 09:50 | 10:20 | Invited Keynote Speaker – **Mihaela van der Schaar** (University of Cambridge)                         |
-| 10:20 | 10:50 | Invited Keynote Speaker – **Kyle Lam** (Imperial College London)                                       |
-| 10:50 | 11:20 | Invited Keynote Speaker – **Andrew Soltan** (University of Oxford & NHS)                               |
-| 11:20 | 11:50 | Coffee Break                                                                                           |
-| 11:50 | 12:20 | Accepted Talks Pt. 1 – **Agentic AI & Clinical Decision Support**                                      |
-| 12:20 | 13:20 | Lunch                                                                                                  |
-| 13:20 | 13:50 | Invited Keynote Speaker – **Tamara Suaris** (Barts Health NHS Trust)                                   |
-| 13:50 | 14:20 | Invited Keynote Speaker – **Mobarak I Hoque** (University of Manchester)                               |
-| 14:20 | 14:50 | Invited Keynote Speaker – **Dr. Arijit Patra** (UCB Biopharma UK)                                      |
-| 14:50 | 15:20 | Coffee Break                                                                                           |
-| 15:20 | 15:50 | Invited Keynote Speaker – **Ricky Gondhia** (Pulse AI Care Ltd)                                        |
-| 15:50 | 16:10 | Accepted Talks Pt. 2 – **Cancer Care, Monitoring & Diagnostics**                                       |
-| 16:10 | 16:30 | Accepted Talks Pt. 3 – **Imaging, Surgical & Neonatal AI**                                             |
-| 16:30 | 16:55 | **Panel Discussion + Q&A**                                                                             |
-| 16:55 | 17:00 | Closing Remarks                                                                                        |
+<table>
+  <thead>
+    <tr>
+      <th>  Start  </th>
+      <th>  End  </th>
+      <th>  Title  </th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- White rows -->
+    <tr style="background-color:#FFFFFF;">
+      <td>  09:30  </td>
+      <td>  09:45  </td>
+      <td>  Registration/Poster Set-up + Coffee  </td>
+    </tr>
+    <tr style="background-color:#FFFFFF;">
+      <td>  09:45  </td>
+      <td>  09:50  </td>
+      <td>  Opening Remarks  </td>
+    </tr>
+
+    <!-- Blue keynote rows -->
+    <tr style="background-color:#1F4E79; color:#FFFFFF;">
+      <td>  09:50  </td>
+      <td>  10:20  </td>
+      <td>  Invited Keynote Speaker – <strong>Mihaela van der Schaar</strong> (University of Cambridge)  </td>
+    </tr>
+    <tr style="background-color:#1F4E79; color:#FFFFFF;">
+      <td>  10:20  </td>
+      <td>  10:50  </td>
+      <td>  Invited Keynote Speaker – <strong>Kyle Lam</strong> (Imperial College London)  </td>
+    </tr>
+    <tr style="background-color:#1F4E79; color:#FFFFFF;">
+      <td>  10:50  </td>
+      <td>  11:20  </td>
+      <td>  Invited Keynote Speaker – <strong>Andrew Soltan</strong> (University of Oxford &amp; NHS)  </td>
+    </tr>
+
+    <!-- Peach break row -->
+    <tr style="background-color:#F4B183;">
+      <td>  11:20  </td>
+      <td>  11:50  </td>
+      <td>  Coffee Break  </td>
+    </tr>
+
+    <!-- Green accepted talks / lunch rows -->
+    <tr style="background-color:#A9D18E;">
+      <td>  11:50  </td>
+      <td>  12:20  </td>
+      <td>  Accepted Talks Pt. 1 – <strong>Agentic AI &amp; Clinical Decision Support</strong>  </td>
+    </tr>
+    <tr style="background-color:#A9D18E;">
+      <td>  12:20  </td>
+      <td>  13:20  </td>
+      <td>  Lunch  </td>
+    </tr>
+
+    <!-- Blue keynote rows -->
+    <tr style="background-color:#1F4E79; color:#FFFFFF;">
+      <td>  13:20  </td>
+      <td>  13:50  </td>
+      <td>  Invited Keynote Speaker – <strong>Tamara Suaris</strong> (Barts Health NHS Trust)  </td>
+    </tr>
+    <tr style="background-color:#1F4E79; color:#FFFFFF;">
+      <td>  13:50  </td>
+      <td>  14:20  </td>
+      <td>  Invited Keynote Speaker – <strong>Mobarak I Hoque</strong> (University of Manchester)  </td>
+    </tr>
+    <tr style="background-color:#1F4E79; color:#FFFFFF;">
+      <td>  14:20  </td>
+      <td>  14:50  </td>
+      <td>  Invited Keynote Speaker – <strong>Dr. Arijit Patra</strong> (UCB Biopharma UK)  </td>
+    </tr>
+
+    <!-- Peach break row -->
+    <tr style="background-color:#F4B183;">
+      <td>  14:50  </td>
+      <td>  15:20  </td>
+      <td>  Coffee Break  </td>
+    </tr>
+
+    <!-- Blue keynote row -->
+    <tr style="background-color:#1F4E79; color:#FFFFFF;">
+      <td>  15:20  </td>
+      <td>  15:50  </td>
+      <td>  Invited Keynote Speaker – <strong>Ricky Gondhia</strong> (Pulse AI Care Ltd)  </td>
+    </tr>
+
+    <!-- Green accepted talks rows -->
+    <tr style="background-color:#A9D18E;">
+      <td>  15:50  </td>
+      <td>  16:10  </td>
+      <td>  Accepted Talks Pt. 2 – <strong>Cancer Care, Monitoring &amp; Diagnostics</strong>  </td>
+    </tr>
+    <tr style="background-color:#A9D18E;">
+      <td>  16:10  </td>
+      <td>  16:30  </td>
+      <td>  Accepted Talks Pt. 3 – <strong>Imaging, Surgical &amp; Neonatal AI</strong>  </td>
+    </tr>
+
+    <!-- White panel / closing rows -->
+    <tr style="background-color:#FFFFFF;">
+      <td>  16:30  </td>
+      <td>  16:55  </td>
+      <td>  <strong>Panel Discussion + Q&amp;A</strong>  </td>
+    </tr>
+    <tr style="background-color:#FFFFFF;">
+      <td>  16:55  </td>
+      <td>  17:00  </td>
+      <td>  Closing Remarks  </td>
+    </tr>
+  </tbody>
+</table>
+
 
 ## Accepted Talks
 ### Pt. 1 — Agentic AI & Clinical Decision Support (3 × 10 mins)
