@@ -14,18 +14,11 @@ organisers: Dr Vivek Singh - (Barts Cancer Institute, Queen Mary University of L
 <a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/events/rqa4fx2v">Register Here to Attend</a></strong></span>
 </div>
 
-<div class="alert mt-3 alert-info" style="text-align:center;">
-<span><strong>Sign up for an Expression of Interest to Present via this link:  &nbsp;&nbsp;
-<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/forms/rktgurfc">Register Here to present</a></strong></span>
-</div>
-
 <p style="text-align: center;">
 <a class="btn btn-info" role="button" href="mailto:a.gilbert@surrey.ac.uk">Queries? contact the Meeting's Organiser Andrew Gilbert here</a></p>
 
 ## Invited Speakers
 
-* Prof. Domenec Puig, Universitat Rovira i Virgili Spain
-Expert in computer vision, image processing, pattern recognition, machine learning and intelligent robotics research as a full professor and principal investigator 
 
 * Prof. Mihaela Van Der Schaar, University of Cambridge
 John Humphrey Plummer Professor of Machine Learning, AI, and Medicine at the University of Cambridge, where she is director of the Cambridge Centre for AI in Medicine (CCAIM), and a Chancellor's Professor of Electrical and Computer Engineering at the University of California, Los Angeles and is building next generation medical AI agents
@@ -45,58 +38,151 @@ Associate Professor (Senior Lecturer) in Multimodal Agentic AI for Healthcare, B
 * Dr. Harshita Sharma, Microsoft Research Lab - Cambridge
 Senior ML Researcher in the Biomedical Imaging team at Microsoft
 
+* Tamara Suaris (Barts Health NHS Trust)
+
+* Dr. Arijit Patra (UCB Biopharma UK)
 
 
-## Call for Presentations
+
+## Meeting Overview
 
 The British Machine Vision Association (BMVA) is pleased to announce a one-day Technical Meeting entitled **Advancing Medical Care with AI Agents.** This symposium brings together researchers, clinicians, and industry practitioners to explore how artificial intelligence, machine learning, and computer vision are transforming medical care, with a particular focus on oncology and surgery as clinically rich, challenging, and emerging application domains.
 
-Early deep learning methods were primarily developed for perceptual tasks, and their capacity to support clinical decision workflows remains limited: they often cannot reliably articulate clinical logic, incorporate broader patient context, or explicitly coordinate temporal and multimodal signals. Today, the landscape has broadened with the rise of **agentic LLM systems** that can orchestrate multiple specialist models and tools over medical images, integrate multimodal clinical context, generate and refine explanations, critique intermediate results, and enable interactive, clinician-in-the-loop decision support. In this setting, LLMs provide a complementary paradigm that couples strong perception with **tool-mediated grounding, structured orchestration, and dialogue-based explanation.** Rather than replacing established imaging models, they can augment them by connecting outputs across tools, surfacing clinically relevant context, and supporting interactive, transparent workflows.
+## Programme
 
-Such recent advances in AI agents, systems capable of perception, reasoning, and decision support within complex clinical environments, are enabling the integration of multimodal data and supporting medical workflows at scale. While cancer care and surgery serve as the central motivating use cases, the methods and insights discussed are expected to generalise across a broad range of disease areas, including cancer, neurological, cardiovascular, and chronic conditions.
-The symposium will feature state-of-the-art research, real-world clinical deployments, and translational perspectives from academia, industry, and Barts Health NHS Trust hospitals. Submissions addressing both methodological advances and applied clinical impact are encouraged.
+<table>
+  <thead>
+    <tr>
+      <th>Start</th>
+      <th>End</th>
+      <th>Title</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- White rows -->
+    <tr style="background-color:#FFFFFF;">
+      <td>09:30</td>
+      <td>09:45</td>
+      <td>Registration/Poster Set-up + Coffee</td>
+    </tr>
+    <tr style="background-color:#FFFFFF;">
+      <td>09:45</td>
+      <td>09:50</td>
+      <td>Opening Remarks</td>
+    </tr>
 
-**Topics of Interest include (but are not limited to):**
-* AI and computer vision for medical imaging (radiology, pathology, and computational imaging)
+    <!-- Blue keynote rows -->
+    <tr style="background-color:#1F4E79; color:#FFFFFF;">
+      <td>09:50</td>
+      <td>10:20</td>
+      <td>Invited Keynote Speaker – <strong>Mihaela van der Schaar</strong> (University of Cambridge)</td>
+    </tr>
+    <tr style="background-color:#1F4E79; color:#FFFFFF;">
+      <td>10:20</td>
+      <td>10:50</td>
+      <td>Invited Keynote Speaker – <strong>Kyle Lam</strong> (Imperial College London)</td>
+    </tr>
+    <tr style="background-color:#1F4E79; color:#FFFFFF;">
+      <td>10:50</td>
+      <td>11:20</td>
+      <td>Invited Keynote Speaker – <strong>Andrew Soltan</strong> (University of Oxford &amp; NHS)</td>
+    </tr>
 
-* Deep learning methods for detection, segmentation, and classification in healthcare
+    <!-- Peach break row -->
+    <tr style="background-color:#F4B183;">
+      <td>11:20</td>
+      <td>11:50</td>
+      <td>Coffee Break</td>
+    </tr>
 
-* AI agents for clinical decision support and workflow integration
+    <!-- Green accepted talks / lunch rows -->
+    <tr style="background-color:#A9D18E;">
+      <td>11:50</td>
+      <td>12:20</td>
+      <td>Accepted Talks Pt. 1 – <strong>Agentic AI &amp; Clinical Decision Support</strong></td>
+    </tr>
+    <tr style="background-color:#A9D18E;">
+      <td>12:20</td>
+      <td>13:20</td>
+      <td>Lunch</td>
+    </tr>
 
-* Multimodal learning integrating imaging, clinical records, genomics, and biomedical data
+    <!-- Blue keynote rows -->
+    <tr style="background-color:#1F4E79; color:#FFFFFF;">
+      <td>13:20</td>
+      <td>13:50</td>
+      <td>Invited Keynote Speaker – <strong>Tamara Suaris</strong> (Barts Health NHS Trust)</td>
+    </tr>
+    <tr style="background-color:#1F4E79; color:#FFFFFF;">
+      <td>13:50</td>
+      <td>14:20</td>
+      <td>Invited Keynote Speaker – <strong>Mobarak I Hoque</strong> (University of Manchester)</td>
+    </tr>
+    <tr style="background-color:#1F4E79; color:#FFFFFF;">
+      <td>14:20</td>
+      <td>14:50</td>
+      <td>Invited Keynote Speaker – <strong>Dr. Arijit Patra</strong> (UCB Biopharma UK)</td>
+    </tr>
 
-* Personalised and precision medicine, including treatment response prediction
+    <!-- Peach break row -->
+    <tr style="background-color:#F4B183;">
+      <td>14:50</td>
+      <td>15:20</td>
+      <td>Coffee Break</td>
+    </tr>
 
-* AI-driven treatment planning and therapy optimisation
+    <!-- Blue keynote row -->
+    <tr style="background-color:#1F4E79; color:#FFFFFF;">
+      <td>15:20</td>
+      <td>15:50</td>
+      <td>Invited Keynote Speaker – <strong>Ricky Gondhia</strong> (Pulse AI Care Ltd)</td>
+    </tr>
 
-* Artificial intelligence for drug discovery and translational medicine
+    <!-- Green accepted talks rows -->
+    <tr style="background-color:#A9D18E;">
+      <td>15:50</td>
+      <td>16:10</td>
+      <td>Accepted Talks Pt. 2 – <strong>Cancer Care, Monitoring &amp; Diagnostics</strong></td>
+    </tr>
+    <tr style="background-color:#A9D18E;">
+      <td>16:10</td>
+      <td>16:30</td>
+      <td>Accepted Talks Pt. 3 – <strong>Imaging, Surgical &amp; Neonatal AI</strong></td>
+    </tr>
 
-* Agent-based approaches for virtual screening and clinical trial optimisation
+    <!-- White panel / closing rows -->
+    <tr style="background-color:#FFFFFF;">
+      <td>16:30</td>
+      <td>16:55</td>
+      <td><strong>Panel Discussion + Q&amp;A</strong></td>
+    </tr>
+    <tr style="background-color:#FFFFFF;">
+      <td>16:55</td>
+      <td>17:00</td>
+      <td>Closing Remarks</td>
+    </tr>
+  </tbody>
+</table>
 
-* Responsible AI in healthcare: ethics, fairness, explainability, and robustness
+## Accepted Talks
+### Pt. 1 — Agentic AI & Clinical Decision Support (3 × 10 mins)
+* Agentic AI for Healthcare: Collaborating with Humans, for Humans, and among Humans - Cheng Ouyang · University of Oxford
+* Human-Centered Decision Support for Sepsis Management - Manisha Dubey · University of Edinburgh
+* Checkup2Action: Prioritised Patient Action Cards from Clinical Check-up Reports -- Sike Xiang · Durham University
 
-* Regulatory, validation, and deployment challenges in clinical settings
-* Real-world case studies of AI systems in cancer care and other disease domains
+### Pt. 2 — Cancer Care, Monitoring & Diagnostics (2 × 10 mins)
+* MedIntel AI - Muhammad Samama Saleem
+* Experience-Guided Self-Adaptive Cascaded Agents for Breast Cancer Screening and Diagnosis - Joshua Strong · University of Oxford
 
-The meeting aims to foster interdisciplinary dialogue and collaboration, supporting the responsible translation of AI technologies into routine clinical practice.
-Presentation Formats:
-* Talks
-* Posters
-* Demos
+### Pt. 3 — Imaging, Surgical & Neonatal AI (2 × 10 mins)
+* OxSurGemma — A Surgical AI-Copilot for Laparoscopic Cholecystectomy - Felix Wagner · University of Oxford
+* Explainable Neonatal Pain Assessment: Computer Vision Challenges and Future Directions - Carlos Moreno-Garcia · Robert Gordon University
 
 
 
 **Important:** This is an in-person event, with no virtual attendance option. We kindly ask all
 presenters to join us at the British Computer Society on the day.
 
-**Presentations can be either published work, or ongoing research**. 
-
-**The deadline for submitting a presentation is the 18th March 2026**
-
-<div class="alert mt-3 alert-info" style="text-align:center;">
-<span><strong>Sign up for an Expression of Interest to Present via this link:  &nbsp;&nbsp;
-<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/forms/rktgurfc">Register Here</a></strong></span>
-</div>
 
 ## Meeting Location
 
