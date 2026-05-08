@@ -20,8 +20,8 @@ organisers: Dr Vivek Singh - (Barts Cancer Institute, Queen Mary University of L
 ## Invited Speakers
 
 
-* Prof. Mihaela Van Der Schaar, University of Cambridge
-John Humphrey Plummer Professor of Machine Learning, AI, and Medicine at the University of Cambridge, where she is director of the Cambridge Centre for AI in Medicine (CCAIM), and a Chancellor's Professor of Electrical and Computer Engineering at the University of California, Los Angeles and is building next generation medical AI agents
+* Dr Kenza Bouzid, Microsoft
+Senior Applied Researcher
 
 * Prof. Kyle Lam, Imperial College London
 NIHR Academic Clinical Fellow in General Surgery, developing LLM-based agentic systems in medicine and healthcare
@@ -38,9 +38,9 @@ Associate Professor (Senior Lecturer) in Multimodal Agentic AI for Healthcare, B
 * Dr. Harshita Sharma, Microsoft Research Lab - Cambridge
 Senior ML Researcher in the Biomedical Imaging team at Microsoft
 
-* Tamara Suaris (Barts Health NHS Trust)
+* Tamara Suaris, Barts Health NHS Trust
 
-* Dr. Arijit Patra (UCB Biopharma UK)
+* Dr. Arijit Patra, UCB Biopharma UK
 
 
 
