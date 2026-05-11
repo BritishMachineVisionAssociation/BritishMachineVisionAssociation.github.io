@@ -24,8 +24,10 @@ organisers: Jingjing Liu (University of Bristol), Qianhui Men (University of Bri
 
 ## Invited Speakers
 
-Coming Soon
-* 
+
+* Prof. Hubert P. H. Shum (Durham University)
+* Prof. Hyung Jin Chang (University of Birmingham)
+* Dr Tengda Han (Google DeepMind) 
 
 
 ## Call for Presentations
