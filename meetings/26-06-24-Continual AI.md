@@ -14,11 +14,6 @@ organisers: Paris Giampouras (University of Warwick), Haoran Ni (University of W
 <a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/events/eh0h2gkk">Register Here to Attend</a></strong></span>
 </div>
 
-<div class="alert mt-3 alert-info" style="text-align:center;">
-<span><strong>Sign up for an Expression of Interest to Present via this link:  (Deadline 1st May) &nbsp;&nbsp;
-<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/forms/6wtwbvot">Register Here to present</a></strong></span>
-</div>
-
 <p style="text-align: center;">
 <a class="btn btn-info" role="button" href="mailto:a.gilbert@surrey.ac.uk">Queries? contact the Meeting's Organiser Andrew Gilbert here</a></p>
 
@@ -28,39 +23,59 @@ organisers: Paris Giampouras (University of Warwick), Haoran Ni (University of W
 * Jun Wang is a Professor of Computer Science at the University College London
 * Amos Storkey is a Professor of Machine Learning and Artificial Intelligence at the University of Edinburgh
 
-## Call for Presentations
+## Overview
 
-The British Machine Vision Association (BMVA) is pleased to announce a one-day Technical Meeting entitled "Continual AI: Learning to Adapt in a Continuous World". This symposium brings together researchers and industry practitioners to explore how artificial intelligence, machine learning, and computer vision models must continually adapt to the constant changes in real-world scenarios.
+We invite the community to attend the symposium and present their work that challenges the idea of static models by focusing on dynamic environments. Presentations may include both ongoing and published research that demonstrates model adaptation through modifications or adjustments to original weights. This can involve learning new concepts or tasks, effectively reusing previously learned weights, forgetting sensitive information or biases, and merging different sources of knowledge. The meeting aims to foster interdisciplinary dialogue and collaboration to support the responsible translation of AI technologies into real-world scenarios. 
 
-Most current AI research operates under the assumption that datasets are Independent and Identically Distributed (IID). This means that the distribution of the training set remains static and is always applicable to the test set. However, we live in a dynamic world where the environment is constantly changing, which can pose challenges to the generalisation capabilities of static models.
+## Schedule
 
-We invite the community to attend the symposium and present their work that challenges the idea of static models by focusing on dynamic environments. Presentations may include both ongoing and published research that demonstrates model adaptation through modifications or adjustments to original weights. This can involve learning new concepts or tasks, effectively reusing previously learned weights, forgetting sensitive information or biases, and merging different sources of knowledge.
+| Start 	|   	| End    	|   	| Title                                        	|
+|-------	|---	|--------	|---	|----------------------------------------------	|
+| 09:45 	|   	| 10:00  	|   	| Registration & Coffee           |         
+| 10:00 	|   	| 10:45 	|   	| Invited Keynote Speaker – **Jun Wang** (University College London) |
+| 10:45 	|   	| 11:30  	|   	| Accepted Talks Pt. 1   |   
+| 11:30 	|   	| 12:00  	|   	| Coffee Break                        	|
+| 12:00 	|   	| 13:00  	|   	| Accepted Talks Pt. 2   |   
+| 13:00 	|   	| 14:00  	|   	| Lunch       	|
+| 14:00 	|   	| 14:45  	|   	| Invited Keynote Speaker – **Georgina Cosma** (Loughborough University) |  
+| 14:45     |       | 15.15     |       | Coffee Break      |       
+| 15:15 	|   	| 16:00  	|   	| Invited Keynote Speaker – **Amos Storkey** (University of Edinburgh)|  
+| 16:00 	|   	| 16:45  	|   	| Accepted Talks Pt. 3   	|     
+| 16:45 	|   	| 17:00  	|   	| Closing Remarks                              	|
 
-Topics of Interest include (but are not limited to):
-* Continual Learning
-* Knowledge Transfer
-* Machine Unlearning
-* Federated Learning
-* Open-world learning
-* Neuroscience-inspired continual learning
-* Theory for continual learning
+### Accepted Talks
 
-The meeting aims to foster interdisciplinary dialogue and collaboration to support the responsible translation of AI technologies into real-world scenarios. Presentation Formats:
-* Invited Speakers
-* Talks
-* Demos
+12 min each + 3 mins questions
+
+### Accepted Talks Part 1: 
+**Luca Manneschi** - The University of Sheffield - From Signal Drift to Meta-Learning: Continual Adaptation in Neuromuscular Human–Machine Interfaces
+
+**Xin Feng** - University of Edinburgh - Restoring without Forgetting: Filter-level Continual Adaptation via Integrated Gradient Attribution
+
+**Adrian Bors** - University of York - Continual learning by means of generative A
+
+### Accepted Talks Part 2: 
+
+**Can Peng** - University of Oxford - Multi-Label Federated Learning under Label-Distribution Skew
+
+**Mamatha Thota** - University of Lincoln - Stable Drift: A Patient-Aware Replay Method for Continual Learning in Medical Imaging
+
+**Abhiroop Chatterjee** - Jadavpur University, Rochester Institute of Technology - CASPA: Graph-Structured Concept Anchors for Modality-Agnostic Adaptation in Vision–Language Models
+
+**Anoushka Harit** - University of Cambridge - EWC-Guided Diffusion Replay for Exemplar-Free Continual Learning in Medical Imaging
+
+
+### Accepted Talks Part 3: 
+**Vishal Thengane**- University of Surrey - COPE: Scene-Contextualized Incremental Few-Shot 3D Segmentation
+
+**Zhaohan Zhang** - Queen Mary University of London - Get confused cautiously: Textual sequence memorization erasure with selective entropy maximization
+
+**Anjie Le** - University of Oxford - POUR: A Provably Optimal Method for Unlearning Representation via Neural Collapse
+
 
 Important: This is an in-person event, with no virtual attendance option. We kindly ask all
 presenters to join us at the British Computer Society on the day.
 
-**Presentations can be either published work, or ongoing research**. 
-
-**The deadline for submitting a Expression of Interest to Present is the 1st  May 2026**
-
-<div class="alert mt-3 alert-info" style="text-align:center;">
-<span><strong>Sign up for an Expression of Interest to Present via this link:  &nbsp;&nbsp;
-<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/forms/6wtwbvot">Register Here</a></strong></span>
-</div>
 
 ## Meeting Location
 
@@ -79,7 +94,7 @@ Including lunch and refreshments for the day
 
 
 <div class="alert mt-3 alert-info" style="text-align:center;">
-<span><strong>Please register via charitysuite on this link: &nbsp;&nbsp;
+<span><strong>To attend  please register via charitysuite on this link: &nbsp;&nbsp;
 <a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/events/eh0h2gkk">Register Here</a></strong></span>
 </div>
 
