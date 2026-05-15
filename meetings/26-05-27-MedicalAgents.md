@@ -232,10 +232,6 @@ The British Machine Vision Association (BMVA) is pleased to announce a one-day T
         Cheng Ouyang · University of Oxford
     </li>
     <li>
-        <strong>Human-Centered Decision Support for Sepsis Management</strong><br>
-        Manisha Dubey · University of Edinburgh
-    </li>
-    <li>
         <strong>Checkup2Action: Prioritised Patient Action Cards from Clinical Check-up Reports</strong><br>
         Sike Xiang · Durham University
     </li>
