@@ -28,18 +28,40 @@ organisers: Jingjing Liu (University of Bristol), Qianhui Men (University of Bri
 * Prof. Hubert P. H. Shum (Durham University)
 * Prof. Hyung Jin Chang (University of Birmingham)
 * Dr Tengda Han (Google DeepMind) 
+* Dr Steven McDonagh (University of Edinburgh)
+* Dr Dandan Zhang (Imperial College London)
 
 
 ## Call for Presentations
 
-Coming Soon...
+We are delighted to invite researchers, engineers, clinicians, and practitioners from academia and industry to a one-day BMVA symposium dedicated to recent advances in Human Behaviour Understanding and its deployment in real-world environments.
+Recent progress in computer vision, multimodal AI, and large-scale learning has created new opportunities for understanding human behaviour from visual and multimodal data. At the same time, significant challenges remain in robustness, generalisation, interpretability, privacy, reliability, and deployment in unconstrained real-world settings. This symposium aims to bring together researchers working on both methodological advances and real-world applications, spanning computer vision, multimodal learning, embodied AI, healthcare, robotics, and assistive technologies.
+We welcome submissions related to the symposium themes, including early-stage research, ongoing projects, demos, previously published work, and recent results presented at leading conferences and journals.
 
-Important: This is an in-person event, with no virtual attendance option. We kindly ask all
-presenters to join us at the British Computer Society on the day.
+Topics of Interest include (but are not limited to):
+
+* AI and computer vision for human behaviour understanding (e.g., human pose, emotion, gaze, action, and activity understanding)
+* Foundation and large-scale models for human behaviour understanding
+* Vision-language-action models for embodied AI and human-robot interaction
+* Robustness, domain generalisation, and adaptation in unconstrained environments
+* Causal modelling, interpretability, and explainability in behaviour analysis
+* Multimodal learning integrating vision and other modalities
+* Uncertainty modelling, reliability, and safety in behaviour understanding systems
+* Privacy-preserving and federated learning approaches for human-centred systems
+* Dataset design, benchmarking, and evaluation protocols for real-world settings
+* Applications in healthcare, robotics, rehabilitation, assistive technologies, and accessibility
+* Responsible and human-centred AI: fairness, transparency, and ethical considerations
+* Real-world validation and deployment case studies
+
+Not sure if your topic fits? Please contact the chairs for guidance.
+
+Presentation formats include oral presentations and posters. Oral presentations are expected to be approximately 10 minutes in length. 
+
+We particularly encourage submissions from students and early-career researchers. 
 
 **Presentations can be either published work, or ongoing research**. 
 
-**The deadline for submitting a Expression of Interest to Present is the 25th July 2026**
+**The deadline for submitting a Expression of Interest to Present is the 15th July 2026**
 
 <div class="alert mt-3 alert-info" style="text-align:center;">
 <span><strong>Sign up for an Expression of Interest to Present via this link: (Deadline 15th July): &nbsp;&nbsp;
