@@ -24,8 +24,8 @@ organisers: Shanxin Yuan (Queen Mary, University of London)
 
 ## Invited Speakers
 
-Coming Soon
-* 
+* [Prof Greg Slabaugh](https://www.qmul.ac.uk/eecs/people/profiles/slabaughgreg.html), Queen Mary University of London
+* [Dr Zhixiang Chen](https://zchen06.github.io/), University of Sheffield
 
 
 ## Call for Presentations
