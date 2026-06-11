@@ -6,7 +6,7 @@ index: 1
 date: 2027-03-24
 meeting-title: "BMVA Symposium on Motion Intelligence"
 image: BMVAMeetingPlaceholderImg.png
-organisers: Shanxin Yuan (Queen Mary, University of London)
+organisers: Shanxin Yuan (Queen Mary, University of London), Prof Greg Slabaugh (Queen Mary University of London), Dr Zhixiang Chen (University of Sheffield)
 ---
 
 <div class="alert mt-3 alert-info" style="text-align:center;">
@@ -24,8 +24,7 @@ organisers: Shanxin Yuan (Queen Mary, University of London)
 
 ## Invited Speakers
 
-* [Prof Greg Slabaugh](https://www.qmul.ac.uk/eecs/people/profiles/slabaughgreg.html), Queen Mary University of London
-* [Dr Zhixiang Chen](https://zchen06.github.io/), University of Sheffield
+
 
 
 ## Call for Presentations
