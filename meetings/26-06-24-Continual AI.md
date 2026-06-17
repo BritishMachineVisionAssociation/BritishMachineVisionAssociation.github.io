@@ -60,15 +60,13 @@ We invite the community to attend the symposium and present their work that chal
 
 **Mamatha Thota** - University of Lincoln - Stable Drift: A Patient-Aware Replay Method for Continual Learning in Medical Imaging
 
-**Abhiroop Chatterjee** - Jadavpur University, Rochester Institute of Technology - CASPA: Graph-Structured Concept Anchors for Modality-Agnostic Adaptation in Vision–Language Models
-
 **Anoushka Harit** - University of Cambridge - EWC-Guided Diffusion Replay for Exemplar-Free Continual Learning in Medical Imaging
 
 
 ### Accepted Talks Part 3: 
 **Vishal Thengane**- University of Surrey - COPE: Scene-Contextualized Incremental Few-Shot 3D Segmentation
 
-**Zhaohan Zhang** - Queen Mary University of London - Get confused cautiously: Textual sequence memorization erasure with selective entropy maximization
+**Yaoyu Jin** - Queen Mary University of London - Fine-tuning Disrupts Edit Readout: A Mechanistic Perspective on Model Editing Robustness
 
 **Anjie Le** - University of Oxford - POUR: A Provably Optimal Method for Unlearning Representation via Neural Collapse
 
