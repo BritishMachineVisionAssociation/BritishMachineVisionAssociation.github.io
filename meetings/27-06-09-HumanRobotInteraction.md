@@ -24,9 +24,10 @@ organisers: Filippo Vella (Consiglio Nazionale delle Ricerche)
 
 ## Invited Speakers
 
-Coming Soon
-* 
-
+* [Prof Angelo Cangelosi](https://research.manchester.ac.uk/en/persons/angelo.cangelosi), University of Manchester — Professor of Machine Learning & Robotics
+* [Prof Yannis Demiris](https://profiles.imperial.ac.uk/y.demiris), Imperial College London — Professor in Human-Centred Robotics
+ 
+More coming Soon
 
 ## Call for Presentations
 
