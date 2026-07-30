@@ -24,7 +24,6 @@ organisers: Davide Moltisanti (University of Bath), Michael Wray (University of 
 
 ## Invited Speakers
 
-Coming Soon
 * [Oisin Mac Aodha](https://homepages.inf.ed.ac.uk/omacaod/), University of Edinburgh — Associate Professor in Machine Learning
 * [Elisa Ricci](https://eliricci.eu/), Trento University — Professor in Deep Visual Learning
 * [Stephan Alaniz](https://www.eml-munich.de/people/stephan-alaniz), Telecom Paris — Assistant Professor in the Multimedia group
