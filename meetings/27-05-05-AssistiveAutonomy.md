@@ -16,7 +16,7 @@ organisers:  Ram Ramamoorthy (University of Edinburgh), David Richardson (Univer
 
 <div class="alert mt-3 alert-info" style="text-align:center;">
 <span><strong>Sign up for an Expression of Interest to Present via this link: (Deadline 24th March 2027) &nbsp;&nbsp;
-<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/forms/95ca2s15">Register Here to present</a></strong></span>
+<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/forms/95ca2s15">Register Here to Present</a></strong></span>
 </div>
 
 <p style="text-align: center;">

@@ -16,7 +16,7 @@ organisers: Shanxin Yuan (Queen Mary, University of London), Prof Greg Slabaugh 
 
 <div class="alert mt-3 alert-info" style="text-align:center;">
 <span><strong>Sign up for an Expression of Interest to Present via this link: (Deadline 20th January) &nbsp;&nbsp;
-<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/forms/nyluksll">Register Here to present</a></strong></span>
+<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/forms/nyluksll">Register Here to Present</a></strong></span>
 </div>
 
 <p style="text-align: center;">

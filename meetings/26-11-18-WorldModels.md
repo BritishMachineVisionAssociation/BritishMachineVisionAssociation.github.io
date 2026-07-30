@@ -1,22 +1,22 @@
 ---
 layout: meeting
 type: One Day Meeting
-title: "Human Robot Interaction (9th June 2027) "
+title: "BMVA Symposium on World Models (18th November 2026) "
 index: 1
-date: 2027-06-09
-meeting-title: "Human Robot Interaction"
+date: 2026-11-18
+meeting-title: "BMVA Symposium on World Models"
 image: BMVAMeetingPlaceholderImg.png
-organisers: Filippo Vella (Consiglio Nazionale delle Ricerche)
+organisers: Silpa Vadakkeeveetil Sreelatha (University of Surrey)
 ---
 
 <div class="alert mt-3 alert-info" style="text-align:center;">
 <span><strong>Please register to attend on this link: &nbsp;&nbsp;
-<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/events/jhd0vrec">Register Here to Attend</a></strong></span>
+<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/x7zq2zvl">Register Here to Attend</a></strong></span>
 </div>
 
 <div class="alert mt-3 alert-info" style="text-align:center;">
-<span><strong>Sign up for an Expression of Interest to Present via this link: (Deadline 16th April 2027) &nbsp;&nbsp;
-<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/forms/qgecazlp">Register Here to Present</a></strong></span>
+<span><strong>Sign up for an Expression of Interest to Present via this link: (Deadline 20th January) &nbsp;&nbsp;
+<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/forms/zuvleapq">Register Here to Present</a></strong></span>
 </div>
 
 <p style="text-align: center;">
@@ -24,10 +24,8 @@ organisers: Filippo Vella (Consiglio Nazionale delle Ricerche)
 
 ## Invited Speakers
 
-* [Prof Angelo Cangelosi](https://research.manchester.ac.uk/en/persons/angelo.cangelosi), University of Manchester — Professor of Machine Learning & Robotics
-* [Prof Yannis Demiris](https://profiles.imperial.ac.uk/y.demiris), Imperial College London — Professor in Human-Centred Robotics
- 
-More coming Soon
+
+
 
 ## Call for Presentations
 
@@ -38,11 +36,11 @@ presenters to join us at the British Computer Society on the day.
 
 **Presentations can be either published work, or ongoing research**. 
 
-**The deadline for submitting a Expression of Interest to Present is the 16th April 2027**
+**The deadline for submitting a Expression of Interest to Present is the 30th September 2026**
 
 <div class="alert mt-3 alert-info" style="text-align:center;">
-<span><strong>Sign up for an Expression of Interest to Present via this link: (Deadline 16th April 2027): &nbsp;&nbsp;
-<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/forms/qgecazlp">Register Here</a></strong></span>
+<span><strong>Sign up for an Expression of Interest to Present via this link: (Deadline 30th September): &nbsp;&nbsp;
+<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/forms/zuvleapq">Register Here to Present</a></strong></span>
 </div>
 
 ## Meeting Location
@@ -63,7 +61,7 @@ Including lunch and refreshments for the day
 
 <div class="alert mt-3 alert-info" style="text-align:center;">
 <span><strong>Please register via charitysuite on this link: &nbsp;&nbsp;
-<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/events/jhd0vrec">Register Here</a></strong></span>
+<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/events/x7zq2zvl">Register Here</a></strong></span>
 </div>
 
 

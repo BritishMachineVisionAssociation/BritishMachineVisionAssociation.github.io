@@ -43,7 +43,7 @@ presenters to join us at the British Computer Society on the day.
 
 <div class="alert mt-3 alert-info" style="text-align:center;">
 <span><strong>Sign up for an Expression of Interest to Present via this link: &nbsp;&nbsp;
-<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/forms/bolgmspa">Register Here</a></strong></span>
+<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/forms/bolgmspa">Register Here to Present</a></strong></span>
 </div>
 
 ## Meeting Location

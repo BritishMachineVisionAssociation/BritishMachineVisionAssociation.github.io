@@ -42,7 +42,7 @@ presenters to join us at the British Computer Society on the day.
 
 <div class="alert mt-3 alert-info" style="text-align:center;">
 <span><strong>Sign up for an Expression of Interest to Present via this link: (Deadline 20th January): &nbsp;&nbsp;
-<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/forms/pn5j50o8">Register Here</a></strong></span>
+<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/forms/pn5j50o8">Register Here to Present</a></strong></span>
 </div>
 
 ## Meeting Location
