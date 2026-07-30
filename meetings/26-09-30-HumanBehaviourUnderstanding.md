@@ -45,7 +45,7 @@ Recent progress in computer vision, multimodal AI, and large-scale learning has 
 | 11:30 	|   	| 12:00  	|   	| Accepted Talks Pt. 2 (2 × 15 min: 12 min presentation + 3 min Q&A)  |   
 | 12:00 	|   	| 12:40  	|   	| Invited Keynote Speaker – **Hubert P. H. Shum** (Durham University)   |  
 | 12:40 	|   	| 13:40  	|   	| Lunch       	|
-| 13:40 	|   	| 14:20  	|   	| Invited Keynote Speaker – Steven McDonagh (University of Edinburgh) | 
+| 13:40 	|   	| 14:20  	|   	| Invited Keynote Speaker – **Steven McDonagh** (University of Edinburgh) | 
 | 14:20 	|   	| 15:05  	|   	| Accepted Talks Pt. 3 (3 × 15 min: 12 min presentation + 3 min Q&A)  |  
 | 15:05     |       | 15.35     |       | Coffee Break      |       
 | 15:35 	|   	| 16:15  	|   	| Invited Keynote Speaker – **Dandan Zhang** (Imperial College London)|  
