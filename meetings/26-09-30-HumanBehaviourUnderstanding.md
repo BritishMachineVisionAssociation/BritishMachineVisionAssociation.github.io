@@ -27,7 +27,7 @@ organisers: Jingjing Liu (University of Bristol), Qianhui Men (University of Bri
 
 * Prof. Hubert P. H. Shum (Durham University)
 * Prof. Hyung Jin Chang (University of Birmingham)
-* Dr Tengda Han (Google DeepMind) 
+* Dr Tengda Han (Google DeepMind/University of Oxford) 
 * Dr Steven McDonagh (University of Edinburgh)
 * Dr Dandan Zhang (Imperial College London)
 
