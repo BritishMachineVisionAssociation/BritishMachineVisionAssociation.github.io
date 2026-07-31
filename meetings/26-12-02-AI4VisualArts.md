@@ -1,9 +1,9 @@
 ---
 layout: meeting
 type: One Day Meeting
-title: "BMVA Symposium on AI for Visual Arts (2nd December 2026) "
+title: "BMVA Symposium on AI for Visual Arts (16th December 2026) "
 index: 1
-date: 2026-12-02
+date: 2026-12-16
 meeting-title: "BMVA Symposium on AI for Visual Arts"
 image: BMVAMeetingPlaceholderImg.png
 organisers: Dr Deblina Bhattacharjee, (University of Bath)
@@ -21,6 +21,12 @@ organisers: Dr Deblina Bhattacharjee, (University of Bath)
 
 <p style="text-align: center;">
 <a class="btn btn-info" role="button" href="mailto:a.gilbert@surrey.ac.uk">Queries? contact the Meeting's Organiser Andrew Gilbert here</a></p>
+
+
+<div class="alert mt-3 alert-info" style="text-align:center;">
+<span><strong>Note the Meeting Date is now 16th December &nbsp;&nbsp;
+</div>
+
 
 ## Invited Speakers
 
