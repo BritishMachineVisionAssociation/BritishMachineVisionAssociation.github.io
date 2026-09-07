@@ -24,7 +24,7 @@ organisers: Dr Deblina Bhattacharjee, (University of Bath)
 
 
 <div class="alert mt-3 alert-info" style="text-align:center;">
-<span><strong>Note the Meeting Date is now 16th December &nbsp;&nbsp;
+<span><strong>Note the Meeting Date is now 16th December &nbsp;&nbsp;</strong></span>
 </div>
 
 
