@@ -63,7 +63,7 @@ Recent progress in computer vision, multimodal AI, and large-scale learning has 
 
 ### Accepted Talks Part 2: 
 
-**Qiushuo Cheng** – Towards Vision-Based Quantification of Parkinsonian Turning Motion
+**Amirhossein Dadashzadeh** – Privacy-Preserving Computer Vision for In-Home Parkinson’s Monitoring
 
 **Lewis Dickson** – More Than a Hand-Waving Argument: Infant Hand Motion from Archival Video with SAM 3 and Optical Flow
 
