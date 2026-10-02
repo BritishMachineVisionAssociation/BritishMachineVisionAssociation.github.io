@@ -14,11 +14,6 @@ organisers: Silpa Vadakkeeveetil Sreelatha (University of Surrey), Adarsh Kappiy
 <a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/events/x7zq2zvl">Register Here to Attend</a></strong></span>
 </div>
 
-<div class="alert mt-3 alert-info" style="text-align:center;">
-<span><strong>Sign up for an Expression of Interest to Present via this link: (Deadline 30th September) &nbsp;&nbsp;
-<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/forms/zuvleapq">Register Here to Present</a></strong></span>
-</div>
-
 <p style="text-align: center;">
 <a class="btn btn-info" role="button" href="mailto:a.gilbert@surrey.ac.uk">Queries? contact the Meeting's Organiser Andrew Gilbert here</a></p>
 
@@ -33,31 +28,43 @@ organisers: Silpa Vadakkeeveetil Sreelatha (University of Surrey), Adarsh Kappiy
 * Amir Ghalamzan - University of Sheffield
 
 
-## Call for Presentations
+# Overview
+World models are learned predictive models of an environment and its dynamics that can act as an internal simulator for prediction, planning, and policy learning. Progress in world modeling has come from several directions: generative and interactive video models, latent predictive architectures, 3D and 4D scene representations, model-based reinforcement learning, and model predictive control for robots and vehicles.  Our speakers span foundations of generative and predictive modelling, video and perception at scale, interactive environments and games, 3D geometry and reconstruction, and robot manipulation and autonomous driving.
 
-World models are learned predictive models of an environment and its dynamics that can act as an internal simulator for prediction, planning, and policy learning. Progress in world modeling has come from several directions: generative and interactive video models, latent predictive architectures, 3D and 4D scene representations, model-based reinforcement learning, and model predictive control for robots and vehicles. These communities often publish in different venues, approach the problem with different assumptions, and sometimes use the same vocabulary to mean different things. This symposium aims to put these views in conversation by bringing in perspectives from both academia and industry. Our speakers span foundations of generative and predictive modelling, video and perception at scale, interactive environments and games, 3D geometry and reconstruction, and robot manipulation and autonomous driving. Alongside invited keynotes, this programme includes lightning talks and a poster session. We particularly encourage submissions from PhD students and early-career researchers.
+## Schedule
 
-Topics of interest include, but are not limited to:
-* Generative and interactive world models
-* Latent predictive world models
-* Model-based reinforcement learning and planning
-* 3D and 4D scene representation, geometric grounding
-* World models for robot manipulation and control
-* World models for autonomous driving
-* World model evaluation, interpretability, and benchmarking
-* Long-horizon consistency, memory, and controllability
-* Causal world models
+| Start 	|   	| End    	|   	| Title                                        	|
+|-------	|---	|--------	|---	|----------------------------------------------	|
+| 09:10 	|   	| 09:20  	|   	| Registration & Coffee           |  
+| 09:20 	|   	| 09:25  	|   	| Welcome and opening remarks           |        
+| 09:25 	|   	| 10:05 	|   	| Keynote Talk 1 — **Amir Bar** |
+|10:05      |   	|10:15	|   	|Lightning Talk 1 (8 minutes + 2 minutes Q&A) |
+|10:15      |   	|10:55	|   	|Keynote Talk 2 — **Viorica Pătrăucean** |
+|10:55      |   	|11:35	|   	|Morning Coffee Break + Poster Session |
+|11:35      |   	|12:15	|   	|Keynote Talk 3 — **Katja Hofmann** |
+|12:15      |   	|12:25	|   	|Lightning Talk 2 (8 minutes + 2 minutes Q&A)|
+|12:25      |   	|13:05	|   	|Keynote Talk 4 — **Niloy Mitra* |
+|13:05      |   	|13:55	|   	|Lunch |
+|13:55      |   	|14:35	|   	|Keynote Talk 5 — **Andrea Vedaldi** |
+|14:35      |   	|14:45	|   	|Lightning Talk 3 (8 minutes + 2 minutes Q&A) |
+|14:45      |   	|15:25	|   	|Keynote Talk 6 — **Amir Ghalamzan** |
+|15:25      |   	|15:55	|   	|Afternoon Coffee Break + Poster Session |
+|15:55      |   	|16:05	|   	|Lightning Talk 4 (8 minutes + 2 minutes Q&A) |
+|16:05      |   	|16:45	|   	|Keynote Talk 7 — **Vassia Simaiaki** |
+|16:45      |   	|16:55	|   	|Lightning Talk 5 (8 minutes + 2 minutes Q&A) |
+|16:55      |   	|17:00	|   	|Closing remarks |
+
+### Lightening Talks
+
+8 min each + 3 mins questions
+
+
+### Posters
+
+Please A1 Portrait if possible
+
 
 Important: This is an in-person event, with no virtual attendance option. We kindly ask all presenters to join us at the British Computer Society on the day.
-
-**Presentations can be either published work, or ongoing research**. 
-
-**The deadline for submitting a Expression of Interest to Present is the 30th September 2026**
-
-<div class="alert mt-3 alert-info" style="text-align:center;">
-<span><strong>Sign up for an Expression of Interest to Present via this link: (Deadline 30th September): &nbsp;&nbsp;
-<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/forms/zuvleapq">Register Here to Present</a></strong></span>
-</div>
 
 ## Meeting Location
 
