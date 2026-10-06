@@ -34,6 +34,19 @@ organisers: Jingjing Liu (University of Bristol), Qianhui Men (University of Bri
 
 ## Overview
 Recent progress in computer vision, multimodal AI, and large-scale learning has created new opportunities for understanding human behaviour from visual and multimodal data. At the same time, significant challenges remain in robustness, generalisation, interpretability, privacy, reliability, and deployment in unconstrained real-world settings. This symposium aims to bring together researchers working on both methodological advances and real-world applications, spanning computer vision, multimodal learning, embodied AI, healthcare, robotics, and assistive technologies.
+
+## Videos of Talks
+
+On our BMVA YouTube channel there are recorded talks of the slides and speaker from the day [here](https://www.youtube.com/playlist?list=PLOzQkLG93u_8)
+
+<div class="container">
+	<div class="row"><div class="col-xs-12 col-lg-10 mx-auto">
+		<div class="video-container">
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLOzQkLG93u_8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+		</div>
+	</div></div>
+</div>
+
 ## Schedule
 
 | Start 	|   	| End    	|   	| Title                                        	|
