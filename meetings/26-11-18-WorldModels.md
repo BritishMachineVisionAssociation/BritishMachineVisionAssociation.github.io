@@ -43,7 +43,7 @@ World models are learned predictive models of an environment and its dynamics th
 |10:55      |   	|11:35	|   	|Morning Coffee Break + Poster Session |
 |11:35      |   	|12:15	|   	|Keynote Talk 3 — **Katja Hofmann** |
 |12:15      |   	|12:25	|   	|Lightning Talk 2 (8 minutes + 2 minutes Q&A)|
-|12:25      |   	|13:05	|   	|Keynote Talk 4 — **Niloy Mitra* |
+|12:25      |   	|13:05	|   	|Keynote Talk 4 — **Niloy Mitra** |
 |13:05      |   	|13:55	|   	|Lunch |
 |13:55      |   	|14:35	|   	|Keynote Talk 5 — **Andrea Vedaldi** |
 |14:35      |   	|14:45	|   	|Lightning Talk 3 (8 minutes + 2 minutes Q&A) |
