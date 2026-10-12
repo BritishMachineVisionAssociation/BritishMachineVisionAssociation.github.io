@@ -38,19 +38,19 @@ World models are learned predictive models of an environment and its dynamics th
 | 09:10 	|   	| 09:20  	|   	| Registration & Coffee           |  
 | 09:20 	|   	| 09:25  	|   	| Welcome and opening remarks           |        
 | 09:25 	|   	| 10:05 	|   	| Keynote Talk 1 — **Amir Bar** |
-|10:05      |   	|10:15	|   	|Lightning Talk 1 - Jonathan Sadeghi — Are the Stochastic Dynamics of Video World Models Physically Calibrated?|
+|10:05      |   	|10:15	|   	|Lightning Talk 1 - **Jonathan Sadeghi** — Are the Stochastic Dynamics of Video World Models Physically Calibrated?|
 |10:15      |   	|10:55	|   	|Keynote Talk 2 — **Viorica Pătrăucean** |
-|10:55      |   	|11:35	|   	|Morning Coffee Break + Poster Session |
+|10:55      |   	|11:35	|   	|Morning Coffee Break + **Morning Poster Session** |
 |11:35      |   	|12:15	|   	|Keynote Talk 3 — **Katja Hofmann** |
-|12:15      |   	|12:25	|   	|Lightning Talk 2 - Farhad Bazyari — Measuring What World Models Forget in Bits|
+|12:15      |   	|12:25	|   	|Lightning Talk 2 - F**arhad Bazyari** — Measuring What World Models Forget in Bits|
 |12:25      |   	|13:05	|   	|Keynote Talk 4 — **Niloy Mitra** |
 |13:05      |   	|13:50	|   	|Lunch |
 |13:50      |   	|14:30	|   	|Keynote Talk 5 — **Andrea Vedaldi** |
-|14:30      |   	|14:40	|   	|Lightning Talk 3 Mirlan Karimov — Overcoming the Challenges of Driving World Models in High-Dimensional Semantic Spaces|
+|14:30      |   	|14:40	|   	|Lightning Talk 3  - **Mirlan Karimov** — Overcoming the Challenges of Driving World Models in High-Dimensional Semantic Spaces|
 |14:40      |   	|15:20	|   	|Keynote Talk 6 — **Amir Ghalamzan** |
-|15:20      |   	|16:00	|   	|Afternoon Coffee Break + Poster Session |
-|16:00      |   	|16:10	|   	|Lightning Talk 4 Tom Cashman — 3D Latent Memories for Geometrically-Consistent World Models|
-|16:10      |   	|16:10	|   	|Lightning Talk 5 - Zican Wang — Neural Voxel Dynamics: Learning Volumetric Feature Advection for 3D Physics in V-JEPA Latent Space |
+|15:20      |   	|16:00	|   	|Afternoon Coffee Break + **Afternoon Poster Session** |
+|16:00      |   	|16:10	|   	|Lightning Talk 4 - **Tom Cashman** — 3D Latent Memories for Geometrically-Consistent World Models|
+|16:10      |   	|16:10	|   	|Lightning Talk 5 - **Zican Wang** — Neural Voxel Dynamics: Learning Volumetric Feature Advection for 3D Physics in V-JEPA Latent Space |
 |16:20      |   	|17:00	|   	|Keynote Talk 7 — **Vassia Simaiaki** |
 |17:00      |   	|17:00	|   	|Closing remarks |
 
