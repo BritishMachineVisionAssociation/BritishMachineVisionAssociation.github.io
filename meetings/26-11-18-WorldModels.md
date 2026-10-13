@@ -63,26 +63,26 @@ World models are learned predictive models of an environment and its dynamics th
 Please A1 Portrait in size and dimension
 #### Morning Poster Session
 
-**Zican Wang** – Neural Voxel Dynamics: Learning Volumetric Feature Advection for 3D Physics in V-JEPA Latent Space
-**Aymen Mir** – Animatable Humans under Occlusion from YouTube Video
-**Xuanya Zhu** – How Latent Transition Geometry Matters for Planning in World Models
-**Mohamed Hamdi** – Handover of Control: Post-Training V-JEPA 2-AC to Finish With MPC What Model-Free RL Cannot
-**Moucheng Xu** – 4D-VQ-GAN: A World Model for Synthesizing Medical Scans at Any Time Point for Personalized Disease Progression
-**Julio Hurtado** – Framework for Continual Adaptation Under Physical Distribution Shift
-**Prajwal Gatti** – Gen2Balance: Generative Balancing for Long-Tailed Video Action Recognition
-**Ayoub Louaye Bouaziz** – HF-BWM: A General Framework for Predictive Modeling of Human Behavior
-**Tsun-Yi Yang** – World Models for Multi-Agent Systems: Simulation, Compute, and Memory****
+* **Zican Wang** – Neural Voxel Dynamics: Learning Volumetric Feature Advection for 3D Physics in V-JEPA Latent Space
+* **Aymen Mir** – Animatable Humans under Occlusion from YouTube Video
+* **Xuanya Zhu** – How Latent Transition Geometry Matters for Planning in World Models
+* **Mohamed Hamdi** – Handover of Control: Post-Training V-JEPA 2-AC to Finish With MPC What Model-Free RL Cannot
+* **Moucheng Xu** – 4D-VQ-GAN: A World Model for Synthesizing Medical Scans at Any Time Point for Personalized Disease Progression
+* **Julio Hurtado** – Framework for Continual Adaptation Under Physical Distribution Shift
+* **Prajwal Gatti** – Gen2Balance: Generative Balancing for Long-Tailed Video Action Recognition
+* **Ayoub Louaye Bouaziz** – HF-BWM: A General Framework for Predictive Modeling of Human Behavior
+* **Tsun-Yi Yang** – World Models for Multi-Agent Systems: Simulation, Compute, and Memory****
 
 #### Afternoon Poster Session
-**Jacob Lin** – Forecasting 3D Object Motion with Dense 3D Point Tracks
-**Ye Mao** – Multi-View World Foundation Model for Robotics Manipulation
-**Steven Davenport** – Adapt Before Acting: Just-in-Time Policy Updates Through Grounded Imagination
-**Andrew Knowles** – Qualifying Action-Conditioned JEPA World Models for Quadruped Navigation
-**Xuelong An** – Gödel-Clifford-Einthoven (G.C.E): Physics Simulator Driven SSL for Electrocardiograms
-**Venu Tammabatula** – A Patient Is Not a Point: Time-Anchored World Models for Clinical Deterioration in Blood Cancer
-**Burak Kizil** – From Text to Cinematic Physics: Bridging Action, Geometry, and World Models in Video Generation
-**Matthieu Ostertag** – World Models for Cross-Machine CNC Transfer under Partial Sensor Overlap
-**Kleyton da Costa** – Predictive Safety in Action-Conditioned World Models
+* **Jacob Lin** – Forecasting 3D Object Motion with Dense 3D Point Tracks
+* **Ye Mao** – Multi-View World Foundation Model for Robotics Manipulation
+* **Steven Davenport** – Adapt Before Acting: Just-in-Time Policy Updates Through Grounded Imagination
+* **Andrew Knowles** – Qualifying Action-Conditioned JEPA World Models for Quadruped Navigation
+* **Xuelong An** – Gödel-Clifford-Einthoven (G.C.E): Physics Simulator Driven SSL for Electrocardiograms
+* **Venu Tammabatula** – A Patient Is Not a Point: Time-Anchored World Models for Clinical Deterioration in Blood Cancer
+* **Burak Kizil** – From Text to Cinematic Physics: Bridging Action, Geometry, and World Models in Video Generation
+* **Matthieu Ostertag** – World Models for Cross-Machine CNC Transfer under Partial Sensor Overlap
+* **Kleyton da Costa** – Predictive Safety in Action-Conditioned World Models
 
 
 Important: This is an in-person event, with no virtual attendance option. We kindly ask all presenters to join us at the British Computer Society on the day.
