@@ -50,7 +50,7 @@ World models are learned predictive models of an environment and its dynamics th
 |14:40      |   	|15:20	|   	|Keynote Talk 6 — **Amir Ghalamzan** |
 |15:20      |   	|16:00	|   	|Afternoon Coffee Break + **Afternoon Poster Session** |
 |16:00      |   	|16:10	|   	|Lightning Talk 4 - **Tom Cashman** — 3D Latent Memories for Geometrically-Consistent World Models|
-|16:10      |   	|16:10	|   	|Lightning Talk 5 - **Zican Wang** — Neural Voxel Dynamics: Learning Volumetric Feature Advection for 3D Physics in V-JEPA Latent Space |
+|16:10      |   	|16:10	|   	|Lightning Talk 5 - **Sara Atito Ali Ahmed** — Beyond Scale Toward Structured Visual Foundation Models |
 |16:20      |   	|17:00	|   	|Keynote Talk 7 — **Vassia Simaiaki** |
 |17:00      |   	|17:00	|   	|Closing remarks |
 
