@@ -69,7 +69,6 @@ Please A1 Portrait in size and dimension
 * **Mohamed Hamdi** – Handover of Control: Post-Training V-JEPA 2-AC to Finish With MPC What Model-Free RL Cannot
 * **Moucheng Xu** – 4D-VQ-GAN: A World Model for Synthesizing Medical Scans at Any Time Point for Personalized Disease Progression
 * **Julio Hurtado** – Framework for Continual Adaptation Under Physical Distribution Shift
-* **Prajwal Gatti** – Gen2Balance: Generative Balancing for Long-Tailed Video Action Recognition
 * **Ayoub Louaye Bouaziz** – HF-BWM: A General Framework for Predictive Modeling of Human Behavior
 * **Tsun-Yi Yang** – World Models for Multi-Agent Systems: Simulation, Compute, and Memory****
 
