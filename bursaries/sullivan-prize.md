@@ -5,39 +5,39 @@ title: The Sullivan Doctoral Thesis Prize
 
 ## The Sullivan Doctoral Thesis Prize
 
-### Overview
+The Sullivan Doctoral Thesis Prize celebrates the best PhD thesis in computer vision completed at a UK university. The British Machine Vision Association (BMVA) funds the prize of £750 each year in memory of the late Professor Geoff Sullivan. The winner is announced each year, and the award is presented at the British Machine Vision Conference (BMVC).
 
-The Sullivan Thesis Prize celebrates early stage researchers working in the field of computer vision and related areas in the United Kingdom. The prize will be presented at the annual British Machine Vision Conference (BMVC) conference dinner. The prize fund is provided by the British Machine Vision Association (BMVA) to commemorate the contribution made by the late Professor Geoff Sullivan.
+### Who can apply
 
-### Acceptance Criteria
+You can apply if you passed your PhD viva at a university in the United Kingdom between 1 September 2026 and 31 August 2027. We use the date of your successful viva, shown on the signed examiners' reports. Your thesis can be on any topic covered by the current BMVC call for papers.
 
-We welcome submissions from anyone who has submitted their PhD thesis at a university in the United Kingdom between September 1, 2025, and August 31, 2026. Any topic that is applicable under the current BMVC call for papers is valid.
+### What to submit
 
-### Submission
+Please submit the following through CMT:
 
-Candidates must submit:
+1. **A summary of your thesis**, at most two pages. Explain the main ideas, the main technical results, why the work matters, and any real world uses.
+2. **Your full PhD thesis** as a PDF, or a link if the file is large.
+3. **Proof that you passed your viva.** Send either a recommendation letter from your external examiner, or both the pre viva and post viva reports.
 
--	A structured summary (max 2 pages) that specifically addresses:
-    - The key theoretical contributions of the thesis
-    - The main technical achievements
-    - The impact and significance of the work
-    - Any practical applications or implementations
--	Digital copy of their completed PhD Thesis
--	Either a recommendation letter from the external examiner OR both pre-viva and post-viva reports
+You may also include a short statement from your supervisor, but this is optional. A report from your internal examiner is also welcome, but not required.
 
-Please submit evidence in PDF format, or provide an accessible link. If any of the evidence is confidential please get permission before submitting.
+Please send all files as PDFs, or give a link we can open. If any file is confidential, please get permission before you send it. By applying, you agree that the BMVA may host your thesis in its public thesis archive.
 
-Submissions should be made using CMT: [https://cmt3.research.microsoft.com/SullivanThesisPrize2026](https://cmt3.research.microsoft.com/SullivanThesisPrize2026).
+**Apply here:** [CMT submission page](https://cmt3.research.microsoft.com/SullivanThesisPrize2027)
 
-**Submission deadline: 18 September 2026**
+**Deadline: 17 September 2027**
 
-### Award process
+### How we choose the winner
 
-After the submission deadline, each application will be assessed by a panel of experts from academia and industry. Applications will be marked across a broad range of criteria including originality, academic/industrial impact, breadth and depth.
+The Sullivan Thesis Prize Chairs assess every application. They weigh the strength of each candidate's research record alongside the novelty and significance of the thesis. We tell all applicants the result before BMVC.
 
-### Any Questions?
+### What the winner receives
 
-Please email Sullivan Thesis Prize Chairs at [Dr Alex Mackin](mailto:acmackin@amazon.co.uk).
+The winner receives £750 and free registration for BMVC, so they can attend and collect the award in person. If the winner cannot attend, we send the certificate by email.
+
+### Questions
+
+Please email the Sullivan Thesis Prize Chairs at [Dr Alex Mackin](mailto:acmackin@amazon.co.uk).
 
 ### Previous Award Winners Photos
 
@@ -77,6 +77,7 @@ Please email Sullivan Thesis Prize Chairs at [Dr Alex Mackin](mailto:acmackin@am
 </thead>
 <tbody>
 
+<tr><td align="left">2026</td><td align="left">Subhadeep Koley</td><td align="left">University of Surrey</td><td align="left"><a href="https://bmva-archive.org.uk/theses/2026/2026-koley.pdf">Democratising Sketch-based Vision Applications via Foundation Models</a></td></tr>
 <tr><td align="left">2025</td><td align="left">Alberto Pepe</td><td align="left">University of Cambridge</td><td align="left"><a href="https://bmva-archive.org.uk/theses/2025/2025-pepe.pdf">Machine Learning with Geometric Algebra: Multivectors for Modelling, Understanding and Computing</a></td></tr>
 <tr><td align="left">2024</td><td align="left">Liliane Momeni</td><td align="left">University of Oxford</td><td align="left"><a href="https://bmva-archive.org.uk/theses/2024/2024_Liliane_Momeni.pdf">Sign Language Understanding using Multimodal Learning</a></td></tr>
 <tr><td align="left">2022</td><td align="left">Shangzhe Wu</td><td align="left">University of Oxford</td><td align="left"><a href="https://bmva-archive.org.uk/theses/2022/2022_Shangzhe_Wu.pdf">Unsupervised Learning of 3D Objects in the Wild</a></td></tr>
@@ -109,31 +110,4 @@ Localisation, 3D Reconstruction and Pathplanning</a></td></tr>
 </tbody>
 </table>
 <hr />
-*Note: The 2023 prize was not awarded. From 2024 onwards, the prize will be awarded annually.*
-
-### Regulations
-
-- The prize of £750 is considered for presentation annually for the best
-  doctoral thesis.
-
-- Submissions must be in the broad areas of computer vision, including
-  computational studies of natural vision.
-
-- The submission period is by calendar year.
-
-- Valid submission dates are based on the date of the successful viva voce
-  exam, as evidenced by the signed examiners' reports.
-
-- Submissions must be in electronic form. The thesis must first be submitted
-  into the [thesis archive]({{ site.baseurl }}/theses). Other submission materials
-  should be emailed to the [BMVA Chair](mailto:chair@bmva.org).
-   
-- Accompanying the thesis should be a supporting statement from the research
-  supervisor and a recommendation from the external examiner, including the
-  examiner's report.  These should be in PDF form.
-
-- Each submission will be assessed by independent reviewers who will be
-  appointed by the selection panel.
-
-### Acknowledgements
-The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
+*Note: The 2023 prize was not awarded.*
