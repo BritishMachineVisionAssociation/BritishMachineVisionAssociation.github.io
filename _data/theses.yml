@@ -1,4 +1,59 @@
 # Theses
+- title: "Democratising Sketch-based Vision Applications via Foundation Models"
+  author: "Subhadeep Koley"
+  institution: "University of Surrey"
+  date: 2026-01-30
+  pdf-link: "theses/2026/2026-koley.pdf"
+- title: "Dynamic 3D Reconstruction from Stereo Videos"
+  author: "Junpeng Jing"
+  institution: "Imperial College London"
+  date: 2026-03-01
+  pdf-link: "theses/2026/2026-jing.pdf"
+- title: "Interactive and Dynamic World Modelling"
+  author: "Zhening Huang"
+  institution: "University of Cambridge"
+  date: 2026-09-01
+  pdf-link: "theses/2026/2026-huang.pdf"
+- title: "Explainable Deep Learning for Multi-Stain and Multimodal Computational Pathology in Autoimmune Diseases"
+  author: "Amaya Gallagher-Syed"
+  institution: "Queen Mary University of London"
+  date: 2025-11-14
+  pdf-link: "theses/2026/2026-gallagher-syed.pdf"
+- title: "Neuromorphic Computing and Vision for Interactive Robotics"
+  author: "Muhammad Aitsam"
+  institution: "Sheffield Hallam University"
+  date: 2026-09-01
+  pdf-link: "theses/2026/2026-aitsam.pdf"
+- title: "The Red Queen and the Golden Age: Empirical Evaluations of Frontier Foundation Models in an Era of Rapid Progress"
+  author: "Jonathan Roberts"
+  institution: "University of Cambridge"
+  date: 2026-09-01
+  pdf-link: "theses/2026/2026-roberts.pdf"
+- title: "Tracking in Egocentric Videos: Cameras, Hands, Objects and Points"
+  author: "Ahmad Darkhalil"
+  institution: "University of Bristol"
+  date: 2026-03-17
+  pdf-link: "theses/2026/2026-darkhalil.pdf"
+- title: "Human-Centric Perception and Understanding: From Human Pose to Actions and Interactions"
+  author: "Haoxuan Qu"
+  institution: "Lancaster University"
+  date: 2026-08-01
+  pdf-link: "theses/2026/2026-qu.pdf"
+- title: "Comparing and Representing Visual Datasets with Foundation Models"
+  author: "Benjamin Ramtoula"
+  institution: "University of Oxford"
+  date: 2026-04-21
+  pdf-link: "theses/2026/2026-ramtoula.pdf"
+- title: "Leveraging Multimodal Data for Egocentric Video Understanding"
+  author: "Jacob Chalk"
+  institution: "University of Bristol"
+  date: 2025-12-03
+  pdf-link: "theses/2026/2026-chalk.pdf"
+- title: "Photorealistic Feed-Forward 3D Reconstruction and Generation From Few Images"
+  author: "Stanislaw Szymanowicz"
+  institution: "University of Oxford"
+  date: 2026-09-01
+  pdf-link: "theses/2026/2026-szymanowicz.pdf"
 - title: "Machine Learning with Geometric Algebra: Multivectors for Modelling, Understanding and Computing"
   author: "Alberto Pepe"
   institution: "University of Cambridge"
