@@ -66,7 +66,6 @@ Please A1 Portrait in size and dimension
 * **Zican Wang** – Neural Voxel Dynamics: Learning Volumetric Feature Advection for 3D Physics in V-JEPA Latent Space
 * **Aymen Mir** – Animatable Humans under Occlusion from YouTube Video
 * **Xuanya Zhu** – How Latent Transition Geometry Matters for Planning in World Models
-* **Mohamed Hamdi** – Handover of Control: Post-Training V-JEPA 2-AC to Finish With MPC What Model-Free RL Cannot
 * **Moucheng Xu** – 4D-VQ-GAN: A World Model for Synthesizing Medical Scans at Any Time Point for Personalized Disease Progression
 * **Julio Hurtado** – Framework for Continual Adaptation Under Physical Distribution Shift
 * **Ayoub Louaye Bouaziz** – HF-BWM: A General Framework for Predictive Modeling of Human Behavior
