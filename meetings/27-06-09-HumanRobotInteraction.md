@@ -1,10 +1,10 @@
 ---
 layout: meeting
 type: One Day Meeting
-title: "Human Robot Interaction (9th June 2027) "
+title: "Human Robot Interaction and World Models(9th June 2027) "
 index: 1
 date: 2027-06-09
-meeting-title: "Human Robot Interaction"
+meeting-title: "Human Robot Interaction and World Models"
 image: BMVAMeetingPlaceholderImg.png
 organisers: Filippo Vella (Consiglio Nazionale delle Ricerche)
 ---
@@ -29,14 +29,24 @@ organisers: Filippo Vella (Consiglio Nazionale delle Ricerche)
 
 ## Call for Presentations
 
-World models have proven useful in many robotic tasks, where robots act in an environment whose evolution prediction enables effective solutions. In general, world models predict the transition from the current state to the next as a consequence of a given action. These models can be employed in multiple settings and can be formulated in  different ways.
+The Human robot interaction hinges on the creation of a synergy between human and an embodied artificial intelligence. When humans and robots share a physical space, their collaboration requires more than coordinated actions: it calls for shared goals, mutual understanding, and planning that account for each partner’s capabilities, intentions and constraints
 
-While generic generative models are, in general, able to successfully produce outputs from natural language prompt (e.g., generating a sonnet, writing a report, creating an image), interaction with the physical world is considerably more challenging due to the continuous evolution of the environment and the incomplete knowledge of the future states.
+Successful  collaboration requires each partner to understand what the other can do and how their actions may unfold. Robots must therefore consider both their own actions and those of their human partners, anticipating how these actions influence one another and adapting as tasks and environments change. Recent advances in deep learning and cognitive robotics—including world models, vision-language models, and vision-language-action models—offer promising approaches to predicting future states and supporting this adaptive coordination.
 
-The predictions provided by the current world models, identify  a subset of the possible states and they drive the agent behaviour according to the learnt evolutions. World model that are implemented both as explicit and as implicit models, for example through a subsymbolic representation,  provide an useful evolution in multiple experimental setting.
+World models are increasingly being explored as a means of representing complex environments, anticipating the consequences of actions, and guiding decisions under uncertainty. Whether learned explicitly or encoded implicitly, these models offer opportunities to move beyond static representations toward systems that can respond to evolving situations. Their integration with models that connect language, perception, and action raises important questions about how robots can understand human behaviour and participate effectively in shared activities.
 
-Important: This is an in-person event, with no virtual attendance option. We kindly ask all
-presenters to join us at the British Computer Society on the day.
+How should these models evolve to support human–robot collaboration? Can structured predictive representations and joint representations of language, vision, and action help robots reason about human intentions, anticipate their partners’ needs, and adapt to changing tasks? How can these capabilities be evaluated in realistic interactions?
+
+We invite contributions that investigate these questions through theoretical, methodological, and empirical work. Topics of interest include:
+
+- World models for the outcomes of joint activities.
+- Vision-language and vision-language-action models for collaborative robotics.
+- Representations of shared goals, partner capabilities, intentions, and uncertainty.
+- Human-aware planning, coordination, and adaptation in dynamic environments.
+- Learning and updating models through interaction with human partners.
+- Evaluation methods and benchmarks for predictive accuracy, adaptability, and collaboration quality.
+
+Our aim is to bring together researchers exploring how predictive and large models can support more capable, responsive, and context-sensitive human–robot interaction.
 
 **Presentations can be either published work, or ongoing research**. 
 

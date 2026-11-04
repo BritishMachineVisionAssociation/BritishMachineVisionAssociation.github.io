@@ -42,7 +42,7 @@ World models are learned predictive models of an environment and its dynamics th
 |10:15      |   	|10:55	|   	|Keynote Talk 2 — **Viorica Pătrăucean** |
 |10:55      |   	|11:35	|   	|Morning Coffee Break + **Morning Poster Session** |
 |11:35      |   	|12:15	|   	|Keynote Talk 3 — **Katja Hofmann** |
-|12:15      |   	|12:25	|   	|Lightning Talk 2 - F**arhad Bazyari** — Measuring What World Models Forget in Bits|
+|12:15      |   	|12:25	|   	|Lightning Talk 2 - **Zican Wang** – Neural Voxel Dynamics: Learning Volumetric Feature Advection for 3D Physics in V-JEPA Latent Space|
 |12:25      |   	|13:05	|   	|Keynote Talk 4 — **Niloy Mitra** |
 |13:05      |   	|13:50	|   	|Lunch |
 |13:50      |   	|14:30	|   	|Keynote Talk 5 — **Andrea Vedaldi** |
@@ -63,17 +63,17 @@ World models are learned predictive models of an environment and its dynamics th
 Please A1 Portrait in size and dimension
 #### Morning Poster Session
 
-* **Zican Wang** – Neural Voxel Dynamics: Learning Volumetric Feature Advection for 3D Physics in V-JEPA Latent Space
 * **Aymen Mir** – Animatable Humans under Occlusion from YouTube Video
 * **Xuanya Zhu** – How Latent Transition Geometry Matters for Planning in World Models
 * **Moucheng Xu** – 4D-VQ-GAN: A World Model for Synthesizing Medical Scans at Any Time Point for Personalized Disease Progression
 * **Julio Hurtado** – Framework for Continual Adaptation Under Physical Distribution Shift
 * **Ayoub Louaye Bouaziz** – HF-BWM: A General Framework for Predictive Modeling of Human Behavior
 * **Tsun-Yi Yang** – World Models for Multi-Agent Systems: Simulation, Compute, and Memory****
-
-#### Afternoon Poster Session
 * **Jacob Lin** – Forecasting 3D Object Motion with Dense 3D Point Tracks
 * **Ye Mao** – Multi-View World Foundation Model for Robotics Manipulation
+
+#### Afternoon Poster Session
+
 * **Steven Davenport** – Adapt Before Acting: Just-in-Time Policy Updates Through Grounded Imagination
 * **Andrew Knowles** – Qualifying Action-Conditioned JEPA World Models for Quadruped Navigation
 * **Xuelong An** – Gödel-Clifford-Einthoven (G.C.E): Physics Simulator Driven SSL for Electrocardiograms
