@@ -5,19 +5,62 @@ title: The Sullivan Doctoral Thesis Prize
 
 ## The Sullivan Doctoral Thesis Prize
 
-The Sullivan Doctoral Thesis Prize celebrates the best PhD thesis in computer vision completed at a UK university. The British Machine Vision Association (BMVA) funds the prize of £750 each year in memory of the late Professor Geoff Sullivan. The winner is announced each year, and the award is presented at the British Machine Vision Conference (BMVC).
+The Sullivan Doctoral Thesis Prize celebrates the best PhD thesis in computer vision completed at a UK university. The British Machine Vision Association (BMVA) funds the prize each year in memory of the late Professor Geoff Sullivan. Awards are presented at the British Machine Vision Conference (BMVC).
+
+**Apply through the [CMT submission page](https://cmt3.research.microsoft.com/SullivanThesisPrize2027) by 17 September 2027.** Full details of what to send are below.
+
+### Questions
+
+If you have any questions, or would like to talk through whether your thesis is suitable, we are happy to hear from you. Please email the Sullivan Thesis Prize Chairs at [Dr Alex Mackin](mailto:acmackin@amazon.co.uk).
 
 ### Who can apply
 
 You can apply if you passed your PhD viva at a university in the United Kingdom between 1 September 2026 and 31 August 2027. We use the date of your successful viva, shown on the signed examiners' reports. Your thesis can be on any topic covered by the current BMVC call for papers.
 
-### What to submit
+### Prizes
+
+The winner receives £1,000 and free registration for BMVC to attend and collect the award in person. We also give prizes of up to £500 to theses that are strong in a particular area, such as their originality or their real-world impact.
+
+The winner writes a short plain-language summary of their work, about 200 words, which we publish on this page. Commended candidates are welcome to do the same.
+
+Every thesis that is submitted is added to the BMVA's public thesis archive, a lasting and citable record of your work. We also endeavour to give every entrant a short note of feedback on their thesis.
+
+### How we choose
+
+The Sullivan Thesis Prize Chairs consider every thesis and judge its overall quality. The list below shows the qualities we look for. It is a guide, not a scoring formula, and each Chair weighs the qualities in their own way.
+
+We publish the list so you know what to expect. It is not a set of targets to write towards. We judge the research itself.
+
+| What we look for | What it means |
+|---|---|
+| Originality and novelty | Genuinely new ideas, methods, or framing, not a derivative extension |
+| Significance and impact | How much the problem matters and how far the work influences the field or real-world practice |
+| Rigour and soundness | Correct, careful method; fair baselines; honest reporting |
+| Reproducibility and openness | Released code, data, and models, and results others can verify |
+| Contribution to the field | A lasting advance in the field |
+| Clarity and presentation | A clear, well-argued account of the problem and the findings |
+| Breadth and scope | Engagement with prior work and an appropriate scope for the thesis |
+
+Each Chair reads and judges the theses alone first. We then discuss them together and agree the result. We tell every applicant the outcome before BMVC.
+
+### Using AI
+
+You may use AI tools, but the main ideas, analysis, and conclusions must be your own. Tell us how you used AI, and include a signed declaration that the work is your own. What matters is what the AI did, not which tool you used:
+
+- **Fine:** help with language, formatting, or translation.
+- **Fine, if you disclose it and check the result:** AI that helped shape your analysis, framing, or method.
+- **Not allowed:** presenting AI-generated ideas, analysis, or conclusions as your own, or inventing data, results, or references.
+
+We do not use AI detectors. We rely on your declaration, your supervisor's statement, the examiners' reports, and whether your results can be reproduced.
+
+### What to send
 
 Please submit the following through CMT:
 
-1. **A summary of your thesis**, at most two pages. Explain the main ideas, the main technical results, why the work matters, and any real world uses.
+1. **A summary of your thesis**, at most two pages. Explain the main ideas, the main technical results, why the work matters, and any real world uses. List your main publications (no more than ten) and, for any with co-authors, say what you did.
 2. **Your full PhD thesis** as a PDF, or a link if the file is large.
 3. **Proof that you passed your viva.** Send either a recommendation letter from your external examiner, or both the pre viva and post viva reports.
+4. **Your AI statement and declaration** (see "Using AI" above).
 
 You may also include a short statement from your supervisor, but this is optional. A report from your internal examiner is also welcome, but not required.
 
@@ -27,19 +70,7 @@ Please send all files as PDFs, or give a link we can open. If any file is confid
 
 **Deadline: 17 September 2027**
 
-### How we choose the winner
-
-The Sullivan Thesis Prize Chairs assess every application. They weigh the strength of each candidate's research record alongside the novelty and significance of the thesis. We tell all applicants the result before BMVC.
-
-### What the winner receives
-
-The winner receives £750 and free registration for BMVC, so they can attend and collect the award in person. If the winner cannot attend, we send the certificate by email.
-
-### Questions
-
-Please email the Sullivan Thesis Prize Chairs at [Dr Alex Mackin](mailto:acmackin@amazon.co.uk).
-
-### Previous Award Winners Photos
+### Photos of past winners
 
 <div class="row">
 <div class="col-md-6 col-12">
@@ -58,7 +89,7 @@ Please email the Sullivan Thesis Prize Chairs at [Dr Alex Mackin](mailto:acmacki
 </div>
 </div>
 
-### Previous winners
+### Past winners
 
 <table style="width:100%;" class="table">
 <colgroup>
