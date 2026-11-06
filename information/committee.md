@@ -33,13 +33,13 @@ The current ExCo is as follows:
 | Social Media | Dr Guang Yang |
 | Newsletter Editor |  |
 | BMVA Mailing List | Prof Richard Bowden| 
-| BMVC 2024 | Dr Gerado Aragon Camarasa |
-|           | Dr Edmond Ho  |
 | BMVC 2025 | Dr Steve Maddock |
 |           | Prof Jungong Han |
 |           | Dr Jefersson Alex dos Santos |
 | BMVC 2026 | Dr Bryan Williams |
 |           | Jun Liu |
+| BMVC 2027 | Prof Michael Yang |
+|           | Dr Davide Moltisanti |
 | MIUA conference coordinator | Dr Tryphon Lambrou |
 | Summer School | Dr Tryphon Lambrou |
 |               | Dr Carlos Moreno-Garcia |
