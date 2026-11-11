@@ -76,7 +76,6 @@ Please A1 Portrait in size and dimension
 
 * **Steven Davenport** – Adapt Before Acting: Just-in-Time Policy Updates Through Grounded Imagination
 * **Andrew Knowles** – Qualifying Action-Conditioned JEPA World Models for Quadruped Navigation
-* **Xuelong An** – Gödel-Clifford-Einthoven (G.C.E): Physics Simulator Driven SSL for Electrocardiograms
 * **Venu Tammabatula** – A Patient Is Not a Point: Time-Anchored World Models for Clinical Deterioration in Blood Cancer
 * **Burak Kizil** – From Text to Cinematic Physics: Bridging Action, Geometry, and World Models in Video Generation
 * **Matthieu Ostertag** – World Models for Cross-Machine CNC Transfer under Partial Sensor Overlap
