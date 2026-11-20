@@ -5,7 +5,7 @@ title: "BMVA Symposium on AI for Visual Arts (16th December 2026) "
 index: 1
 date: 2026-12-16
 meeting-title: "BMVA Symposium on AI for Visual Arts"
-image: BMVAMeetingPlaceholderImg.png
+image: AI4VisualArtsImg.jpg
 organisers: Dr Deblina Bhattacharjee, (University of Bath)
 ---
 
@@ -14,10 +14,6 @@ organisers: Dr Deblina Bhattacharjee, (University of Bath)
 <a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/events/m2osjegq">Register Here to Attend</a></strong></span>
 </div>
 
-<div class="alert mt-3 alert-info" style="text-align:center;">
-<span><strong>Sign up for an Expression of Interest to Present via this link: (Deadline 14th October) &nbsp;&nbsp;
-<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/forms/pn5j50o8">Register Here to present</a></strong></span>
-</div>
 
 <p style="text-align: center;">
 <a class="btn btn-info" role="button" href="mailto:a.gilbert@surrey.ac.uk">Queries? contact the Meeting's Organiser Andrew Gilbert here</a></p>
@@ -30,52 +26,49 @@ organisers: Dr Deblina Bhattacharjee, (University of Bath)
 
 ## Invited Speakers
 
-* Prof. Yi-Zhe Song, University of Surrey 
-* Prof. Neill Campbell, University College 
-* Dr Aaron Hertzmann, Adobe Research (TBC) 
-* Prof. Marcus du Sautoy OBE, University of Oxford (TBC) 
-*  Dr Anna Breger, Cambridge ArCH Project Speaker (TBC)
+* [Niloy Mitra](https://profiles.ucl.ac.uk/31667-niloy-mitra), University College London (Professor of Geometry Processing) 
+* [Yi-Zhe Song](https://www.surrey.ac.uk/people/yi-zhe-song), University of Surrey (Professor of Computer Vision and Machine Learning, SketchX Lab) 
+* [Neill Campbell](https://www.ndfcampbell.org/), University College London / University of Bath (Professor of Visual 
+Computing and Machine Learning, Director of CAMERA; Chair of the BMVA Executive Committee) 
+* [Tom Vincent](https://www.watershed.co.uk/people/tom-vincent), film archivist, formerly Archivist at Aardman Animations 
+
+## Overview
+
+This symposium brings together researchers, artists, curators and industry practitioners working on how AI, machine learning and computer vision are changing the visual arts. It is the UK chapter of the international AI4VA event series. Presentations can be published work or ongoing research, with the aim of sharing recent work, getting feedback and sparking discussion around three themes: creative content generation, cultural heritage, and the animation and creative industries. 
+
+## Schedule
+
+| Start 	|   	| End    	|   	| Title                                        	|
+|-------	|---	|--------	|---	|----------------------------------------------	|
+| 09:00 	|   	| 09:15  	|   	| Registration, Coffee & Poster setup           |  
+| 09:15 	|   	| 09:20  	|   	| Open remarks
+| 09:20.    |.      | 10:15.    |       | Invited Speaker 1: **Niloy Mitra **(University College London) |
+| 10:15.    |.      | 10:50.    |.      | . Coffee break + posters  |
+| 10:50.    |.      | 11:45.    |.      | Invited Speaker 2: **Yi-Zhe Song **(University of Surrey)  |
+| 11:45.    |.      | 12:40.    |.      | Invited Speaker 3: **Neill Campbell **(University College London / University of Bath) |
+| 12:40.    |.      | 13:40.    |.      | Lunch and Posters |
+| 13:40.    |.      |.15:00.    |.      | Accepted talks (4 × 15 min) |
+| 15:00.    |.      | 15:35.    |.      | Coffee break and Posters |
+| 15:35.    |.      | 16:30.    |.      | Invited Speaker 4: **Tom Vincent **(formerly Aardman Animations) |
+| 16:30.    |.      | 17:00.    |.      | Panel discussion and closing remarks  |
+
+## Talks (15 minutes each and 5 minutes questions) 
+* Learning-based Vector Graphics Generation – **Yukun Lai** (Cardiff University) 
+* Osmia VP: Low-cost Virtual Production with Gaussian Splatting – **Helena Raymond-Hayling** (BBC Research & Development) 
+* When Sculpture Speaks: Designing Immersive AI-Augmented Experiences for Cultural Heritage – **Jarek Francik** (Kingston University) 
+* Art, Identity, and AI: Navigating Authenticity in Creative Practice – **Makayla Lewis** (Kingston University) 
+
+Talk presenters also present a poster – see Presentation Instructions below. 
+
+## Posters 
+* Unified Number-Free Text-to-Motion Generation via Flow Matching – **Guanhe Huang** (King's College London) 
+* The Human as Value Function: Agent-Native Creative Systems Guided by Perceptual Feedback – **Nathaniel Gibson** (independent researcher) 
+* Visual Representational Fidelity in Text-to-Image Models: A Case Study of Slovak Folk Demonology – **Martina Kuchtova **(Pavol Jozef Šafárik University in Košice) 
+* Manual Sketching: Why is it Still Relevant? – Revisited – **Makayla Lewis **(Kingston University) 
+* XAIxArts Manifesto: Explainable AI for the Arts – **Makayla Lewis** (Kingston University) 
+* Demo: Osmia VP virtual production system – **BBC Research & Development **
 
 
-## Call for Presentations
-
-The British Machine Vision Association (BMVA) is pleased to announce a one-day Technical Meeting entitled AI for Visual Arts (AI4VA). This symposium brings together researchers, artists, curators, and industry practitioners to explore how artificial intelligence, machine learning, and computer vision are reshaping the visual arts, with particular attention to creative content generation, cultural heritage, and the animation and creative industries as artistically rich, technically challenging, and rapidly evolving application domains. This symposium is the UK chapter of the international AI4VA event series, held in conjunction with leading computer vision conferences.
-
-Conventional deep learning methods for images were largely developed around photorealistic data and perceptual benchmarks. Their ability to handle the abstraction, stylisation, and semantic complexity of artistic imagery remains limited: they struggle with non-photorealistic content, cannot reliably interpret narrative structure in visual art, and often fail to generalise across the diverse visual vocabularies found in paintings, comics, illustrations, and sculpture. Meanwhile, generative models have made striking progress in producing novel visual content, but questions of controllability, provenance, authorship, and alignment with artistic intent remain wide open.
-
-At the same time, the landscape has broadened considerably. Large vision-language models can now describe and compare about artworks. Sketch-based interfaces are enabling more intuitive human-AI co-creation. Computer vision tools are being deployed in museums and archives to digitise, transcribe, and reconstruct fragmented cultural objects. Neural rendering and 3D generation are opening new possibilities for animation and visual effects pipelines. Rather than replacing artistic practice, these methods can augment it, connecting perception with creative intent, surfacing cultural context, and supporting interactive, transparent workflows.
-
-While creative content generation and cultural heritage serve as central motivating use cases, the methods and insights discussed are expected to generalise across a broad range of creative and analytical domains, including animation, game design, architectural visualisation, and cultural history. The symposium will feature keynote talks from leading researchers, contributed presentations, poster and demo sessions, and a panel discussion. Submissions addressing both methodological advances and applied creative or cultural impact are encouraged.
-
-## Topics of Interest
-Topics of interest include (but are not limited to):
-*	Generative models for visual art, illustration, and design
-*	Sketch-based interfaces and sketch-to-image or sketch-to-video generation
-*	AI for animation, character rigging, in-betweening, and visual effects
-*	Robust segmentation, depth estimation, and saliency detection in stylised imagery
-*	Perception under abstraction: how vision models interpret non-photorealistic content
-*	Computer vision for cultural heritage: digitisation, reconstruction, transcription, and restoration
-*	Vision-language alignment in art interpretation and narrative understanding
-*	Multimodal learning integrating vision, language, and creative intent
-*	Neural rendering, NeRFs, and 3D Gaussian splatting for creative applications
-*	Human-AI co-creation, controllability, and artist-in-the-loop systems
-*	Provenance tracking, watermark robustness, and authenticity verification
-*	AI in the creative industries: games, film, advertising, fashion, and architecture
-*	Image composition for visual arts
-*	Style transfer, art authentication, and computational art analysis
-*	Ethics, authorship, copyright, and societal dimensions of AI-generated art
-*	Real-world case studies of AI systems in art, museums, and creative production
-
-## Invited Speakers
-**Prof. Yi-Zhe Song**, University of Surrey Professor of Computer Vision and AI at the Centre for Vision Speech and Signal Processing (CVSSP). Leads the SketchX Lab, an internationally recognised group working on sketch understanding, sketch-based retrieval, and AI-powered creative tools. Co-Director of the Surrey Institute for People-Centred AI and Alan Turing Institute Academic Lead at Surrey. Associate Editor of IEEE TPAMI and IJCV.
-
-**Prof. Neill Campbell**, University College London Chair of the BMVA Executive Committee and Professor of Visual Computing and Machine Learning. Director of CAMERA (Centre for the Analysis of Motion, Entertainment Research and Applications), applying visual computing to entertainment, health, and sports science. Leads a pathfinder for the £46 million MyWorld creative technologies programme. 
-
-**Dr Aaron Hertzmann**, Adobe Research (TBC) Principal Scientist at Adobe. ACM Fellow, IEEE Fellow, and recipient of the ACM SIGGRAPH Computer Graphics Achievement Award. Has published extensively on non-photorealistic rendering, computational photography, and the question of whether computers can create art, including a 2023 article in Science on generative AI and art. Previously at Pixar Animation Studios, Microsoft Research, and the University of Toronto.
-
-**Prof. Marcus du Sautoy OBE**, University of Oxford (TBC) Simonyi Professor for the Public Understanding of Science and Professor of Mathematics. Author of The Creativity Code: Art and Innovation in the Age of AI, a widely read exploration of machine creativity across music, painting, and literature. Presenter of numerous BBC documentaries on mathematics and AI.
-
-**Dr Anna Breger**, Cambridge ArCH Project Speaker (TBC) A speaker from the AI for Cultural Heritage Hub (ArCH) at the University of Cambridge, funded by ai@cam and the Accelerate Programme for Scientific Discovery. The project applies computer vision, language models, and machine learning across six case studies in Cambridge’s galleries, libraries, archives, and museums, including AI transcription of catalogue cards, reconstruction of ancient papyrus fragments, and analysis of Mesoamerican manuscripts.
 
 
 Important: This is an in-person event, with no virtual attendance option. We kindly ask all
