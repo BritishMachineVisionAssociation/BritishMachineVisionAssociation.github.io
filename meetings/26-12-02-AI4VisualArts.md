@@ -42,14 +42,14 @@ This symposium brings together researchers, artists, curators and industry pract
 |-------	|---	|--------	|---	|----------------------------------------------	|
 | 09:00 	|   	| 09:15  	|   	| Registration, Coffee & Poster setup           |  
 | 09:15 	|   	| 09:20  	|   	| Open remarks
-| 09:20.    |.      | 10:15.    |       | Invited Speaker 1: **Niloy Mitra **(University College London) |
+| 09:20.    |.      | 10:15.    |       | Invited Speaker 1: **Niloy Mitra** (University College London) |
 | 10:15.    |.      | 10:50.    |.      | . Coffee break + posters  |
-| 10:50.    |.      | 11:45.    |.      | Invited Speaker 2: **Yi-Zhe Song **(University of Surrey)  |
-| 11:45.    |.      | 12:40.    |.      | Invited Speaker 3: **Neill Campbell **(University College London / University of Bath) |
+| 10:50.    |.      | 11:45.    |.      | Invited Speaker 2: **Yi-Zhe Song** (University of Surrey)  |
+| 11:45.    |.      | 12:40.    |.      | Invited Speaker 3: **Neill Campbell** (University College London / University of Bath) |
 | 12:40.    |.      | 13:40.    |.      | Lunch and Posters |
 | 13:40.    |.      |.15:00.    |.      | Accepted talks (4 × 15 min) |
 | 15:00.    |.      | 15:35.    |.      | Coffee break and Posters |
-| 15:35.    |.      | 16:30.    |.      | Invited Speaker 4: **Tom Vincent **(formerly Aardman Animations) |
+| 15:35.    |.      | 16:30.    |.      | Invited Speaker 4: **Tom Vincent** (formerly Aardman Animations) |
 | 16:30.    |.      | 17:00.    |.      | Panel discussion and closing remarks  |
 
 ## Talks (15 minutes each and 5 minutes questions) 
@@ -63,25 +63,13 @@ Talk presenters also present a poster – see Presentation Instructions below.
 ## Posters 
 * Unified Number-Free Text-to-Motion Generation via Flow Matching – **Guanhe Huang** (King's College London) 
 * The Human as Value Function: Agent-Native Creative Systems Guided by Perceptual Feedback – **Nathaniel Gibson** (independent researcher) 
-* Visual Representational Fidelity in Text-to-Image Models: A Case Study of Slovak Folk Demonology – **Martina Kuchtova **(Pavol Jozef Šafárik University in Košice) 
-* Manual Sketching: Why is it Still Relevant? – Revisited – **Makayla Lewis **(Kingston University) 
+* Visual Representational Fidelity in Text-to-Image Models: A Case Study of Slovak Folk Demonology – **Martina Kuchtova** (Pavol Jozef Šafárik University in Košice) 
+* Manual Sketching: Why is it Still Relevant? – Revisited – **Makayla Lewis**(Kingston University) 
 * XAIxArts Manifesto: Explainable AI for the Arts – **Makayla Lewis** (Kingston University) 
-* Demo: Osmia VP virtual production system – **BBC Research & Development **
-
-
-
+* Demo: Osmia VP virtual production system – **BBC Research & Development**
 
 Important: This is an in-person event, with no virtual attendance option. We kindly ask all
 presenters to join us at the British Computer Society on the day.
-
-**Presentations can be either published work, or ongoing research**. 
-
-**The deadline for submitting a Expression of Interest to Present is the 14th October**
-
-<div class="alert mt-3 alert-info" style="text-align:center;">
-<span><strong>Sign up for an Expression of Interest to Present via this link: (Deadline 14th October): &nbsp;&nbsp;
-<a class="btn btn-warning" role="button" href="https://bmva.charitysuite.com/forms/pn5j50o8">Register Here to Present</a></strong></span>
-</div>
 
 ## Meeting Location
 
