@@ -31,6 +31,18 @@ organisers: Silpa Vadakkeeveetil Sreelatha (University of Surrey), Adarsh Kappiy
 # Overview
 World models are learned predictive models of an environment and its dynamics that can act as an internal simulator for prediction, planning, and policy learning. Progress in world modeling has come from several directions: generative and interactive video models, latent predictive architectures, 3D and 4D scene representations, model-based reinforcement learning, and model predictive control for robots and vehicles.  Our speakers span foundations of generative and predictive modelling, video and perception at scale, interactive environments and games, 3D geometry and reconstruction, and robot manipulation and autonomous driving.
 
+## Videos of Talks
+
+On our BMVA YouTube channel there are recorded talks of the slides and speaker from the day [here](https://www.youtube.com/playlist?list=ELMHY_DvNwBvAqwm)
+
+<div class="container">
+	<div class="row"><div class="col-xs-12 col-lg-10 mx-auto">
+		<div class="video-container">
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=ELMHY_DvNwBvAqwm" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+		</div>
+	</div></div>
+</div>
+
 ## Schedule
 
 | Start 	|   	| End    	|   	| Title                                        	|
