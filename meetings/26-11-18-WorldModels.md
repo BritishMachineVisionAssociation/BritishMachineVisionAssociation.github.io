@@ -33,12 +33,12 @@ World models are learned predictive models of an environment and its dynamics th
 
 ## Videos of Talks
 
-On our BMVA YouTube channel there are recorded talks of the slides and speaker from the day [here](https://www.youtube.com/playlist?list=ELMHY_DvNwBvAqwm)
+On our BMVA YouTube channel there are recorded talks of the slides and speaker from the day [here](https://www.youtube.com/playlist?list=PLcZ7EVS6i_-k)
 
 <div class="container">
 	<div class="row"><div class="col-xs-12 col-lg-10 mx-auto">
 		<div class="video-container">
-			<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=ELMHY_DvNwBvAqwm" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLcZ7EVS6i_-k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 		</div>
 	</div></div>
 </div>
