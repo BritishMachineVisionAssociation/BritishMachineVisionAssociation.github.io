@@ -1,10 +1,10 @@
 ---
 layout: meeting
 type: One Day Meeting
-title: "Haosen (8th September 2027) "
+title: "Frontier Model Understanding (8th September 2027) "
 index: 1
 date: 2027-09-08
-meeting-title: "Haosen"
+meeting-title: "Frontier Model Understanding"
 image: BMVAMeetingPlaceholderImg.png
 organisers: Haosen Yang, Xiatian Zhu (University of Surrey)
 ---
