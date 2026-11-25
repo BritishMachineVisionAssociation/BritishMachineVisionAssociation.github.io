@@ -5,7 +5,7 @@ title: Adrian Hilton
 
 ## Adrian Hilton
 
-![Adrian Hilton](2024-hilton.jpg "Adrian Hilton")
+![Adrian Hilton](2025-hilton.jpg "Adrian Hilton")
 
 Every year the BMVA bestows the title of Distinguished Fellow of the BMVA on an individual in recognition of their services to the British machine vision community. Tonight it is my great privilege to introduce the awardee for 2025, Professor Adrian Hilton.
 
