@@ -52,6 +52,7 @@ Please submit this [Google Form](https://forms.gle/3Cb62btZVrH1G7F3A) to make a 
 + [2022: Alison Noble]({{ site.baseurl }}{% link fellowship/2022-noble.md %})
 + [2023: Andrew Davison]({{ site.baseurl }}{% link fellowship/2023-davison.md %})
 + [2024: Adrian Clark]({{ site.baseurl }}{% link fellowship/2024-clark.md %})
++ [2025: Adrian Hilton]({{ site.baseurl }}{% link fellowship/2025-hilton.md %})
 
 <!-- ### Nominations
 
